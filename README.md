@@ -49,26 +49,41 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 
 ### Mobile Application Development for Reward Pedagogy Research | 2024  
   *BSc Computing Science Undergraduate | Singapore Institute of Technology & University of Glasgow*  
-
-![Uni Capstone Front End Interface](./assets/images/uni_capstone_interface.png)
-
-For this project, I developed a mobile app to support reward-based systems in education, enhancing student motivation and engagement. The solution enables educators and parents to manage tasks and rewards like stars, hearts, and diamonds, with separate portals for each. Parents can assign tasks and rewards, while children track progress and redeem rewards. The platform aims to improve learning dynamics and contribute to more engaging educational strategies. Built using React Native or Flutter, the application ensures a seamless mobile experience with a scalable, robust backend.
-
 <details>
-  <summary>Technical Details</summary>
- 
-  ### Solution Architecture
- 
-  ### Tech Stack
-  - **Front End (Android Mobile)**: Flutter, Dart, Material UI
-  - **Back End (API Server)**: Django, Python
-  - **Database**: MySQL
-    
-  <img src="./assets/images/uni_capstone_arch.png" alt="Uni Capstone Architecture Design" />
-  <img src="./assets/images/uni_capstone_arch_indepth.png" alt="Uni Capstone Architecture Design Indepth" />
+  <summary>Project Details</summary>
 
+  <strong>Client</strong>: Prof. Peter C Y Yau (University of Glasgow)
+
+  <img src="./assets/images/uni_capstone_interface.png" alt="Uni Capstone Front End Interface" />
+
+  <p>This full stack project developed a mobile app to support reward-based systems in education, boosting student motivation and involvement. The solution lets teachers and parents handle tasks and rewards like stars, hearts, and diamonds, with dedicated portals for each. Parents can assign tasks and rewards, while kids can track progress and cash in rewards. The platform seeks to enhance learning experiences and promote more engaging educational approaches. Built using React Native or Flutter, the app delivers a smooth mobile experience with a scalable, robust backend.</p>
+
+  <details>
+    <summary>Technical Details</summary>
+
+  <h3>Tech Stack</h3>
+    <ul>
+      <li><strong>Front End (Android Mobile)</strong>: Flutter, Dart, Material UI</li>
+      <li><strong>Back End (API Server)</strong>: Django, Python</li>
+      <li><strong>Database</strong>: MySQL</li>
+    </ul>
+
+  <h3>Solution Architecture</h3>
+    <img src="./assets/images/uni_capstone_arch.png" alt="Uni Capstone Architecture Design" />
+    <img src="./assets/images/uni_capstone_arch_indepth.png" alt="Uni Capstone Architecture Design Indepth" />
+
+   <br>
+
+   <p>The architecture uses a REST API for clear separation of concerns and modularity, essential for scalable and maintainable application development. The mobile app frontend is created with Flutter, while the backend API server is built using Django. This design enables independent operation of the frontend and backend, making updates and maintenance easier. Django functions solely as an API server handling requests and responses. This improves the system's effectiveness by offloading data processing and business logic to the backend. The backend server interacts with a MySQL database, serving as the centralized data storage for the application. Using RESTful APIs ensures that communication between the frontend and backend is stateless, standardized, and easily scalable, enabling seamless handling of high loads and multiple client requests. This architectural design supports flexibility by allowing independent development and scaling of the frontend while maintaining consistent and efficient communication through RESTful APIs.</p>
+
+  </details>
 </details>
+
 <br>
+
+
+
+
 
 ---
 
