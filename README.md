@@ -98,9 +98,10 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 
   <h3>Tech Stack</h3>
     <ul>
-      <li><strong>Front End (Android Mobile)</strong>: Flutter, Dart, Material UI</li>
-      <li><strong>Back End (API Server)</strong>: Django, Python</li>
-      <li><strong>Database</strong>: MySQL</li>
+      <li><strong>Front End (Mobile)</strong>: React Native, Node.js</li>
+      <li><strong>Front End (Dashboard)</strong>: React.js, Node.js</li>
+      <li><strong>Back End (API Server)</strong>: C#, ASP.Net</li>
+      <li><strong>Database</strong>: MS SQL</li>
     </ul>
 
   <h3>Solution Architecture</h3>
@@ -108,9 +109,24 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 
    <br>
 
-   <p>The architecture uses a REST API for clear separation of concerns and modularity, essential for scalable and maintainable application development. The mobile app frontend is created with Flutter, while the backend API server is built using Django. This design enables independent operation of the frontend and backend, making updates and maintenance easier. Django functions solely as an API server handling requests and responses. This improves the system's effectiveness by offloading data processing and business logic to the backend. The backend server interacts with a MySQL database, serving as the centralized data storage for the application. Using RESTful APIs ensures that communication between the frontend and backend is stateless, standardized, and easily scalable, enabling seamless handling of high loads and multiple client requests. This architectural design supports flexibility by allowing independent development and scaling of the frontend while maintaining consistent and efficient communication through RESTful APIs.</p>
+   <p>The solution architecture integrates a mobile application, a web-based dashboard, and a backend database to streamline the travel survey process. The mobile app enables users to track travel data via GPS, complete dynamically generated surveys, and store local data temporarily for offline access. It also includes features like reward points redemption to incentivize participation. The web dashboard provides staff with tools for data analysis, survey and account management, and a geographical information display. It serves as the interface between the mobile app and the backend, hosting APIs for seamless data transmission. The backend database, hosted on AWS using Amazon RDS and Microsoft SQL Server, securely stores and organizes collected user data, ensuring administrators can maintain and manage the system effectively.</p>
 
   </details>
+</details>
+
+<br>
+
+**Streaming Analytics for E-Commerce Website | 2018 - 2019**  
+  *Diploma Undergraduate | Singapore Polytechnic*  
+<details>
+  <summary>Project Details</summary>
+
+  <strong>Client</strong>: Singapore Polytechnic
+
+   <img src="./assets/images/poly_fyp_arch.png" alt="Poly SDP Architecture Design" />
+
+  <p>Development of a real-time machine learning algorithm tailored for streaming analytics in an e-commerce context. The project focused on capturing live user inputs from the website to train a recommendation model using the Alternating Least Squares (ALS) method. This approach enabled the system to dynamically identify and suggest relevant products to users based on their behavior and preferences. My primary responsibility was writing the code for the machine learning algorithm, ensuring its efficiency and seamless integration into the live environment.</p>
+
 </details>
 
 ---
