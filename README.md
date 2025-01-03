@@ -1,8 +1,10 @@
 # Computer Scientist
 
 ## Education
-**BSc (Hons) Computing Science** | Singapore Institute of Technology & University of Glasgow | _October 2024_
-**Diploma in Information Technology** | Singapore Polytechnic | _May 2019_
+- **BSc (Hons) Computing Science**  
+  *Singapore Institute of Technology & University of Glasgow* | October 2024  
+- **Diploma in Information Technology**  
+  *Singapore Polytechnic* | May 2019
 
 ## Work Experience
 IT Project Management Intern
