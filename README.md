@@ -1,9 +1,10 @@
 # Computer Scientist
 
 ## Education
-- **BSc (Hons) Computing Science** | October 2024  
-  *Singapore Institute of Technology & University of Glasgow*
-- **Diploma in Information Technology** | May 2019  
+**BSc (Hons) Computing Science** | October 2024  
+  *Singapore Institute of Technology & University of Glasgow*  
+<br>
+**Diploma in Information Technology** | May 2019  
   *Singapore Polytechnic*
 
 ## Experience
@@ -38,12 +39,11 @@ Project Alpha
 
 ## Skills
 
-### Technical Skills
-- **Solution Development** | Full Stack (Web & API) Development | Android Mobile App Development | IoT Solution Development & Design  
-- **Programming Languages**: Assembly Language, C#, C, Dart, Java, JavaScript, Kotlin, Python, Scala, SQL  
-- **Frameworks & Libraries**: React.js, Node.js, ASP.NET (MVC, Razor, Core), Django REST Framework, Flask, Flutter  
-- **Databases**: MySQL, Microsoft SQL Server
-
 ### Soft Skills
-- Adaptability | Problem-Solving | Collaboration & Teamwork | Time Management | Strategic Planning
+Adaptability | Problem-Solving | Collaboration & Teamwork | Time Management | Strategic Planning
 
+### Technical Skills
+- **Solution Development**:<br> Full Stack (Web & API) Development, Android Mobile App Development, IoT Solution Development & Design  
+- **Programming Languages**:<br> Assembly Language, C#, C, Dart, Java, JavaScript, Kotlin, Python, Scala, SQL  
+- **Frameworks & Libraries**:<br> React.js, Node.js, ASP.NET (MVC, Razor, Core), Django REST Framework, Flask, Flutter  
+- **Databases**:<br> MySQL, Microsoft SQL Server
