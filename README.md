@@ -1,8 +1,10 @@
 # Computer Scientist
 
 ### Education
-Bachelor of Science with Honours in Computing Science
-Diploma in Information Technology
+Bachelor of Science with Honours in Computing Science | _October 2024_
+> Singapore Institute of Technology & University of Glasgow
+Diploma in Information Technology | _May 2019_
+> Singapore Institute of Technology & University of Glasgow
 
 ### Work Experience
 IT Project Management Intern
