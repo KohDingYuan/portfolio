@@ -47,11 +47,26 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 
 ## Notable Projects
 
-### Mobile Application Development for Reward Pedagogy Research
+### Mobile Application Development for Reward Pedagogy Research | 2024  
+  *BSc Computing Science Undergraduate | Singapore Institute of Technology & University of Glasgow*  
+
+![Uni Capstone Front End Interface](./assets/images/uni_capstone_interface.png)
+
+For this project, I developed a mobile app to support reward-based systems in education, enhancing student motivation and engagement. The solution enables educators and parents to manage tasks and rewards like stars, hearts, and diamonds, with separate portals for each. Parents can assign tasks and rewards, while children track progress and redeem rewards. The platform aims to improve learning dynamics and contribute to more engaging educational strategies. Built using React Native or Flutter, the application ensures a seamless mobile experience with a scalable, robust backend.
 
 <details>
-  <summary>Solution Architecture</summary>
-  <img src="./assets/images/uni_capstone_arch.jpg" alt="Uni Capstone Architecture Design" />
+  <summary>Technical Details</summary>
+ 
+  ### Solution Architecture
+ 
+  ### Tech Stack
+  - **Front End (Android Mobile)**: Flutter, Dart, Material UI
+  - **Back End (API Server)**: Django, Python
+  - **Database**: MySQL
+    
+  <img src="./assets/images/uni_capstone_arch.png" alt="Uni Capstone Architecture Design" />
+  <img src="./assets/images/uni_capstone_arch_indepth.png" alt="Uni Capstone Architecture Design Indepth" />
+
 </details>
 <br>
 
