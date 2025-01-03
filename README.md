@@ -1,4 +1,8 @@
-# Computer Scientist
+A Computing Science graduate with Honours, equipped with a robust programming foundation. I possess diverse experience in project management, research, and process improvement, exhibiting flexibility and adaptability across various roles. Adept at supporting IT projects, conducting research analysis, and collaborating effectively with teams. Eager to leverage my technical expertise and project support acumen in IT management or consultancy, bridging business objectives and technological solutions.
+
+*For PDF resume format, download [here](./assets/files/KohDingYuan_Resume.pdf).*
+
+---
 
 ## Education
 **BSc (Hons) Computing Science** | October 2024  
@@ -41,22 +45,17 @@
 
 ---
 
-## Projects
+## Notable Projects
 
-### Foldable Section Example
+### Mobile Application Development for Reward Pedagogy Research
 
 <details>
-  <summary>Click to expand!</summary>
-  
-  ### Hidden Content
-  This is some hidden content that can be revealed when you click on the "Click to expand!" button.
-  
-  - Item 1
-  - Item 2
-  - Item 3
+  <summary>Solution Architecture</summary>
+
+  ![Uni Capstone - Arch Design](/assets/img/uni_capstone_arch.png)
 
 </details>
-
+<br>
 
 ---
 
