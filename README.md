@@ -15,7 +15,7 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 
 ## Experience
 
-*For more detailed feedback, download my [testimonials](./assets/files/KohDingYuan_Testimonials.pdf).*
+*For more detailed feedback, download my testimonials [here](./assets/files/KohDingYuan_Testimonials.pdf).*
 
 **IT Project Management Intern** | August 2023 – April 2024  
   *ASM International, Singapore*
@@ -125,6 +125,11 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 
    <img src="./assets/images/poly_fyp_arch.png" alt="Poly SDP Architecture Design" />
 
+   <h3>Tech Stack</h3>
+    <ul>
+      <li>Scala, MySQL, Wordpress</li>
+    </ul>
+    
   <p>Development of a real-time machine learning algorithm tailored for streaming analytics in an e-commerce context. The project focused on capturing live user inputs from the website to train a recommendation model using the Alternating Least Squares (ALS) method. This approach enabled the system to dynamically identify and suggest relevant products to users based on their behavior and preferences. My primary responsibility was writing the code for the machine learning algorithm, ensuring its efficiency and seamless integration into the live environment.</p>
 
 </details>
@@ -139,13 +144,13 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 - **Teamwork & Collaboration:** <br>
   *Worked effectively with cross-functional teams to achieve project goals, contributing to collective efforts in research and development tasks.*
 - **Adaptability:** <br>
-  *Quickly adjusted to different roles and industries, thriving in diverse environments such as software development, project management, and research analysis.*
+  *Adjusted to different roles and industries, thriving in diverse environments such as software development, project management, and research analysis.*
 - **Problem-Solving:** <br>
-  *Utilized analytical thinking to identify and resolve issues, such as optimizing routes through algorithm development and preventing security breaches in SQL servers.*
+  *Utilized analytical thinking to identify and resolve issues, optimizing existing processes and generating extra value.*
 - **Time Management & Organization:** <br>
   *Managed multiple projects and deadlines simultaneously, ensuring tasks were completed on time while maintaining high-quality results.*
 - **Leadership & Initiative:** <br>
-  *Took leadership in managing tasks, such as overseeing coding teams and procurement processes, demonstrating initiative and responsibility in various roles.*
+  *Took leadership in managing tasks, such as overseeing coding teams and setting up SOPs, demonstrating initiative and responsibility in various roles.*
 - **Analytical Thinking:** <br>
   *Applied analytical skills to data-driven tasks, such as conducting quantitative research and performing financial analysis, to support informed decision-making.*
 
