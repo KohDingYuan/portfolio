@@ -7,6 +7,8 @@
 **Diploma in Information Technology** | May 2019  
   *Singapore Polytechnic*
 
+---
+
 ## Experience
 **IT Project Management Intern** | August 2023 – April 2024  
   *ASM International, Singapore*
@@ -34,16 +36,50 @@
 - **Backup Checker**: Designed a console application for backup file monitoring and anomaly detection.
 - **Brute Force Attack Detection**: Identified and reported SQL server attacks, providing recommendations for mitigation.
 
+---
+
 ## Projects
-Project Alpha
+
+### Foldable Section Example
+
+<details>
+  <summary>Click to expand!</summary>
+  
+  ### Hidden Content
+  This is some hidden content that can be revealed when you click on the "Click to expand!" button.
+  
+  - Item 1
+  - Item 2
+  - Item 3
+
+</details>
+
+---
 
 ## Skills
 
 ### Soft Skills
-Adaptability | Problem-Solving | Collaboration & Teamwork | Time Management | Strategic Planning
+- **Communication Skills:** <br>
+  *Strong written and verbal communication abilities demonstrated through technical documentation, training staff, and regular updates to stakeholders.*
+- **Teamwork & Collaboration:** <br>
+  *Worked effectively with cross-functional teams to achieve project goals, contributing to collective efforts in research and development tasks.*
+- **Adaptability:** <br>
+  *Quickly adjusted to different roles and industries, thriving in diverse environments such as software development, project management, and research analysis.*
+- **Problem-Solving:** <br>
+  *Utilized analytical thinking to identify and resolve issues, such as optimizing routes through algorithm development and preventing security breaches in SQL servers.*
+- **Time Management & Organization:** <br>
+  *Managed multiple projects and deadlines simultaneously, ensuring tasks were completed on time while maintaining high-quality results.*
+- **Leadership & Initiative:** <br>
+  *Took leadership in managing tasks, such as overseeing coding teams and procurement processes, demonstrating initiative and responsibility in various roles.*
+- **Analytical Thinking:** <br>
+  *Applied analytical skills to data-driven tasks, such as conducting quantitative research and performing financial analysis, to support informed decision-making.*
 
 ### Technical Skills
 - **Solution Development**:<br> Full Stack (Web & API) Development, Android Mobile App Development, IoT Solution Development & Design  
-- **Programming Languages**:<br> Assembly Language, C#, C, Dart, Java, JavaScript, Kotlin, Python, Scala, SQL  
-- **Frameworks & Libraries**:<br> React.js, Node.js, ASP.NET (MVC, Razor, Core), Django REST Framework, Flask, Flutter  
-- **Databases**:<br> MySQL, Microsoft SQL Server
+- **Programming Languages**:<br> Assembly Language, C#, C, Dart, Java, JavaScript, Kotlin, Python, Scala, SQL
+- **Markup Languages**:<br> HTML, CSS, XML, JSON, XHTML, Markdown
+- **Frameworks & Libraries**:<br> React.js, Vue.js, Material UI, Node.js, ASP.NET (MVC, Razor, Core), Django REST Framework, Flask, Flutter, jQuery, Bootstrap  
+- **Databases**:<br> MySQL, Microsoft SQL Server, SQLite, MongoDB
+
+### Languages
+English | Chinese (Mandarin)
