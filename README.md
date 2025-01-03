@@ -10,6 +10,9 @@
 ---
 
 ## Experience
+
+*For more detailed feedback, download my [testimonials](./assets/files/KohDingYuan_Testimonials.pdf).*
+
 **IT Project Management Intern** | August 2023 – April 2024  
   *ASM International, Singapore*
 - Assisted in managing complex IT projects and supported project management administrative processes.
