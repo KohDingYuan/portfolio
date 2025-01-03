@@ -54,13 +54,14 @@
 
 </details>
 
+
 ---
 
 ## Skills
 
 ### Soft Skills
 - **Communication Skills:** <br>
-  *Strong written and verbal communication abilities demonstrated through technical documentation, training staff, and regular updates to stakeholders.*
+  *Strong written and verbal communication abilities demonstrated through technical documentation, training staff, vendor management, and regular updates to stakeholders.*
 - **Teamwork & Collaboration:** <br>
   *Worked effectively with cross-functional teams to achieve project goals, contributing to collective efforts in research and development tasks.*
 - **Adaptability:** <br>
@@ -75,11 +76,12 @@
   *Applied analytical skills to data-driven tasks, such as conducting quantitative research and performing financial analysis, to support informed decision-making.*
 
 ### Technical Skills
-- **Solution Development**:<br> Full Stack (Web & API) Development, Android Mobile App Development, IoT Solution Development & Design  
-- **Programming Languages**:<br> Assembly Language, C#, C, Dart, Java, JavaScript, Kotlin, Python, Scala, SQL
-- **Markup Languages**:<br> HTML, CSS, XML, JSON, XHTML, Markdown
-- **Frameworks & Libraries**:<br> React.js, Vue.js, Material UI, Node.js, ASP.NET (MVC, Razor, Core), Django REST Framework, Flask, Flutter, jQuery, Bootstrap  
-- **Databases**:<br> MySQL, Microsoft SQL Server, SQLite, MongoDB
+- **Solution Development**:<br> Android Mobile App Development, Full Stack (Web & API) Development, IoT Solution Development & Design  
+- **Programming Languages**:<br> Assembly Language, C, C#, Dart, Java, JavaScript, Kotlin, Python, Scala, SQL
+- **Markup Languages**:<br> CSS, HTML, JSON, Markdown, XML, XHTML
+- **Frameworks & Libraries**:<br> ASP.NET (MVC, Razor, Core), Bootstrap, Django REST Framework, Flask, Flutter, jQuery, Material UI, Node.js, React.js, Vue.js  
+- **Databases**:<br> MongoDB, Microsoft SQL Server, MySQL, SQLite
+- **Cloud Computing**:<br> Amazon Web Services (AWS), Google Cloud Platform (GCP), Microsoft Azure
 
 ### Languages
 English | Chinese (Mandarin)
