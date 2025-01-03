@@ -133,7 +133,7 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
   <p>Development of a real-time machine learning algorithm tailored for streaming analytics in an e-commerce context. The project focused on capturing live user inputs from the website to train a recommendation model using the Alternating Least Squares (ALS) method. This approach enabled the system to dynamically identify and suggest relevant products to users based on their behavior and preferences. My primary responsibility was writing the code for the machine learning algorithm, ensuring its efficiency and seamless integration into the live environment.</p>
 
 </details>
-
+<br>
 ---
 
 ## Skills
