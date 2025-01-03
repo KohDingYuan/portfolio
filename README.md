@@ -52,7 +52,7 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 <details>
   <summary>Solution Architecture</summary>
 
-  ![Uni Capstone - Arch Design](/assets/img/uni_capstone_arch.png)
+  ![Uni Capstone - Arch Design](./assets/img/uni_capstone_arch.png)
 
 </details>
 <br>
