@@ -18,5 +18,5 @@ Software Development Intern
 - point 1
 - point 2
 
-###Projects
+### Projects
 Project Alpha
