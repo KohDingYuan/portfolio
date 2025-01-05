@@ -190,12 +190,12 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 ---
 
 ### Technical Skills
-#### Solution Development
-<span class="pill-badge-outline">Android Mobile App Development</span>
-<span class="pill-badge-outline">Full Stack (Web & API) Development</span>
-<span class="pill-badge-outline">IoT Solution Development & Design </span>
-
-####  Programming Languages
+- **Solution Development**<br>
+  <span class="pill-badge-outline">Android Mobile App Development</span>
+  <span class="pill-badge-outline">Full Stack (Web & API) Development</span>
+  <span class="pill-badge-outline">IoT Solution Development & Design </span>
+  <br><br>
+- **Programming Languages**<br>
   <span class="pill-badge-outline">Assembly Language</span>
   <span class="pill-badge-outline">C</span>
   <span class="pill-badge-outline">C#</span>
@@ -207,16 +207,16 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
   <span class="pill-badge-outline">Scala</span>
   <span class="pill-badge-outline">SQL</span>
   <span class="pill-badge-outline">T-SQL</span>
-
-#### Markup Languages
+  <br><br>
+- **Markup Languages**<br>
   <span class="pill-badge-outline">CSS</span>
   <span class="pill-badge-outline">HTML</span>
   <span class="pill-badge-outline">JSON</span>
   <span class="pill-badge-outline">Markdown</span>
   <span class="pill-badge-outline">XML</span>
   <span class="pill-badge-outline">XHTML</span>
-
-#### Frameworks & Libraries
+  <br><br>
+- **Frameworks & Libraries**<br>
   <span class="pill-badge-outline">ASP.NET (MVC, Razor, Core)</span>
   <span class="pill-badge-outline">Bootstrap</span>
   <span class="pill-badge-outline">Django</span>
@@ -228,17 +228,18 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
   <span class="pill-badge-outline">React.js</span>
   <span class="pill-badge-outline">Vue.js</span>
   <span class="pill-badge-outline">Next.js</span>
-
-#### Databases
+  <br><br>
+- **Databases**<br>
   <span class="pill-badge-outline">MongoDB</span>
   <span class="pill-badge-outline">Microsoft SQL Server (MS SQL)</span>
   <span class="pill-badge-outline">MySQL</span>
   <span class="pill-badge-outline">SQLite</span>
-
-#### Cloud Computing
+  <br><br>
+- **Cloud Computing**<br>
   <span class="pill-badge-outline">Amazon Web Services (AWS)</span>
   <span class="pill-badge-outline">Google Cloud Platform (GCP)</span>
   <span class="pill-badge-outline">Microsoft Azure</span>
+  <br><br>
 
 ---
 
