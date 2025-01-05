@@ -131,44 +131,44 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 
 ## Notable Projects
 
-**Mobile Application Development for Reward Pedagogy Research | 2024**  
+- **Mobile Application Development for Reward Pedagogy Research | 2024**  
   *BSc Computing Science Undergraduate | Singapore Institute of Technology*  
-<details>
-  <summary>Project Details</summary>
-
-  <strong>Client</strong>: Prof. Peter C Y Yau (University of Glasgow)
-
-  <img src="./assets/images/uni_capstone_interface.png" alt="Uni Capstone Front End Interface" />
-
-  <p>Developed a comprehensive full-stack mobile application independently to support reward-based systems in education, aimed at boosting student motivation and engagement. The solution features dedicated portals for teachers, parents, and students, enabling task and reward management using stars, hearts, and diamonds. Parents can assign tasks and rewards, while children track progress and redeem rewards, fostering an engaging and interactive learning environment.
-  Built using React Native or Flutter, the app provides a seamless user experience, supported by a robust and scalable backend, showcasing the versatility and technical expertise applied in every aspect of the project.</p>
-
   <details>
-	<summary>Technical Details</summary>
+    <summary>Project Details</summary>
+	<br>
 
-  <h3>Tech Stack</h3>
-	<ul>
-	  <li><strong>Front End (Android Mobile)</strong>: Flutter, Dart, Material UI</li>
-	  <li><strong>Back End (API Server)</strong>: Django, Python</li>
-	  <li><strong>Database</strong>: MySQL</li>
-	</ul>
+    <strong>Client</strong>: Prof. Peter C Y Yau (University of Glasgow)
 
-  <h3>Solution Architecture</h3>
-	<img src="./assets/images/uni_capstone_arch.png" alt="Uni Capstone Architecture Design" />
-	<img src="./assets/images/uni_capstone_arch_indepth.png" alt="Uni Capstone Architecture Design Indepth" />
+    <img src="./assets/images/uni_capstone_interface.png" alt="Uni Capstone Front End Interface" />
 
-   <br>
+    <p>Developed a comprehensive full-stack mobile application independently to support reward-based systems in education, aimed at boosting student motivation and engagement. The solution features dedicated portals for teachers, parents, and students, enabling task and reward management using stars, hearts, and diamonds. Parents can assign tasks and rewards, while children track progress and redeem rewards, fostering an engaging and interactive learning environment. 
+  
+    Built using React Native or Flutter, the app provides a seamless user experience, supported by a robust and scalable backend, showcasing the versatility and technical expertise applied in every aspect of the project.</p>
+    
+	<details>
+	  <summary>Technical Details</summary>
+	  <br>
 
-   <p>The architecture uses a REST API for clear separation of concerns and modularity, essential for scalable and maintainable application development. The mobile app frontend is created with Flutter, while the backend API server is built using Django. This design enables independent operation of the frontend and backend, making updates and maintenance easier. Django functions solely as an API server handling requests and responses.
+      <h3>Tech Stack</h3>
+      <ul>
+	    <li><strong>Front End (Android Mobile)</strong>: Flutter, Dart, Material UI</li>
+	    <li><strong>Back End (API Server)</strong>: Django, Python</li>
+	    <li><strong>Database</strong>: MySQL</li>
+	  </ul>
+
+      <h3>Solution Architecture</h3>
+
+	  <img src="./assets/images/uni_capstone_arch.png" alt="Uni Capstone Architecture Design" />
+	  <img src="./assets/images/uni_capstone_arch_indepth.png" alt="Uni Capstone Architecture Design Indepth" />
+
+      <br>
+      <p>The architecture uses a REST API for clear separation of concerns and modularity, essential for scalable and maintainable application development. The mobile app frontend is created with Flutter, while the backend API server is built using Django. This design enables independent operation of the frontend and backend, making updates and maintenance easier. Django functions solely as an API server handling requests and responses.
    
-   This improves the system's effectiveness by offloading data processing and business logic to the backend. The backend server interacts with a MySQL database, serving as the centralized data storage for the application. Using RESTful APIs ensures that communication between the frontend and backend is stateless, standardized, and easily scalable, enabling seamless handling of high loads and multiple client requests.
+      This improves the system's effectiveness by offloading data processing and business logic to the backend. The backend server interacts with a MySQL database, serving as the centralized data storage for the application. Using RESTful APIs ensures that communication between the frontend and backend is stateless, standardized, and easily scalable, enabling seamless handling of high loads and multiple client requests.
    
-   This architectural design supports flexibility by allowing independent development and scaling of the frontend while maintaining consistent and efficient communication through RESTful APIs.</p>
-
-  </details>
-</details>
-
-<br>
+      This architectural design supports flexibility by allowing independent development and scaling of the frontend while maintaining consistent and efficient communication through RESTful APIs.</p>
+    </details>
+  </details><br>
 
 **Activity Survey Application for Smart City Planning | 2022 - 2023**  
   *BSc Computing Science Undergraduate | Singapore Institute of Technology*  
@@ -177,17 +177,17 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 
   <strong>Client</strong>: Nippon Koei Co., Ltd.
 
-   <img src="./assets/images/uni_teamproj_mobile.png" alt="Uni Team Project Front End Interface" />
-   <img src="./assets/images/uni_teamproj_dashboard.png" alt="Uni Team Project Back End Interface" />
+  <img src="./assets/images/uni_teamproj_mobile.png" alt="Uni Team Project Front End Interface" />
+  <img src="./assets/images/uni_teamproj_dashboard.png" alt="Uni Team Project Back End Interface" />
 
   <p>For this project, I was responsible for the technical leadership of a 10-person team in the development of a cross-platform mobile application intended to simplify the travel survey process, aligned with the requirements specified by our client, Nippon Koei Co., Ltd. The mobile application was designed to collect GPS and Bluetooth connection logs, facilitating more convenient data sharing by respondents through a web-based questionnaire. By replacing the traditional door-to-door survey method, our solution enables more accurate and efficient data collection.
   
   I also oversaw the integration of a web-based dashboard that allows administrators to manage surveys, accounts, and conduct data analysis. This dashboard interfaces with the mobile application via a Web API and supports cloud-based data storage. The project's ultimate objective was to streamline the travel survey process, enhance the user experience, and contribute valuable data to support urban redevelopment and transportation improvement initiatives.</p>
 
- <details>
+  <details>
 	<summary>Technical Details</summary>
 
-  <h3>Tech Stack</h3>
+    <h3>Tech Stack</h3>
 	<ul>
 	  <li><strong>Front End (Mobile)</strong>: React Native, Node.js</li>
 	  <li><strong>Front End (Dashboard)</strong>: React.js, Node.js</li>
@@ -195,16 +195,15 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 	  <li><strong>Database</strong>: MS SQL</li>
 	</ul>
 
-  <h3>Solution Architecture</h3>
+    <h3>Solution Architecture</h3>
 	<img src="./assets/images/uni_teamproj_arch.png" alt="Uni Team Project Architecture Design" />
+    <br>
 
-   <br>
-
-   <p>The solution architecture integrates a mobile application, a web-based dashboard, and a backend database to streamline the travel survey process. The mobile app enables users to track travel data via GPS, complete dynamically generated surveys, and store local data temporarily for offline access. It also includes features like reward points redemption to incentivize participation. The web dashboard provides staff with tools for data analysis, survey and account management, and a geographical information display. It serves as the interface between the mobile app and the backend, hosting APIs for seamless data transmission. The backend database, hosted on AWS using Amazon RDS and Microsoft SQL Server, securely stores and organizes collected user data, ensuring administrators can maintain and manage the system effectively.</p>
-
+    <p>The solution architecture integrates a mobile application, a web-based dashboard, and a backend database to streamline the travel survey process. The mobile app enables users to track travel data via GPS, complete dynamically generated surveys, and store local data temporarily for offline access. It also includes features like reward points redemption to incentivize participation.
+	
+	The web dashboard provides staff with tools for data analysis, survey and account management, and a geographical information display. It serves as the interface between the mobile app and the backend, hosting APIs for seamless data transmission. The backend database, hosted on AWS using Amazon RDS and Microsoft SQL Server, securely stores and organizes collected user data, ensuring administrators can maintain and manage the system effectively.</p>
   </details>
 </details>
-
 <br>
 
 **Streaming Analytics for E-Commerce Website | 2018 - 2019**  
