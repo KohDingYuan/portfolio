@@ -79,31 +79,35 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 
    <strong>Route Optimization Algorithm</strong>
    <ul>
-       <li>Developed a route optimization algorithm that leveraged Dijkstra's Algorithm and the Google Maps API's live data to address a critical client need and enhance the company's offerings. The algorithm incorporated route planning and optimization features to solve the Travelling Salesman problem.</li>
-       <li>The solution was instrumental in retaining a client who had been considering switching to a competitor due to the lack of such features in our company's offerings. This contribution to the client's satisfaction helped solidify their continued business with the company.</li>
+       <li>Developed a route optimization algorithm that leveraged Dijkstra's Algorithm and the Google Maps API's live data to address a critical client need and enhance the company's offerings.</li>
+	   <li>The algorithm incorporated route planning and optimization features to solve the Travelling Salesman problem.</li>
+       <li>The solution helped retain a client who had considered switching to a competitor due to lacking such features, contributing to the client's satisfaction and their continued business.</li>
    </ul>
 
    <strong>National Trade Platform (NTP)</strong>
    <ul>
-       <li>Developed API functions and engineered data transformation processes in collaboration with Singapore Customs and Accenture to integrate the company's solution with the National Trade Platform, a government-sponsored initiative. This integration ensured the solution met regulatory standards, enabling clients to access government services and comply with the program's guidelines.</li>
-       <li>The successful integration with NTP enhanced the company's competitiveness by providing clients access to government-compliant services, which increased the solution's value proposition and boosted its utilization among clients seeking government-related services.</li>
+	   <li>Developed API functions and data transformation processes with Singapore Customs and Accenture to integrate the company's solution with the National Trade Platform.</li>
+	   <li>Integration ensured the solution met regulations, enabling clients to access government services and comply.</li>
+	   <li>The NTP integration enhanced the company's competitiveness by providing government-compliant services, increasing the solution's value and utilization among clients seeking such services.</li>
    </ul>
 
    <strong>Brute Force Attack Detection</strong>
    <ul>
-       <li>Identified a significant performance degradation in the company's SQL server and proactively investigated the database logs, discovering unusual activity originating from an IP address located in a country where the company had no registered clients. This discovery prompted the detection of a potential brute force attack.</li>
-       <li>Traced the suspicious behavior to its source and promptly reported the findings to the supervisor. Based on the identified security risk, I provided recommendations to enhance the company's database security measures, which led to improved protection against potential attacks and safeguarded the organization's sensitive data.</li>
+       <li>Discovered a significant performance drop in the company's SQL server and investigated the database logs, finding unusual activity from an IP in a country with no registered clients.</li>
+	   <li>Traced anomaly prompted detection of a potential brute force attack and promptly reported findings to the supervisor.</li>
+       <li>Provided recommendations to enhance database security, with actions taken to improve protection against attacks and safeguarding data.</li>
    </ul>
 
    <strong>Backup Checker</strong>
    <ul>
-       <li>Designed a console application to automate the tedious daily task of backup file monitoring and anomaly detection. This solution streamlined the process by identifying discrepancies in backup files, enhancing efficiency and mitigating the risk of overlooked data integrity issues.</li>
+       <li>Developed a console app to automate backup file monitoring and anomaly detection, streamlining the process by identifying discrepancies and enhancing efficiency while mitigating data integrity risks.</li>
    </ul>
 
    <strong>Memory Leak Identification</strong>
    <ul>
-       <li>After a client’s issue with server performance was misdiagnosed as a memory shortage, they acquired additional RAM, but the problem persisted, leading them to return to the company with dissatisfaction. I was brought in to offer a different perspective on the issue.</li>
-       <li>Hypothesized that the issue was likely caused by a memory leak rather than insufficient memory, which led to an investigation that identified multiple database connections not being properly closed due to poor coding practices. This validated my hypothesis and addressed the issue.</li>
+       <li>Client's server performance issue was initially misdiagnosed as a memory shortage, leading them to acquire additional RAM, but the problem persisted.</li>
+       <li>Brought in to provide a different perspective on the issue.</li>
+       <li>Hypothesized memory leak, not lack of memory, and identified multiple unclosed database connections due to poor coding - validated hypothesis and resolved issue.</li>
    </ul>
 </details>
 
@@ -123,7 +127,6 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
   <img src="./assets/images/uni_capstone_interface.png" alt="Uni Capstone Front End Interface" />
 
   <p>Developed a comprehensive full-stack mobile application independently to support reward-based systems in education, aimed at boosting student motivation and engagement. The solution features dedicated portals for teachers, parents, and students, enabling task and reward management using stars, hearts, and diamonds. Parents can assign tasks and rewards, while children track progress and redeem rewards, fostering an engaging and interactive learning environment.
-  
   Built using React Native or Flutter, the app provides a seamless user experience, supported by a robust and scalable backend, showcasing the versatility and technical expertise applied in every aspect of the project.</p>
 
   <details>
