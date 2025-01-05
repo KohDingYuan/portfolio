@@ -82,7 +82,6 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
        <li>Developed a route optimization algorithm that leveraged Dijkstra's Algorithm and the Google Maps API's live data to address a critical client need and enhance the company's offerings. The algorithm incorporated route planning and optimization features to solve the Travelling Salesman problem.</li>
        <li>The solution was instrumental in retaining a client who had been considering switching to a competitor due to the lack of such features in our company's offerings. This contribution to the client's satisfaction helped solidify their continued business with the company.</li>
    </ul>
-   <br>
 
    <strong>National Trade Platform (NTP)</strong>
    <ul>
@@ -106,7 +105,6 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
        <li>After a client’s issue with server performance was misdiagnosed as a memory shortage, they acquired additional RAM, but the problem persisted, leading them to return to the company with dissatisfaction. I was brought in to offer a different perspective on the issue.</li>
        <li>Hypothesized that the issue was likely caused by a memory leak rather than insufficient memory, which led to an investigation that identified multiple database connections not being properly closed due to poor coding practices. This validated my hypothesis and addressed the issue.</li>
    </ul>
-
 </details>
 
 <br>
@@ -116,7 +114,7 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 ## Notable Projects
 
 **Mobile Application Development for Reward Pedagogy Research | 2024**  
-  *BSc Computing Science Undergraduate | Singapore Institute of Technology & University of Glasgow*  
+  *BSc Computing Science Undergraduate | Singapore Institute of Technology*  
 <details>
   <summary>Project Details</summary>
 
@@ -124,7 +122,9 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 
   <img src="./assets/images/uni_capstone_interface.png" alt="Uni Capstone Front End Interface" />
 
-  <p>This full stack project developed a mobile app to support reward-based systems in education, boosting student motivation and involvement. The solution lets teachers and parents handle tasks and rewards like stars, hearts, and diamonds, with dedicated portals for each. Parents can assign tasks and rewards, while kids can track progress and cash in rewards. The platform seeks to enhance learning experiences and promote more engaging educational approaches. Built using React Native or Flutter, the app delivers a smooth mobile experience with a scalable, robust backend.</p>
+  <p>Developed a comprehensive full-stack mobile application independently to support reward-based systems in education, aimed at boosting student motivation and engagement. The solution features dedicated portals for teachers, parents, and students, enabling task and reward management using stars, hearts, and diamonds. Parents can assign tasks and rewards, while children track progress and redeem rewards, fostering an engaging and interactive learning environment.
+  
+  Built using React Native or Flutter, the app provides a seamless user experience, supported by a robust and scalable backend, showcasing the versatility and technical expertise applied in every aspect of the project.</p>
 
   <details>
     <summary>Technical Details</summary>
@@ -142,7 +142,11 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 
    <br>
 
-   <p>The architecture uses a REST API for clear separation of concerns and modularity, essential for scalable and maintainable application development. The mobile app frontend is created with Flutter, while the backend API server is built using Django. This design enables independent operation of the frontend and backend, making updates and maintenance easier. Django functions solely as an API server handling requests and responses. This improves the system's effectiveness by offloading data processing and business logic to the backend. The backend server interacts with a MySQL database, serving as the centralized data storage for the application. Using RESTful APIs ensures that communication between the frontend and backend is stateless, standardized, and easily scalable, enabling seamless handling of high loads and multiple client requests. This architectural design supports flexibility by allowing independent development and scaling of the frontend while maintaining consistent and efficient communication through RESTful APIs.</p>
+   <p>The architecture uses a REST API for clear separation of concerns and modularity, essential for scalable and maintainable application development. The mobile app frontend is created with Flutter, while the backend API server is built using Django. This design enables independent operation of the frontend and backend, making updates and maintenance easier. Django functions solely as an API server handling requests and responses.
+   
+   This improves the system's effectiveness by offloading data processing and business logic to the backend. The backend server interacts with a MySQL database, serving as the centralized data storage for the application. Using RESTful APIs ensures that communication between the frontend and backend is stateless, standardized, and easily scalable, enabling seamless handling of high loads and multiple client requests.
+   
+   This architectural design supports flexibility by allowing independent development and scaling of the frontend while maintaining consistent and efficient communication through RESTful APIs.</p>
 
   </details>
 </details>
@@ -150,7 +154,7 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 <br>
 
 **Activity Survey Application for Smart City Planning | 2022 - 2023**  
-  *BSc Computing Science Undergraduate | Singapore Institute of Technology & University of Glasgow*  
+  *BSc Computing Science Undergraduate | Singapore Institute of Technology*  
 <details>
   <summary>Project Details</summary>
 
@@ -159,7 +163,9 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
    <img src="./assets/images/uni_teamproj_mobile.png" alt="Uni Team Project Front End Interface" />
    <img src="./assets/images/uni_teamproj_dashboard.png" alt="Uni Team Project Back End Interface" />
 
-  <p>For this project, I was responsible for the technical leadership of a 10-person team in the development of a cross-platform mobile application intended to simplify the travel survey process, aligned with the requirements specified by our client, Nippon Koei Co., Ltd. The mobile application was designed to collect GPS and Bluetooth connection logs, facilitating more convenient data sharing by respondents through a web-based questionnaire. By replacing the traditional door-to-door survey method, our solution enables more accurate and efficient data collection. I also oversaw the integration of a web-based dashboard that allows administrators to manage surveys, accounts, and conduct data analysis. This dashboard interfaces with the mobile application via a Web API and supports cloud-based data storage. The project's ultimate objective was to streamline the travel survey process, enhance the user experience, and contribute valuable data to support urban redevelopment and transportation improvement initiatives.</p>
+  <p>For this project, I was responsible for the technical leadership of a 10-person team in the development of a cross-platform mobile application intended to simplify the travel survey process, aligned with the requirements specified by our client, Nippon Koei Co., Ltd. The mobile application was designed to collect GPS and Bluetooth connection logs, facilitating more convenient data sharing by respondents through a web-based questionnaire. By replacing the traditional door-to-door survey method, our solution enables more accurate and efficient data collection.
+  
+  I also oversaw the integration of a web-based dashboard that allows administrators to manage surveys, accounts, and conduct data analysis. This dashboard interfaces with the mobile application via a Web API and supports cloud-based data storage. The project's ultimate objective was to streamline the travel survey process, enhance the user experience, and contribute valuable data to support urban redevelopment and transportation improvement initiatives.</p>
 
  <details>
     <summary>Technical Details</summary>
