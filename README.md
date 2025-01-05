@@ -1,4 +1,15 @@
+<head>
+	<title>Koh DY Portfolio</title>
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+
 A Computing Science graduate with Honours, equipped with a robust programming foundation. I possess diverse experience in project management, research, and process improvement, exhibiting flexibility and adaptability across various roles. Adept at supporting IT projects, conducting research analysis, and collaborating effectively with teams. Eager to leverage my technical expertise and project support acumen in IT management or consultancy, bridging business objectives and technological solutions.
+
+<div class="container">
+	<h1 class="text-center">My Portfolio</h1>
+	<p class="text-muted">Welcome to my portfolio showcasing my skills and projects.</p>
+	<button class="btn btn-primary">Click Me</button>
+</div>
 
 *For PDF resume format, download [here](./assets/files/KohDingYuan_Resume.pdf).*
 
@@ -6,10 +17,12 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 
 ## Education
 **BSc (Hons) Computing Science** | October 2024  
-  *Singapore Institute of Technology & University of Glasgow*  
+  Singapore Institute of Technology & University of Glasgow  
+  *Specialized in Internet of Things (IOT)*
 <br>
 **Diploma in Information Technology** | May 2019  
-  *Singapore Polytechnic*
+  Singapore Polytechnic  
+  *Specialized in Solution Development*
 
 ---
 
