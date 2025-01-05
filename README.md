@@ -1,3 +1,4 @@
+## Profile
 A Computing Science graduate with Honours, equipped with a robust programming foundation. I possess diverse experience in project management, research, and process improvement, exhibiting flexibility and adaptability across various roles. Adept at supporting IT projects, conducting research analysis, and collaborating effectively with teams. Eager to leverage my technical expertise and project support acumen in IT management or consultancy, bridging business objectives and technological solutions.
 
 *For PDF resume format, download [here](./assets/files/KohDingYuan_Resume.pdf).*
@@ -70,11 +71,47 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
   
 **Software Development Intern** | April 2018 – August 2018  
   *KEYfields Pte Ltd, Singapore*
-- Conducted research and development activities using C#, ASP.NET, and MS SQL.
-- **Route Optimization Algorithm**: Developed an algorithm for the Travelling Salesman problem using Google Maps API for live data.
-- **National Trade Platform (NTP)**: Developed API functions and engineered data transformation processes in collaboration with Singapore Customs and Accenture.
-- **Backup Checker**: Designed a console application for backup file monitoring and anomaly detection.
-- **Brute Force Attack Detection**: Identified and reported SQL server attacks, providing recommendations for mitigation.
+
+  Contributed to the research and development of features for the company's primary web-based solution by writing and optimizing code using C#, ASP.NET, and MS SQL. My focus was on developing modular, scalable functions that enhanced the platform's functionality and overall value.
+
+<details>
+   <summary>Achievements</summary>
+
+   <strong>Route Optimization Algorithm</strong>
+   <ul>
+       <li>Developed a route optimization algorithm that leveraged Dijkstra's Algorithm and the Google Maps API's live data to address a critical client need and enhance the company's offerings. The algorithm incorporated route planning and optimization features to solve the Travelling Salesman problem.</li>
+       <li>The solution was instrumental in retaining a client who had been considering switching to a competitor due to the lack of such features in our company's offerings. This contribution to the client's satisfaction helped solidify their continued business with the company.</li>
+   </ul>
+   <br>
+
+   <strong>National Trade Platform (NTP)</strong>
+   <ul>
+       <li>Developed API functions and engineered data transformation processes in collaboration with Singapore Customs and Accenture to integrate the company's solution with the National Trade Platform, a government-sponsored initiative. This integration ensured the solution met regulatory standards, enabling clients to access government services and comply with the program's guidelines.</li>
+       <li>The successful integration with NTP enhanced the company's competitiveness by providing clients access to government-compliant services, which increased the solution's value proposition and boosted its utilization among clients seeking government-related services.</li>
+   </ul>
+   <br>
+
+   <strong>Brute Force Attack Detection</strong>
+   <ul>
+       <li>Identified a significant performance degradation in the company's SQL server and proactively investigated the database logs, discovering unusual activity originating from an IP address located in a country where the company had no registered clients. This discovery prompted the detection of a potential brute force attack.</li>
+       <li>Traced the suspicious behavior to its source and promptly reported the findings to the supervisor. Based on the identified security risk, I provided recommendations to enhance the company's database security measures, which led to improved protection against potential attacks and safeguarded the organization's sensitive data.</li>
+   </ul>
+   <br>
+
+   <strong>Backup Checker</strong>
+   <ul>
+       <li>Designed a console application to automate the tedious daily task of backup file monitoring and anomaly detection. This solution streamlined the process by identifying discrepancies in backup files, enhancing efficiency and mitigating the risk of overlooked data integrity issues.</li>
+   </ul>
+   <br>
+
+   <strong>Memory Leak Identification</strong>
+   <ul>
+       <li>After a client’s issue with server performance was misdiagnosed as a memory shortage, they acquired additional RAM, but the problem persisted, leading them to return to the company with dissatisfaction. I was brought in to offer a different perspective on the issue.</li>
+       <li>Hypothesized that the issue was likely caused by a memory leak rather than insufficient memory, which led to an investigation that identified multiple database connections not being properly closed due to poor coding practices. This validated my hypothesis and addressed the issue.</li>
+   </ul>
+   <br>
+
+</details>
 
 ---
 
@@ -170,27 +207,32 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 ---
 
 ## Skills
-
-### Soft Skills
-- **Communication Skills:** <br>
+- **Communication Skills**<br>
   *Strong written and verbal communication abilities demonstrated through technical documentation, training staff, vendor management, and regular updates to stakeholders.*
-- **Teamwork & Collaboration:** <br>
+  <br><br>
+- **Teamwork & Collaboration**<br>
   *Worked effectively with cross-functional teams to achieve project goals, contributing to collective efforts in research and development tasks.*
-- **Adaptability:** <br>
+  <br><br>
+- **Adaptability**<br>
   *Adjusted to different roles and industries, thriving in diverse environments such as software development, project management, and research analysis.*
-- **Problem-Solving:** <br>
+  <br><br>
+- **Problem-Solving**<br>
   *Utilized analytical thinking to identify and resolve issues, optimizing existing processes and generating extra value.*
-- **Time Management & Organization:** <br>
+  <br><br>
+- **Time Management & Organization**<br>
   *Managed multiple projects and deadlines simultaneously, ensuring tasks were completed on time while maintaining high-quality results.*
-- **Leadership & Initiative:** <br>
+  <br><br>
+- **Leadership & Initiative**<br>
   *Took leadership in managing tasks, such as overseeing coding teams and setting up SOPs, demonstrating initiative and responsibility in various roles.*
-- **Analytical Thinking:** <br>
+  <br><br>
+- **Analytical Thinking**<br>
   *Applied analytical skills to data-driven tasks, such as conducting quantitative research and performing financial analysis, to support informed decision-making.*
+  <br><br>
 
 ---
 
-### Technical Skills
-- **Solution Development**<br>
+## Technical Skills
+- **Solution Development** <br>
   <span class="pill-badge-outline">Android Mobile App Development</span>
   <span class="pill-badge-outline">Full Stack (Web & API) Development</span>
   <span class="pill-badge-outline">IoT Solution Development & Design </span>
@@ -243,6 +285,6 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 
 ---
 
-### Languages
+## Languages
 <span class="pill-badge-outline">English</span>
 <span class="pill-badge-outline">Chinese (Mandarin)</span>
