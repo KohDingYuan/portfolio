@@ -33,14 +33,12 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 	}
 
 	.details-section {
-		border-left: 5px solid #007bff;
-		padding-left: 15px;
-		margin-bottom: 15px;
+		border-left: 3px solidrgba(124, 187, 255, 0.84);
+		padding-left: 10px;
+		margin-bottom: 10px;
 	}
 	.details-section summary {
-		font-weight: bold;
 		cursor: pointer;
-		font-size: 1.1em;
 	}
 	.details-section details {
 		margin-top: 10px;
@@ -71,8 +69,8 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 *For more detailed feedback, download my testimonials [here](./assets/files/KohDingYuan_Testimonials.pdf).*
 
 <div class="details-section">
-    <strong>IT Project Management Intern</strong> | Aug 2023 – Apr 2024  
-    <em>ASM International, Singapore</em>  
+    <strong>IT Project Management Intern</strong> | Aug 2023 – Apr 2024
+    <br><em>ASM International, Singapore</em>  
 
     <p>Supported the management of complex IT projects and facilitated project management administrative processes.</p>
 
@@ -103,94 +101,100 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
     </details>
 </div>
 
-**Research Assistant** | Oct 2021 – Jan 2023  
-  *Singapore Institute of Technology, Singapore*
+<div class="details-section">
+    <strong>Research Assistant</strong> | Oct 2021 – Jan 2023
+    <br><em>Singapore Institute of Technology, Singapore</em>
 
-  Conducted advanced quantitative analyses, led a team to ensure efficient and accurate data processing, and developed an Excel-based tracking system to facilitate coordination among the team.
+    <p>Conducted advanced quantitative analyses, led a team to ensure efficient and accurate data processing, and developed an Excel-based tracking system to facilitate coordination among the team.</p>
 
-  <details>
-    <summary>Achievements</summary>
+	<details>
+		<summary>Achievements</summary>
 
-    <strong>Project Blended Design and Critical Thinking</strong>
-    <ul>
-      <li>Assisted in a large-scale SIT ALIGN funded project aimed at developing critical thinking skills in undergraduates across multiple programmes in SIT.</li>
-      <li>Performed lesson observations and conducted comprehensive literature reviews.</li>
-      <li>Encoded data from lesson observations for subsequent processing and analysis.</li>
-    </ul>
-  </details><br>
+		<strong>Project Blended Design and Critical Thinking</strong>
+		<ul>
+			<li>Assisted in a large-scale SIT ALIGN funded project aimed at developing critical thinking skills in undergraduates across multiple programmes in SIT.</li>
+			<li>Performed lesson observations and conducted comprehensive literature reviews.</li>
+			<li>Encoded data from lesson observations for subsequent processing and analysis.</li>
+		</ul>
+	</details>
+</div>
 
-**Store Incharge [National Service]** | Dec 2019 – Aug 2021  
-  *Republic of Singapore Air Force, Singapore*
+<div class="details-section">
+    <strong>Store Incharge [National Service]</strong> | Dec 2019 – Aug 2021
+    <br><em>Republic of Singapore Air Force, Singapore</em>
 
-  As part of the infrastructure team, I managed external contractors to ensure smooth project execution and adherence to timelines. Additionally, I supported the unit's procurement processes, raising purchase requisitions and assisting in finance audit processes as a member of the finance team. My contributions helped ensure the efficient operations and resource management of multiple logistical aspects within the unit.
+	<p>As part of the infrastructure team, I managed external contractors to ensure smooth project execution and adherence to timelines. Additionally, I supported the unit's procurement processes, raising purchase requisitions and assisting in finance audit processes as a member of the finance team. My contributions helped ensure the efficient operations and resource management of multiple logistical aspects within the unit.</p>
 
-  <details>
-    <summary>Achievements</summary>
+	<details>
+		<summary>Achievements</summary>
+	
+		<strong>Budget Planning</strong>
+		<ul>
+			<li>Assisted in annual budget planning by analyzing three years of expense data to improve forecasting accuracy for the FY21/22 budget.</li>
+			<li>Leveraged historical data and quarter-on-quarter analysis to forecast budgets amid the COVID-19 transition period.</li>
+			<li>Applied manual analysis methods, including linear regression and moving averages, to identify financial trends and improve budget accuracy.</li>
+			<li>Enhanced forecasting precision by breaking down expenses into subcategories and analyzing each independently.</li>
+		</ul>
+	
+		<strong>Infrastructural Improvements</strong>
+		<ul>
+			<li>Prepared clearance forms to facilitate contractor work, ensuring compliance with regulations and streamlining workflows.</li>
+			<li>Oversaw contractors and tracked major infrastructure projects such as anti-slip tile installations, energy-efficient LED upgrades, and comprehensive toilet renovations.</li>
+			<li>Coordinated routine contractor services like tank inspections and pest control, ensuring adherence to schedules and quality standards.</li>
+		</ul>
+	
+		<strong>National Day Parade 2020</strong>
+		<ul>
+			<li>Contributed to the management of bus dispatching for parade participants, ensuring timely and efficient transport.</li>
+			<li>Identified communication gaps and logistical inefficiencies during the event, leading to process improvements.</li>
+			<li>Developed a Telegram chatbot to streamline on-site communication, enabling real-time access to relevant data and improving information availability.</li>
+			<li>Enhanced the efficiency and accuracy of logistics coordination, resulting in smoother operations and setting a new communication standard for large-scale events.</li>
+		</ul>
+	</details>
+</div>
+
+<div class="details-section">
+    <strong>Software Development Intern</strong> | Apr 2018 – Aug 2018
+    <br><em>KEYfields Pte Ltd, Singapore</em>
+
+	<p>Contributed to the research and development of features for the company's primary web-based solution by writing and optimizing code using C#, ASP.NET, and MS SQL. Focused on developing modular, scalable functions to enhance the platform's overall functionality and value.</p>
+
+	<details>
+		<summary>Achievements</summary>
+	
+		<strong>Route Optimization Algorithm</strong>
+		<ul>
+			<li>Developed a route optimization algorithm leveraging Dijkstra's Algorithm and the Google Maps API's live data, addressing a critical client need and enhancing the company's offerings.</li>
+			<li>The algorithm incorporated route planning and optimization features to solve the Travelling Salesman Problem, improving service capabilities and efficiency.</li>
+			<li>The solution helped retain a client who was considering switching to a competitor due to the lack of such features, boosting client satisfaction and long-term business retention.</li>
+		</ul>
+	
+		<strong>National Trade Platform (NTP)</strong>
+		<ul>
+		<li>Developed API functions and data transformation processes with Singapore Customs and Accenture to integrate the company's solution with the National   Trade Platform.</li>
+		<li>The integration ensured the solution met regulatory requirements, enabling clients to access government services and remain compliant.</li>
+		<li>The NTP integration improved the company's competitiveness by offering government-compliant services, increasing the platform's value and appeal to   clients requiring such services.</li>
+		</ul>
+
+		<strong>Brute Force Attack Detection</strong>
+		<ul>
+			<li>Discovered a significant performance drop in the company's SQL server and investigated the database logs, identifying unusual activity from an IP address in a country without registered clients.</li>
+			<li>Recognized this anomaly as a potential brute force attack, promptly reporting the findings and recommending actions to improve database security.</li>
+			<li>The recommendations resulted in measures taken to enhance protection against attacks, ensuring data security.</li>
+		</ul>
+
+		<strong>Backup Checker</strong>
+		<ul>
+			<li>Developed a console app to automate backup file monitoring and anomaly detection, streamlining the identification of discrepancies and improving data integrity management.</li>
+		</ul>
   
-    <strong>Budget Planning</strong>
-    <ul>
-      <li>Assisted in annual budget planning by analyzing three years of expense data to improve forecasting accuracy for the FY21/22 budget.</li>
-      <li>Leveraged historical data and quarter-on-quarter analysis to forecast budgets amid the COVID-19 transition period.</li>
-      <li>Applied manual analysis methods, including linear regression and moving averages, to identify financial trends and improve budget accuracy.</li>
-      <li>Enhanced forecasting precision by breaking down expenses into subcategories and analyzing each independently.</li>
-    </ul>
-  
-    <strong>Infrastructural Improvements</strong>
-    <ul>
-      <li>Prepared clearance forms to facilitate contractor work, ensuring compliance with regulations and streamlining workflows.</li>
-      <li>Oversaw contractors and tracked major infrastructure projects such as anti-slip tile installations, energy-efficient LED upgrades, and comprehensive toilet renovations.</li>
-      <li>Coordinated routine contractor services like tank inspections and pest control, ensuring adherence to schedules and quality standards.</li>
-    </ul>
-  
-    <strong>National Day Parade 2020</strong>
-    <ul>
-      <li>Contributed to the management of bus dispatching for parade participants, ensuring timely and efficient transport.</li>
-      <li>Identified communication gaps and logistical inefficiencies during the event, leading to process improvements.</li>
-      <li>Developed a Telegram chatbot to streamline on-site communication, enabling real-time access to relevant data and improving information availability.</li>
-      <li>Enhanced the efficiency and accuracy of logistics coordination, resulting in smoother operations and setting a new communication standard for large-scale events.</li>
-    </ul>
-  </details><br>
-
-**Software Development Intern** | Apr 2018 – Aug 2018  
-  *KEYfields Pte Ltd, Singapore*  
-
-  Contributed to the research and development of features for the company's primary web-based solution by writing and optimizing code using C#, ASP.NET, and MS SQL. Focused on developing modular, scalable functions to enhance the platform's overall functionality and value.
-
-  <details>
-    <summary>Achievements</summary>
-  
-    <strong>Route Optimization Algorithm</strong>
-    <ul>
-      <li>Developed a route optimization algorithm leveraging Dijkstra's Algorithm and the Google Maps API's live data, addressing a critical client need and   enhancing the company's offerings.</li>
-      <li>The algorithm incorporated route planning and optimization features to solve the Travelling Salesman Problem, improving service capabilities and   efficiency.</li>
-      <li>The solution helped retain a client who was considering switching to a competitor due to the lack of such features, boosting client satisfaction and   long-term business retention.</li>
-    </ul>
-  
-    <strong>National Trade Platform (NTP)</strong>
-    <ul>
-      <li>Developed API functions and data transformation processes with Singapore Customs and Accenture to integrate the company's solution with the National   Trade Platform.</li>
-      <li>The integration ensured the solution met regulatory requirements, enabling clients to access government services and remain compliant.</li>
-      <li>The NTP integration improved the company's competitiveness by offering government-compliant services, increasing the platform's value and appeal to   clients requiring such services.</li>
-    </ul>
-
-    <strong>Brute Force Attack Detection</strong>
-    <ul>
-      <li>Discovered a significant performance drop in the company's SQL server and investigated the database logs, identifying unusual activity from an IP   address in a country without registered clients.</li>
-      <li>Recognized this anomaly as a potential brute force attack, promptly reporting the findings and recommending actions to improve database security.</li>
-      <li>The recommendations resulted in measures taken to enhance protection against attacks, ensuring data security.</li>
-    </ul>
-  
-    <strong>Backup Checker</strong>
-    <ul>
-      <li>Developed a console app to automate backup file monitoring and anomaly detection, streamlining the identification of discrepancies and improving data   integrity management.</li>
-    </ul>
-  
-    <strong>Memory Leak Identification</strong>
-    <ul>
-      <li>Assisted in identifying and resolving a misdiagnosed memory shortage issue by hypothesizing a memory leak, rather than the lack of memory.</li>
-      <li>Investigated and identified multiple unclosed database connections due to poor coding practices, which were fixed, improving system performance and   saving unnecessary hardware upgrades.</li>
-    </ul>
-  </details><br>
+    	<strong>Memory Leak Identification</strong>
+		<ul>
+			<li>Assisted in identifying and resolving a misdiagnosed memory shortage issue by hypothesizing a memory leak, rather than the lack of memory.</li>
+			<li>Investigated and identified multiple unclosed database connections due to poor coding practices, which were fixed, improving system performance and saving unnecessary hardware upgrades.</li>
+		</ul>
+	</details>
+</div>
 
 ---
 
