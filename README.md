@@ -13,6 +13,20 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 		text-align: center;
 		vertical-align: baseline;
 		white-space: nowrap;
+		color: #fff;
+		background-color: #6c757d;
+	}
+
+	.pill-badge-outline {
+		margin: 0.1em 0.1em;
+		display: inline-block;
+		padding: 0.25em 0.6em;
+		font-size: 0.75rem;
+		font-weight: 700;
+		border-radius: 10rem;
+		text-align: center;
+		vertical-align: baseline;
+		white-space: nowrap;
 		color: #6c757d;
 		border: 2px solid #6c757d;
 		background-color: transparent;
@@ -174,7 +188,7 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
   *Applied analytical skills to data-driven tasks, such as conducting quantitative research and performing financial analysis, to support informed decision-making.*
 
 ### Technical Skills
-- **Solution Development**:<br> <span class="pill-badge">Android Mobile App Development</span> <span class="pill-badge">Full Stack (Web & API) Development</span> <span class="pill-badge">IoT Solution Development & Design </span>
+- **Solution Development**:<br> <span class="pill-badge-outline">Android Mobile App Development</span> <span class="pill-badge-outline">Full Stack (Web & API) Development</span> <span class="pill-badge-outline">IoT Solution Development & Design </span>
 - **Programming Languages**:<br> Assembly Language, C, C#, Dart, Java, JavaScript, Kotlin, Python, Scala, SQL
 - **Markup Languages**:<br> CSS, HTML, JSON, Markdown, XML, XHTML
 - **Frameworks & Libraries**:<br> ASP.NET (MVC, Razor, Core), Bootstrap, Django REST Framework, Flask, Flutter, jQuery, Material UI, Node.js, React.js, Vue.js  
