@@ -17,7 +17,6 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 		color: #fff;
 		background-color: #6c757d;
 	}
-
 	.pill-badge-outline {
 		margin: 0.1em 0.1em;
 		display: inline-block;
@@ -34,29 +33,19 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 	}
 
 	.details-section {
-		border-left: 5px solid #007bff; /* Blue left bar */
+		border-left: 5px solid #007bff;
 		padding-left: 15px;
 		margin-bottom: 15px;
 	}
-
 	.details-section summary {
 		font-weight: bold;
 		cursor: pointer;
 		font-size: 1.1em;
 	}
-
 	.details-section details {
 		margin-top: 10px;
 		padding-left: 15px;
 	}
-
-	.details-section strong {
-		font-size: 1.1em;
-		margin-top: 5px;
-		display: block;
-		font-weight: bold;
-	}
-
 	.details-section ul {
 		list-style-type: disc;
 		padding-left: 20px;
