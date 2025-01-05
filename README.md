@@ -39,7 +39,7 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 **BSc (Hons) Computing Science** | October 2024  
   Singapore Institute of Technology & University of Glasgow  
   *Specialized in Internet of Things (IOT)*
-<br>
+<br><br>
 **Diploma in Information Technology** | May 2019  
   Singapore Polytechnic  
   *Specialized in Solution Development*
@@ -188,12 +188,23 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
   *Applied analytical skills to data-driven tasks, such as conducting quantitative research and performing financial analysis, to support informed decision-making.*
 
 ### Technical Skills
-- **Solution Development**:<br> <span class="pill-badge-outline">Android Mobile App Development</span> <span class="pill-badge-outline">Full Stack (Web & API) Development</span> <span class="pill-badge-outline">IoT Solution Development & Design </span>
-- **Programming Languages**:<br> Assembly Language, C, C#, Dart, Java, JavaScript, Kotlin, Python, Scala, SQL
-- **Markup Languages**:<br> CSS, HTML, JSON, Markdown, XML, XHTML
-- **Frameworks & Libraries**:<br> ASP.NET (MVC, Razor, Core), Bootstrap, Django REST Framework, Flask, Flutter, jQuery, Material UI, Node.js, React.js, Vue.js  
-- **Databases**:<br> MongoDB, Microsoft SQL Server, MySQL, SQLite
-- **Cloud Computing**:<br> Amazon Web Services (AWS), Google Cloud Platform (GCP), Microsoft Azure
+- **Solution Development**<br><span class="pill-badge-outline">Android Mobile App Development</span> <span class="pill-badge-outline">Full Stack (Web & API) Development</span> <span class="pill-badge-outline">IoT Solution Development & Design </span>
+- **Programming Languages**<br>
+  <span class="pill-badge-outline">Assembly Language</span>
+  <span class="pill-badge-outline">C</span>
+  <span class="pill-badge-outline">C#</span>
+  <span class="pill-badge-outline">Dart</span>
+  <span class="pill-badge-outline">Java</span>
+  <span class="pill-badge-outline">JavaScript</span>
+  <span class="pill-badge-outline">Kotlin</span>
+  <span class="pill-badge-outline">Python</span>
+  <span class="pill-badge-outline">Scala</span>
+  <span class="pill-badge-outline">SQL</span>
+  <span class="pill-badge-outline">T-SQL</span>
+- **Markup Languages**<br> CSS, HTML, JSON, Markdown, XML, XHTML
+- **Frameworks & Libraries**<br> ASP.NET (MVC, Razor, Core), Bootstrap, Django REST Framework, Flask, Flutter, jQuery, Material UI, Node.js, React.js, Vue.js  
+- **Databases**<br> MongoDB, Microsoft SQL Server, MySQL, SQLite
+- **Cloud Computing**<br> Amazon Web Services (AWS), Google Cloud Platform (GCP), Microsoft Azure
 
 ### Languages
 English | Chinese (Mandarin)
