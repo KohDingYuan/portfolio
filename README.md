@@ -41,7 +41,6 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
   Singapore Institute of Technology & University of Glasgow  
   *Specialization in Internet of Things (IOT)*
 
-<br><br>
 
 **Diploma in Information Technology** | May 2019  
   Singapore Polytechnic  
