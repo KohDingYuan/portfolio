@@ -49,6 +49,10 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 		list-style-type: disc;
 		padding-left: 20px;
 	}
+
+	.details-decription {
+		margin-top: 10px;
+	}
 </style>
 
 ---
@@ -73,7 +77,7 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
     <strong>IT Project Management Intern</strong> | Aug 2023 – Apr 2024
     <br><em>ASM International, Singapore</em>  
 
-    <p>Supported the management of complex IT projects and facilitated project management administrative processes.</p>
+    <p class="details-decription">Supported the management of complex IT projects and facilitated project management administrative processes.</p>
 
     <details>
         <summary>Achievements</summary>
@@ -106,7 +110,7 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
     <strong>Research Assistant</strong> | Oct 2021 – Jan 2023
     <br><em>Singapore Institute of Technology, Singapore</em>
 
-    <p>Conducted advanced quantitative analyses, led a team to ensure efficient and accurate data processing, and developed an Excel-based tracking system to facilitate coordination among the team.</p>
+    <p class="details-decription">Conducted advanced quantitative analyses, led a team to ensure efficient and accurate data processing, and developed an Excel-based tracking system to facilitate coordination among the team.</p>
 
 	<details>
 		<summary>Achievements</summary>
@@ -124,7 +128,7 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
     <strong>Store Incharge [National Service]</strong> | Dec 2019 – Aug 2021
     <br><em>Republic of Singapore Air Force, Singapore</em>
 
-	<p>As part of the infrastructure team, I managed external contractors to ensure smooth project execution and adherence to timelines. Additionally, I supported the unit's procurement processes, raising purchase requisitions and assisting in finance audit processes as a member of the finance team. My contributions helped ensure the efficient operations and resource management of multiple logistical aspects within the unit.</p>
+	<p class="details-decription">As part of the infrastructure team, I managed external contractors to ensure smooth project execution and adherence to timelines. Additionally, I supported the unit's procurement processes, raising purchase requisitions and assisting in finance audit processes as a member of the finance team. My contributions helped ensure the efficient operations and resource management of multiple logistical aspects within the unit.</p>
 
 	<details>
 		<summary>Achievements</summary>
@@ -158,7 +162,7 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
     <strong>Software Development Intern</strong> | Apr 2018 – Aug 2018
     <br><em>KEYfields Pte Ltd, Singapore</em>
 
-	<p>Contributed to the research and development of features for the company's primary web-based solution by writing and optimizing code using C#, ASP.NET, and MS SQL. Focused on developing modular, scalable functions to enhance the platform's overall functionality and value.</p>
+	<p class="details-decription">Contributed to the research and development of features for the company's primary web-based solution by writing and optimizing code using C#, ASP.NET, and MS SQL. Focused on developing modular, scalable functions to enhance the platform's overall functionality and value.</p>
 
 	<details>
 		<summary>Achievements</summary>
