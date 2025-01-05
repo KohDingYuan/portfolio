@@ -65,10 +65,37 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 
 **Store Incharge [National Service]** | December 2019 – August 2021  
   *Republic of Singapore Air Force, Singapore*
-- Managed unit procurement finances and oversaw building operations; acted as a liaison with contractors.
-- **Budget Planning**: Assisted in annual budget planning and analyzed three years of expense data for accuracy.
-- **Infrastructural Improvements**: Supervised renovation projects and enhanced tracking with improved Excel sheets; built strong vendor relationships.
+
+  As a member of the infrastructure team, managed external contractors to ensure smooth project execution and adherence to timelines. Additionally, supported the unit's procurement processes by raising purchase requisitions and assisting in finance audit processes as a member of the finance team. Contributed to the efficient operations and resource management of multiple logistical aspects.
   
+<details>
+   <summary>Achievements</summary>
+
+   <strong>Budget Planning</strong>
+   <ul>
+	   <li>Assisted in annual budget planning by analyzing three years of expense data for higher accuracy forecasting of FY21/22 budget.</li>
+	   <li>Leveraged historical data and quarter-on-quarter analaysis to forecast budgets amid the COVID-19 transition.</li>
+	   <li>Utilized manual analysis methods like linear regression and moving averages to identify trends.</li>
+	   <li>Further enhanced forecasting accuracy by breaking down expenses into subcategories and analyzing independently.</li>
+   </ul>
+
+   <strong>Infrastructural Improvements</strong>
+   <ul>
+       <li>Facilitated contractor work by preparing clearance forms, streamlining workflows, and adhering to regulations.</li>
+       <li>Oversaw contractors and tracked projects to ensure seamless execution of major infrastructure work, including anti-slip tile installation, upgrading to energy-efficient LEDs, and comprehensive toilet renovations.</li>
+       <li>Coordinated routine contractor services like tank inspections and pest control, ensuring compliance with standards and schedules.</li>
+   </ul>
+
+   <strong>National Day Parade 2020</strong>
+   <ul>
+       <li>Part of the team that managed the dispatch of buses to transport parade participants.</li>
+       <li>Identified communication gaps and logistics coordination inefficiencies during the event.</li>
+       <li>Developed a Telegram chatbot to streamline on-site communication and provide real-time access to relevant data sources, improving information availability.</li>
+       <li>Improved the efficiency and accuracy of logistics, ensuring a smoother event and setting a new standard for communication in large-scale events.</li>
+   </ul>
+</details>
+
+
 **Software Development Intern** | April 2018 – August 2018  
   *KEYfields Pte Ltd, Singapore*
 
@@ -79,9 +106,9 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 
    <strong>Route Optimization Algorithm</strong>
    <ul>
-       <li>Developed a route optimization algorithm that leveraged Dijkstra's Algorithm and the Google Maps API's live data to address a critical client need and enhance the company's offerings.</li>
+	<li>Developed a route optimization algorithm that leveraged Dijkstra's Algorithm and the Google Maps API's live data to address a critical client need and enhance the company's offerings.</li>
 	   <li>The algorithm incorporated route planning and optimization features to solve the Travelling Salesman problem.</li>
-       <li>The solution helped retain a client who had considered switching to a competitor due to lacking such features, contributing to the client's satisfaction and their continued business.</li>
+	   <li>The solution helped retain a client who had considered switching to a competitor due to lacking such features, contributing to the client's satisfaction and their continued business.</li>
    </ul>
 
    <strong>National Trade Platform (NTP)</strong>
@@ -93,21 +120,21 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 
    <strong>Brute Force Attack Detection</strong>
    <ul>
-       <li>Discovered a significant performance drop in the company's SQL server and investigated the database logs, finding unusual activity from an IP in a country with no registered clients.</li>
+	   <li>Discovered a significant performance drop in the company's SQL server and investigated the database logs, finding unusual activity from an IP in a country with no registered clients.</li>
 	   <li>Traced anomaly prompted detection of a potential brute force attack and promptly reported findings to the supervisor.</li>
-       <li>Provided recommendations to enhance database security, with actions taken to improve protection against attacks and safeguarding data.</li>
+	   <li>Provided recommendations to enhance database security, with actions taken to improve protection against attacks and safeguarding data.</li>
    </ul>
 
    <strong>Backup Checker</strong>
    <ul>
-       <li>Developed a console app to automate backup file monitoring and anomaly detection, streamlining the process by identifying discrepancies and enhancing efficiency while mitigating data integrity risks.</li>
+	   <li>Developed a console app to automate backup file monitoring and anomaly detection, streamlining the process by identifying discrepancies and enhancing efficiency while mitigating data integrity risks.</li>
    </ul>
 
    <strong>Memory Leak Identification</strong>
    <ul>
-       <li>Client's server performance issue was initially misdiagnosed as a memory shortage, leading them to acquire additional RAM, but the problem persisted.</li>
-       <li>Brought in to provide a different perspective on the issue.</li>
-       <li>Hypothesized memory leak, not lack of memory, and identified multiple unclosed database connections due to poor coding - validated hypothesis and resolved issue.</li>
+	   <li>Client's server performance issue was initially misdiagnosed as a memory shortage, leading them to acquire additional RAM, but the problem persisted.</li>
+	   <li>Brought in to provide a different perspective on the issue.</li>
+	   <li>Hypothesized memory leak, not lack of memory, and identified multiple unclosed database connections due to poor coding - validated hypothesis and resolved issue.</li>
    </ul>
 </details>
 
@@ -130,18 +157,18 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
   Built using React Native or Flutter, the app provides a seamless user experience, supported by a robust and scalable backend, showcasing the versatility and technical expertise applied in every aspect of the project.</p>
 
   <details>
-    <summary>Technical Details</summary>
+	<summary>Technical Details</summary>
 
   <h3>Tech Stack</h3>
-    <ul>
-      <li><strong>Front End (Android Mobile)</strong>: Flutter, Dart, Material UI</li>
-      <li><strong>Back End (API Server)</strong>: Django, Python</li>
-      <li><strong>Database</strong>: MySQL</li>
-    </ul>
+	<ul>
+	  <li><strong>Front End (Android Mobile)</strong>: Flutter, Dart, Material UI</li>
+	  <li><strong>Back End (API Server)</strong>: Django, Python</li>
+	  <li><strong>Database</strong>: MySQL</li>
+	</ul>
 
   <h3>Solution Architecture</h3>
-    <img src="./assets/images/uni_capstone_arch.png" alt="Uni Capstone Architecture Design" />
-    <img src="./assets/images/uni_capstone_arch_indepth.png" alt="Uni Capstone Architecture Design Indepth" />
+	<img src="./assets/images/uni_capstone_arch.png" alt="Uni Capstone Architecture Design" />
+	<img src="./assets/images/uni_capstone_arch_indepth.png" alt="Uni Capstone Architecture Design Indepth" />
 
    <br>
 
@@ -171,18 +198,18 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
   I also oversaw the integration of a web-based dashboard that allows administrators to manage surveys, accounts, and conduct data analysis. This dashboard interfaces with the mobile application via a Web API and supports cloud-based data storage. The project's ultimate objective was to streamline the travel survey process, enhance the user experience, and contribute valuable data to support urban redevelopment and transportation improvement initiatives.</p>
 
  <details>
-    <summary>Technical Details</summary>
+	<summary>Technical Details</summary>
 
   <h3>Tech Stack</h3>
-    <ul>
-      <li><strong>Front End (Mobile)</strong>: React Native, Node.js</li>
-      <li><strong>Front End (Dashboard)</strong>: React.js, Node.js</li>
-      <li><strong>Back End (API Server)</strong>: C#, ASP.Net</li>
-      <li><strong>Database</strong>: MS SQL</li>
-    </ul>
+	<ul>
+	  <li><strong>Front End (Mobile)</strong>: React Native, Node.js</li>
+	  <li><strong>Front End (Dashboard)</strong>: React.js, Node.js</li>
+	  <li><strong>Back End (API Server)</strong>: C#, ASP.Net</li>
+	  <li><strong>Database</strong>: MS SQL</li>
+	</ul>
 
   <h3>Solution Architecture</h3>
-    <img src="./assets/images/uni_teamproj_arch.png" alt="Uni Team Project Architecture Design" />
+	<img src="./assets/images/uni_teamproj_arch.png" alt="Uni Team Project Architecture Design" />
 
    <br>
 
@@ -203,10 +230,10 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
    <img src="./assets/images/poly_fyp_arch.png" alt="Poly SDP Architecture Design" />
 
    <h3>Tech Stack</h3>
-    <ul>
-      <li>Scala, MySQL, Wordpress</li>
-    </ul>
-    
+	<ul>
+	  <li>Scala, MySQL, Wordpress</li>
+	</ul>
+	
   <p>Development of a real-time machine learning algorithm tailored for streaming analytics in an e-commerce context. The project focused on capturing live user inputs from the website to train a recommendation model using the Alternating Least Squares (ALS) method. This approach enabled the system to dynamically identify and suggest relevant products to users based on their behavior and preferences. My primary responsibility was writing the code for the machine learning algorithm, ensuring its efficiency and seamless integration into the live environment.</p>
 
 </details><br>
