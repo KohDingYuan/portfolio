@@ -187,13 +187,15 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 - **Analytical Thinking:** <br>
   *Applied analytical skills to data-driven tasks, such as conducting quantitative research and performing financial analysis, to support informed decision-making.*
 
+---
+
 ### Technical Skills
-- **Solution Development**<br>
-  <span class="pill-badge-outline">Android Mobile App Development</span>
-  <span class="pill-badge-outline">Full Stack (Web & API) Development</span>
-  <span class="pill-badge-outline">IoT Solution Development & Design </span>
-  <br>
-- **Programming Languages**<br>
+#### Solution Development
+<span class="pill-badge-outline">Android Mobile App Development</span>
+<span class="pill-badge-outline">Full Stack (Web & API) Development</span>
+<span class="pill-badge-outline">IoT Solution Development & Design </span>
+
+####  Programming Languages
   <span class="pill-badge-outline">Assembly Language</span>
   <span class="pill-badge-outline">C</span>
   <span class="pill-badge-outline">C#</span>
@@ -205,16 +207,16 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
   <span class="pill-badge-outline">Scala</span>
   <span class="pill-badge-outline">SQL</span>
   <span class="pill-badge-outline">T-SQL</span>
-  <br>
-- **Markup Languages**<br>
+
+#### Markup Languages
   <span class="pill-badge-outline">CSS</span>
   <span class="pill-badge-outline">HTML</span>
   <span class="pill-badge-outline">JSON</span>
   <span class="pill-badge-outline">Markdown</span>
   <span class="pill-badge-outline">XML</span>
   <span class="pill-badge-outline">XHTML</span>
-  <br>
-- **Frameworks & Libraries**<br>
+
+#### Frameworks & Libraries
   <span class="pill-badge-outline">ASP.NET (MVC, Razor, Core)</span>
   <span class="pill-badge-outline">Bootstrap</span>
   <span class="pill-badge-outline">Django</span>
@@ -226,18 +228,19 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
   <span class="pill-badge-outline">React.js</span>
   <span class="pill-badge-outline">Vue.js</span>
   <span class="pill-badge-outline">Next.js</span>
-  <br>
-- **Databases**<br>
+
+#### Databases
   <span class="pill-badge-outline">MongoDB</span>
   <span class="pill-badge-outline">Microsoft SQL Server (MS SQL)</span>
   <span class="pill-badge-outline">MySQL</span>
   <span class="pill-badge-outline">SQLite</span>
-  <br>
-- **Cloud Computing**<br>
+
+#### Cloud Computing
   <span class="pill-badge-outline">Amazon Web Services (AWS)</span>
   <span class="pill-badge-outline">Google Cloud Platform (GCP)</span>
   <span class="pill-badge-outline">Microsoft Azure</span>
-  <br>
+
+---
 
 ### Languages
 <span class="pill-badge-outline">English</span>
