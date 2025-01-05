@@ -32,6 +32,35 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 		border: 2px solid #6c757d;
 		background-color: transparent;
 	}
+
+	.details-section {
+		border-left: 5px solid #007bff; /* Blue left bar */
+		padding-left: 15px;
+		margin-bottom: 15px;
+	}
+
+	.details-section summary {
+		font-weight: bold;
+		cursor: pointer;
+		font-size: 1.1em;
+	}
+
+	.details-section details {
+		margin-top: 10px;
+		padding-left: 15px;
+	}
+
+	.details-section strong {
+		font-size: 1.1em;
+		margin-top: 5px;
+		display: block;
+		font-weight: bold;
+	}
+
+	.details-section ul {
+		list-style-type: disc;
+		padding-left: 20px;
+	}
 </style>
 
 ---
@@ -52,36 +81,38 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 
 *For more detailed feedback, download my testimonials [here](./assets/files/KohDingYuan_Testimonials.pdf).*
 
-**IT Project Management Intern** | Aug 2023 – Apr 2024  
-  *ASM International, Singapore*  
+<div class="details-section">
+    <strong>IT Project Management Intern</strong> | Aug 2023 – Apr 2024  
+    <em>ASM International, Singapore</em>  
 
-  Supported the management of complex IT projects and facilitated project management administrative processes.  
+    <p>Supported the management of complex IT projects and facilitated project management administrative processes.</p>
 
-  <details>
-    <summary>Achievements</summary>
+    <details>
+        <summary>Achievements</summary>
 
-    <strong>Project Panaya</strong>
-	<ul>
-	  <li>Coordinated with Panaya's support team to ensure a smooth onboarding process for the company's adoption of Panaya's SAP Testing solution.</li>
-	  <li>Standardised internal processes and developed documentation to streamline the integration and usage of Panaya's solution within the company.</li>
-	  <li>Provided technical support for the implementation of Panaya's solution.</li>
-	  <li>Conducted staff training sessions for Panaya’s SAP Testing.</li>
-	</ul>
+        <strong>Project Panaya</strong>
+        <ul>
+            <li>Coordinated with Panaya's support team to ensure a smooth onboarding process for the company's adoption of Panaya's SAP Testing solution.</li>
+            <li>Standardised internal processes and developed documentation to streamline the integration and usage of Panaya's solution within the company.</li>
+            <li>Provided technical support for the implementation of Panaya's solution.</li>
+            <li>Conducted staff training sessions for Panaya’s SAP Testing.</li>
+        </ul>
 
-    <strong>Project Variant Configurator (VC) Phase 2</strong>
-	<ul>
-	  <li>Supported the System Integration Test, User Acceptance Test, and Go-Live phases, ensuring seamless onsite collaboration.</li>
-	  <li>Documented handover processes to facilitate knowledge transfer.</li>
-	  <li>Created and migrated test cases from existing systems and user requirements to Panaya's SAP Testing solution.</li>
-	</ul>
+        <strong>Project Variant Configurator (VC) Phase 2</strong>
+        <ul>
+            <li>Supported the System Integration Test, User Acceptance Test, and Go-Live phases, ensuring seamless onsite collaboration.</li>
+            <li>Documented handover processes to facilitate knowledge transfer.</li>
+            <li>Created and migrated test cases from existing systems and user requirements to Panaya's SAP Testing solution.</li>
+        </ul>
 
-    <strong>Project TRANS4M</strong>
-	<ul>
-	  <li>Assisted with administrative tasks and logistics management.</li>
-	  <li>Documented handover processes to support project transition.</li>
-	  <li>Supported the migration of test cases from existing systems and user requirements to Panaya's SAP Testing solution.</li>
-	</ul>
-  </details><br>
+        <strong>Project TRANS4M</strong>
+        <ul>
+            <li>Assisted with administrative tasks and logistics management.</li>
+            <li>Documented handover processes to support project transition.</li>
+            <li>Supported the migration of test cases from existing systems and user requirements to Panaya's SAP Testing solution.</li>
+        </ul>
+    </details>
+</div>
 
 **Research Assistant** | Oct 2021 – Jan 2023  
   *Singapore Institute of Technology, Singapore*
