@@ -66,7 +66,6 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
   Singapore Polytechnic  
   *Specialization in Solution Development*
 
-
 ---
 
 ## Experience
