@@ -52,7 +52,7 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 
 *For more detailed feedback, download my testimonials [here](./assets/files/KohDingYuan_Testimonials.pdf).*
 
-- **IT Project Management Intern** | Aug 2023 – Apr 2024  
+**IT Project Management Intern** | Aug 2023 – Apr 2024  
   *ASM International, Singapore*  
 
   Supported the management of complex IT projects and facilitated project management administrative processes.  
@@ -83,7 +83,7 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 	</ul>
   </details><br>
 
-- **Research Assistant** | Oct 2021 – Jan 2023  
+**Research Assistant** | Oct 2021 – Jan 2023  
   *Singapore Institute of Technology, Singapore*
 
   Conducted advanced quantitative analyses, led a team to ensure efficient and accurate data processing, and developed an Excel-based tracking system to facilitate coordination among the team.
@@ -99,7 +99,7 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
     </ul>
   </details><br>
 
-- **Store Incharge [National Service]** | Dec 2019 – Aug 2021  
+**Store Incharge [National Service]** | Dec 2019 – Aug 2021  
   *Republic of Singapore Air Force, Singapore*
 
   As part of the infrastructure team, I managed external contractors to ensure smooth project execution and adherence to timelines. Additionally, I supported the unit's procurement processes, raising purchase requisitions and assisting in finance audit processes as a member of the finance team. My contributions helped ensure the efficient operations and resource management of multiple logistical aspects within the unit.
@@ -131,7 +131,7 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
     </ul>
   </details><br>
 
-- **Software Development Intern** | Apr 2018 – Aug 2018  
+**Software Development Intern** | Apr 2018 – Aug 2018  
   *KEYfields Pte Ltd, Singapore*  
 
   Contributed to the research and development of features for the company's primary web-based solution by writing and optimizing code using C#, ASP.NET, and MS SQL. Focused on developing modular, scalable functions to enhance the platform's overall functionality and value.
@@ -176,7 +176,7 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 
 ## Notable Projects
 
-- **Mobile Application Development for Reward Pedagogy Research | 2024**  
+**Mobile Application Development for Reward Pedagogy Research | 2024**  
   *BSc Computing Science Undergraduate | Singapore Institute of Technology*  
   <details>
     <summary>Project Details</summary>
@@ -209,7 +209,7 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
     </details>
   </details><br>
 
-- **Activity Survey Application for Smart City Planning | 2022 - 2023**  
+**Activity Survey Application for Smart City Planning | 2022 - 2023**  
   *BSc Computing Science Undergraduate | Singapore Institute of Technology*  
   <details>
     <summary>Project Details</summary>
@@ -240,7 +240,7 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
     </details>
   </details><br>
 
-- **Streaming Analytics for E-Commerce Website | 2018 - 2019**  
+**Streaming Analytics for E-Commerce Website | 2018 - 2019**  
   *Diploma Undergraduate | Singapore Polytechnic*  
   <details>
     <summary>Project Details</summary>
