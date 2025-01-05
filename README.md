@@ -23,7 +23,7 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 		padding: 0.25em 0.6em;
 		font-size: 0.75rem;
 		font-weight: 700;
-		border-radius: 10rem;
+		border-radius: 5rem;
 		text-align: center;
 		vertical-align: baseline;
 		white-space: nowrap;
@@ -189,6 +189,7 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 
 ### Technical Skills
 - **Solution Development**<br><span class="pill-badge-outline">Android Mobile App Development</span> <span class="pill-badge-outline">Full Stack (Web & API) Development</span> <span class="pill-badge-outline">IoT Solution Development & Design </span>
+<br>
 - **Programming Languages**<br>
   <span class="pill-badge-outline">Assembly Language</span>
   <span class="pill-badge-outline">C</span>
