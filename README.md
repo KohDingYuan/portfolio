@@ -89,29 +89,27 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
        <li>Developed API functions and engineered data transformation processes in collaboration with Singapore Customs and Accenture to integrate the company's solution with the National Trade Platform, a government-sponsored initiative. This integration ensured the solution met regulatory standards, enabling clients to access government services and comply with the program's guidelines.</li>
        <li>The successful integration with NTP enhanced the company's competitiveness by providing clients access to government-compliant services, which increased the solution's value proposition and boosted its utilization among clients seeking government-related services.</li>
    </ul>
-   <br>
 
    <strong>Brute Force Attack Detection</strong>
    <ul>
        <li>Identified a significant performance degradation in the company's SQL server and proactively investigated the database logs, discovering unusual activity originating from an IP address located in a country where the company had no registered clients. This discovery prompted the detection of a potential brute force attack.</li>
        <li>Traced the suspicious behavior to its source and promptly reported the findings to the supervisor. Based on the identified security risk, I provided recommendations to enhance the company's database security measures, which led to improved protection against potential attacks and safeguarded the organization's sensitive data.</li>
    </ul>
-   <br>
 
    <strong>Backup Checker</strong>
    <ul>
        <li>Designed a console application to automate the tedious daily task of backup file monitoring and anomaly detection. This solution streamlined the process by identifying discrepancies in backup files, enhancing efficiency and mitigating the risk of overlooked data integrity issues.</li>
    </ul>
-   <br>
 
    <strong>Memory Leak Identification</strong>
    <ul>
        <li>After a client’s issue with server performance was misdiagnosed as a memory shortage, they acquired additional RAM, but the problem persisted, leading them to return to the company with dissatisfaction. I was brought in to offer a different perspective on the issue.</li>
        <li>Hypothesized that the issue was likely caused by a memory leak rather than insufficient memory, which led to an investigation that identified multiple database connections not being properly closed due to poor coding practices. This validated my hypothesis and addressed the issue.</li>
    </ul>
-   <br>
 
 </details>
+
+<br>
 
 ---
 
