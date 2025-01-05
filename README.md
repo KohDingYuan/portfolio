@@ -49,9 +49,12 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 		list-style-type: disc;
 		padding-left: 20px;
 	}
-
 	.details-decription {
 		margin-top: 10px;
+	}
+
+	.subtitles {
+		margin-top: 2px;
 	}
 </style>
 
@@ -60,12 +63,12 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 ## Education
 **BSc (Hons) Computing Science** | Oct 2024  
   Singapore Institute of Technology & University of Glasgow  
-  <p class="details-decription"><em>*Specialization in Internet of Things (IOT)</em></p>
+  <p class="subtitles"><em>*Specialization in Internet of Things (IOT)</em></p>
 
 
 **Diploma in Information Technology** | May 2019  
   Singapore Polytechnic  
-  <p class="details-decription"><em>*Specialization in Solution Development</em></p>
+  <p class="subtitles"><em>*Specialization in Solution Development</em></p>
 
 
 ---
