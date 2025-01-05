@@ -4,14 +4,6 @@
 
 A Computing Science graduate with Honours, equipped with a robust programming foundation. I possess diverse experience in project management, research, and process improvement, exhibiting flexibility and adaptability across various roles. Adept at supporting IT projects, conducting research analysis, and collaborating effectively with teams. Eager to leverage my technical expertise and project support acumen in IT management or consultancy, bridging business objectives and technological solutions.
 
-<div class="bootstrap-scoped">
-  <link
-    rel="stylesheet"
-    href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"
-  >
-  <button class="btn btn-primary">Styled by Bootstrap</button>
-</div>
-
 *For PDF resume format, download [here](./assets/files/KohDingYuan_Resume.pdf).*
 
 ---
