@@ -35,7 +35,8 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 	.details-section {
 		border-left: 3px solid #9ac6f5;
 		padding-left: 10px;
-		margin-bottom: 10px;
+		margin-bottom: 20px;
+		margin-top: 20px;
 	}
 	.details-section summary {
 		cursor: pointer;
