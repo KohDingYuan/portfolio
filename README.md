@@ -56,76 +56,76 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 
   As a member of the infrastructure team, managed external contractors to ensure smooth project execution and adherence to timelines. Additionally, supported the unit's procurement processes by raising purchase requisitions and assisting in finance audit processes as a member of the finance team. Contributed to the efficient operations and resource management of multiple logistical aspects.
   
-<details>
-   <summary>Achievements</summary>
-
-   <strong>Budget Planning</strong>
-   <ul>
-	   <li>Assisted in annual budget planning by analyzing three years of expense data for higher accuracy forecasting of FY21/22 budget.</li>
-	   <li>Leveraged historical data and quarter-on-quarter analaysis to forecast budgets amid the COVID-19 transition.</li>
-	   <li>Utilized manual analysis methods like linear regression and moving averages to identify trends.</li>
-	   <li>Further enhanced forecasting accuracy by breaking down expenses into subcategories and analyzing independently.</li>
-   </ul>
-
-   <strong>Infrastructural Improvements</strong>
-   <ul>
-       <li>Facilitated contractor work by preparing clearance forms, streamlining workflows, and adhering to regulations.</li>
-       <li>Oversaw contractors and tracked projects to ensure seamless execution of major infrastructure work, including anti-slip tile installation, upgrading to energy-efficient LEDs, and comprehensive toilet renovations.</li>
-       <li>Coordinated routine contractor services like tank inspections and pest control, ensuring compliance with standards and schedules.</li>
-   </ul>
-
-   <strong>National Day Parade 2020</strong>
-   <ul>
-       <li>Part of the team that managed the dispatch of buses to transport parade participants.</li>
-       <li>Identified communication gaps and logistics coordination inefficiencies during the event.</li>
-       <li>Developed a Telegram chatbot to streamline on-site communication and provide real-time access to relevant data sources, improving information availability.</li>
-       <li>Improved the efficiency and accuracy of logistics, ensuring a smoother event and setting a new standard for communication in large-scale events.</li>
-   </ul>
-</details>
-<br>
+  <details>
+     <summary>Achievements</summary>
+  
+     <strong>Budget Planning</strong>
+     <ul>
+  	   <li>Assisted in annual budget planning by analyzing three years of expense data for higher accuracy forecasting of FY21/22 budget.</li>
+  	   <li>Leveraged historical data and quarter-on-quarter analaysis to forecast budgets amid the COVID-19 transition.</li>
+  	   <li>Utilized manual analysis methods like linear regression and moving averages to identify trends.</li>
+  	   <li>Further enhanced forecasting accuracy by breaking down expenses into subcategories and analyzing independently.</li>
+     </ul>
+  
+     <strong>Infrastructural Improvements</strong>
+     <ul>
+         <li>Facilitated contractor work by preparing clearance forms, streamlining workflows, and adhering to regulations.</li>
+         <li>Oversaw contractors and tracked projects to ensure seamless execution of major infrastructure work, including anti-slip tile installation, upgrading   to energy-efficient LEDs, and comprehensive toilet renovations.</li>
+         <li>Coordinated routine contractor services like tank inspections and pest control, ensuring compliance with standards and schedules.</li>
+     </ul>
+  
+     <strong>National Day Parade 2020</strong>
+     <ul>
+         <li>Part of the team that managed the dispatch of buses to transport parade participants.</li>
+         <li>Identified communication gaps and logistics coordination inefficiencies during the event.</li>
+         <li>Developed a Telegram chatbot to streamline on-site communication and provide real-time access to relevant data sources, improving information   availability.</li>
+         <li>Improved the efficiency and accuracy of logistics, ensuring a smoother event and setting a new standard for communication in large-scale events.</li>
+     </ul>
+  </details>
+  <br>
 
 - **Software Development Intern** | April 2018 – August 2018  
   *KEYfields Pte Ltd, Singapore*
 
   Contributed to the research and development of features for the company's primary web-based solution by writing and optimizing code using C#, ASP.NET, and MS SQL. My focus was on developing modular, scalable functions that enhanced the platform's functionality and overall value.
 
-<details>
-   <summary>Achievements</summary>
-
-   <strong>Route Optimization Algorithm</strong>
-   <ul>
+  <details>
+     <summary>Achievements</summary>
+  
+     <strong>Route Optimization Algorithm</strong>
+     <ul>
 	<li>Developed a route optimization algorithm that leveraged Dijkstra's Algorithm and the Google Maps API's live data to address a critical client need and enhance the company's offerings.</li>
 	   <li>The algorithm incorporated route planning and optimization features to solve the Travelling Salesman problem.</li>
 	   <li>The solution helped retain a client who had considered switching to a competitor due to lacking such features, contributing to the client's satisfaction and their continued business.</li>
-   </ul>
-
-   <strong>National Trade Platform (NTP)</strong>
-   <ul>
+     </ul>
+  
+     <strong>National Trade Platform (NTP)</strong>
+     <ul>
 	   <li>Developed API functions and data transformation processes with Singapore Customs and Accenture to integrate the company's solution with the National Trade Platform.</li>
 	   <li>Integration ensured the solution met regulations, enabling clients to access government services and comply.</li>
 	   <li>The NTP integration enhanced the company's competitiveness by providing government-compliant services, increasing the solution's value and utilization among clients seeking such services.</li>
-   </ul>
-
-   <strong>Brute Force Attack Detection</strong>
-   <ul>
+     </ul>
+  
+     <strong>Brute Force Attack Detection</strong>
+     <ul>
 	   <li>Discovered a significant performance drop in the company's SQL server and investigated the database logs, finding unusual activity from an IP in a country with no registered clients.</li>
 	   <li>Traced anomaly prompted detection of a potential brute force attack and promptly reported findings to the supervisor.</li>
 	   <li>Provided recommendations to enhance database security, with actions taken to improve protection against attacks and safeguarding data.</li>
-   </ul>
-
-   <strong>Backup Checker</strong>
-   <ul>
+     </ul>
+  
+     <strong>Backup Checker</strong>
+     <ul>
 	   <li>Developed a console app to automate backup file monitoring and anomaly detection, streamlining the process by identifying discrepancies and enhancing efficiency while mitigating data integrity risks.</li>
-   </ul>
-
-   <strong>Memory Leak Identification</strong>
-   <ul>
+     </ul>
+  
+     <strong>Memory Leak Identification</strong>
+     <ul>
 	   <li>Client's server performance issue was initially misdiagnosed as a memory shortage, leading them to acquire additional RAM, but the problem persisted.</li>
 	   <li>Brought in to provide a different perspective on the issue.</li>
 	   <li>Hypothesized memory leak, not lack of memory, and identified multiple unclosed database connections due to poor coding - validated hypothesis and resolved issue.</li>
-   </ul>
-</details>
-<br>
+     </ul>
+  </details>
+  <br>
 
 ---
 
