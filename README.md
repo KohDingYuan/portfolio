@@ -51,19 +51,7 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 
 *For more detailed feedback, download my testimonials [here](./assets/files/KohDingYuan_Testimonials.pdf).*
 
-**IT Project Management Intern** | August 2023 – April 2024  
-  *ASM International, Singapore*
-- Assisted in managing complex IT projects and supported project management administrative processes.
-- **Project Panaya**: Standardized internal processes, created documentation, provided technical support, and conducted training for staff for Panaya’s SAP Testing.
-- **Project Variant Configurator (VC) Phase 2**: Supported System Integration Test, User Acceptance Test, and Go Live phases; facilitated onsite collaboration.
-- **Project TRANS4M**: Assisted with administrative tasks and logistics.
-
-**Research Assistant** | October 2021 – January 2023  
-  *Singapore Institute of Technology, Singapore*
-- Conducted quantitative research analysis, oversaw coding tasks for a team, and developed a data capture system in Excel.
-- **Project Blended Design and Critical Thinking**: Contributed to a large-scale SIT ALIGN funded project, performed lesson observations, and conducted literature reviews.
-
-**Store Incharge [National Service]** | December 2019 – August 2021  
+- **Store Incharge [National Service]** | December 2019 – August 2021  
   *Republic of Singapore Air Force, Singapore*
 
   As a member of the infrastructure team, managed external contractors to ensure smooth project execution and adherence to timelines. Additionally, supported the unit's procurement processes by raising purchase requisitions and assisting in finance audit processes as a member of the finance team. Contributed to the efficient operations and resource management of multiple logistical aspects.
@@ -94,9 +82,9 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
        <li>Improved the efficiency and accuracy of logistics, ensuring a smoother event and setting a new standard for communication in large-scale events.</li>
    </ul>
 </details>
+<br>
 
-
-**Software Development Intern** | April 2018 – August 2018  
+- **Software Development Intern** | April 2018 – August 2018  
   *KEYfields Pte Ltd, Singapore*
 
   Contributed to the research and development of features for the company's primary web-based solution by writing and optimizing code using C#, ASP.NET, and MS SQL. My focus was on developing modular, scalable functions that enhanced the platform's functionality and overall value.
@@ -137,7 +125,6 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 	   <li>Hypothesized memory leak, not lack of memory, and identified multiple unclosed database connections due to poor coding - validated hypothesis and resolved issue.</li>
    </ul>
 </details>
-
 <br>
 
 ---
