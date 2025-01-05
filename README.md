@@ -33,7 +33,7 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 	}
 
 	.details-section {
-		border-left: 3px solidrgba(124, 187, 255, 0.84);
+		border-left: 3px solid #9ac6f5;
 		padding-left: 10px;
 		margin-bottom: 10px;
 	}
