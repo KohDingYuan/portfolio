@@ -4,6 +4,7 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 
 <style>
 	.pill-badge {
+		margin: 0.1em 0.1em;
 		display: inline-block;
 		padding: 0.25em 0.6em;
 		font-size: 0.75rem;
@@ -12,8 +13,9 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 		text-align: center;
 		vertical-align: baseline;
 		white-space: nowrap;
-		color: #fff;
-		background-color: #6c757d;
+		color: #6c757d;
+		border: 2px solid #6c757d;
+		background-color: transparent;
 	}
 </style>
 
