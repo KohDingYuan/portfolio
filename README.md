@@ -1,26 +1,21 @@
-<head>
-	<title>Koh DY Portfolio</title>
-</head>
-
 A Computing Science graduate with Honours, equipped with a robust programming foundation. I possess diverse experience in project management, research, and process improvement, exhibiting flexibility and adaptability across various roles. Adept at supporting IT projects, conducting research analysis, and collaborating effectively with teams. Eager to leverage my technical expertise and project support acumen in IT management or consultancy, bridging business objectives and technological solutions.
 
-<div class="bootstrap-scoped">
-  <link
-    rel="stylesheet"
-    href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"
-  >
-  <button class="btn btn-primary">Styled by Bootstrap</button>
-</div>
+*For PDF resume format, download [here](./assets/files/KohDingYuan_Resume.pdf).*
+
 <style>
-	a {
-		all: unset;
-		display: inline;
-		text-decoration: underline;
-		color: blue;
+	.pill-badge {
+		display: inline-block;
+		padding: 0.25em 0.6em;
+		font-size: 0.75rem;
+		font-weight: 700;
+		border-radius: 10rem;
+		text-align: center;
+		vertical-align: baseline;
+		white-space: nowrap;
+		color: #fff;
+		background-color: #6c757d;
 	}
 </style>
-
-*For PDF resume format, download [here](./assets/files/KohDingYuan_Resume.pdf).*
 
 ---
 
@@ -177,7 +172,7 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
   *Applied analytical skills to data-driven tasks, such as conducting quantitative research and performing financial analysis, to support informed decision-making.*
 
 ### Technical Skills
-- **Solution Development**:<br> Android Mobile App Development, Full Stack (Web & API) Development, IoT Solution Development & Design  
+- **Solution Development**:<br> <span class="pill-badge">Android Mobile App Development</span> <span class="pill-badge">Full Stack (Web & API) Development</span> <span class="pill-badge">IoT Solution Development & Design </span>
 - **Programming Languages**:<br> Assembly Language, C, C#, Dart, Java, JavaScript, Kotlin, Python, Scala, SQL
 - **Markup Languages**:<br> CSS, HTML, JSON, Markdown, XML, XHTML
 - **Frameworks & Libraries**:<br> ASP.NET (MVC, Razor, Core), Bootstrap, Django REST Framework, Flask, Flutter, jQuery, Material UI, Node.js, React.js, Vue.js  
