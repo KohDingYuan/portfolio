@@ -50,7 +50,6 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 		gap: 0.4em; /* Adds spacing between icon and text */
 		line-height: 1.2; /* Consistent height for badges */
 	}
-
 	.pill-badge-outline-withicon i {
 		font-size: 1rem; /* Adjust icon size */
 		width: 1.2rem; /* Consistent width for all icons */
@@ -59,11 +58,6 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 		align-items: center;
 		justify-content: center;
 		text-align: center;
-	}
-
-	.pill-badge-outline-withicon i:empty::before {
-		content: "\00a0"; /* Adds a placeholder for missing icons */
-		display: inline-block;
 	}
 	
 	.details-section {
