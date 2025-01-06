@@ -1,3 +1,5 @@
+<link href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" rel="stylesheet">
+
 ## Profile
 A Computing Science graduate with Honours, equipped with a robust programming foundation. I possess diverse experience in project management, research, and process improvement, exhibiting flexibility and adaptability across various roles. Adept at supporting IT projects, conducting research analysis, and collaborating effectively with teams. Eager to leverage my technical expertise and project support acumen in IT management or consultancy, bridging business objectives and technological solutions.
 
@@ -30,6 +32,14 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 		color: #6c757d;
 		border: 2px solid #6c757d;
 		background-color: transparent;
+	}
+	.pill-badge-outline-withicon {
+		display: inline-flex;
+		align-items: center;
+		gap: 0.4em;
+	}
+	.pill-badge-outline-withicon i {
+		font-size: 1rem;
 	}
 
 	.details-section {
@@ -337,6 +347,16 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
   <span class="pill-badge-outline">Scala</span>
   <span class="pill-badge-outline">SQL</span>
   <span class="pill-badge-outline">T-SQL</span>
+
+  <span class="pill-badge-outline-withicon">
+    <i class="devicon-csharp-plain" style="color: #68217A;"></i>
+	<span class="pill-badge-outline">C#</span>
+  </span>
+  <span class="pill-badge-outline-withicon">
+    <i class="devicon-java-plain" style="color: #007396;"></i>
+	<span class="pill-badge-outline">Java</span>
+  </span>
+  
   <br><br>
 - **Markup Languages**<br>
   <span class="pill-badge-outline">CSS</span>
