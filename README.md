@@ -347,59 +347,154 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
   <span class="pill-badge-outline">IoT Solution Development & Design </span>
   <br><br>
 - **Programming Languages**<br>
-  <span class="pill-badge-outline">Assembly Language</span>
-  <span class="pill-badge-outline">C</span>
-  <span class="pill-badge-outline">C#</span>
-  <span class="pill-badge-outline">Dart</span>
-  <span class="pill-badge-outline">Java</span>
-  <span class="pill-badge-outline">JavaScript</span>
-  <span class="pill-badge-outline">Kotlin</span>
-  <span class="pill-badge-outline">Python</span>
-  <span class="pill-badge-outline">Scala</span>
-  <span class="pill-badge-outline">SQL</span>
-  <span class="pill-badge-outline">T-SQL</span>
-
   <span class="pill-badge-outline-withicon">
-    <i class="devicon-csharp-plain" style="color: #68217A;"></i>
-	<span>C#</span>
+    <i class="devicon-embeddedc-plain" style="color: #A65800;"></i>
+    <span>Assembly Language</span>
+  </span>
+  <span class="pill-badge-outline-withicon">
+    <i class="devicon-c-plain" style="color: #00599C;"></i>
+    <span>C</span>
+  </span>
+  <span class="pill-badge-outline-withicon">
+    <i class="devicon-csharp-plain" style="color: #239120;"></i>
+    <span>C#</span>
+  </span>
+  <span class="pill-badge-outline-withicon">
+    <i class="devicon-dart-plain" style="color: #0175C2;"></i>
+    <span>Dart</span>
   </span>
   <span class="pill-badge-outline-withicon">
     <i class="devicon-java-plain" style="color: #007396;"></i>
-	<span>Java</span>
+    <span>Java</span>
   </span>
-  
+  <span class="pill-badge-outline-withicon">
+    <i class="devicon-javascript-plain" style="color: #F7DF1E;"></i>
+    <span>JavaScript</span>
+  </span>
+  <span class="pill-badge-outline-withicon">
+    <i class="devicon-kotlin-plain" style="color: #7F52FF;"></i>
+    <span>Kotlin</span>
+  </span>
+  <span class="pill-badge-outline-withicon">
+    <i class="devicon-python-plain" style="color: #3776AB;"></i>
+    <span>Python</span>
+  </span>
+  <span class="pill-badge-outline-withicon">
+    <i class="devicon-scala-plain" style="color: #DC322F;"></i>
+    <span>Scala</span>
+  </span>
+  <span class="pill-badge-outline-withicon">
+    <i class="devicon-mysql-plain" style="color: #4479A1;"></i>
+    <span>SQL</span>
+  </span>
+  <span class="pill-badge-outline-withicon">
+    <i class="devicon-microsoftsqlserver-plain" style="color: #CC2927;"></i>
+    <span>T-SQL</span>
+  </span>
   <br><br>
 - **Markup Languages**<br>
-  <span class="pill-badge-outline">CSS</span>
-  <span class="pill-badge-outline">HTML</span>
-  <span class="pill-badge-outline">JSON</span>
-  <span class="pill-badge-outline">Markdown</span>
-  <span class="pill-badge-outline">XML</span>
-  <span class="pill-badge-outline">XHTML</span>
+  <span class="pill-badge-outline-withicon">
+    <i class="devicon-css3-plain" style="color: #1572B6;"></i>
+    <span>CSS</span>
+  </span>
+  <span class="pill-badge-outline-withicon">
+    <i class="devicon-html5-plain" style="color: #E34F26;"></i>
+    <span>HTML</span>
+  </span>
+  <span class="pill-badge-outline-withicon">
+    <i class="devicon-json-plain" style="color: #2E6E5E;"></i>
+    <span>JSON</span>
+  </span>
+  <span class="pill-badge-outline-withicon">
+  <i class="devicon-markdown-original" style="color: #000;"></i>
+  <span>Markdown</span>
+  </span>
+  <span class="pill-badge-outline-withicon">
+    <i class="devicon-xml-plain" style="color: #A6617A;"></i>
+    <span>XML</span>
+  </span>
+  <span class="pill-badge-outline-withicon">
+    <i class="devicon-html5-plain" style="color: #E34F26;"></i>
+    <span>XHTML</span>
+  </span>
   <br><br>
 - **Frameworks & Libraries**<br>
-  <span class="pill-badge-outline">ASP.NET (MVC, Razor, Core)</span>
-  <span class="pill-badge-outline">Bootstrap</span>
-  <span class="pill-badge-outline">Django</span>
-  <span class="pill-badge-outline">Flask</span>
-  <span class="pill-badge-outline">Flutter</span>
-  <span class="pill-badge-outline">jQuery</span>
-  <span class="pill-badge-outline">Material UI</span>
-  <span class="pill-badge-outline">Node.js</span>
-  <span class="pill-badge-outline">React.js</span>
-  <span class="pill-badge-outline">Vue.js</span>
-  <span class="pill-badge-outline">Next.js</span>
+  <span class="pill-badge-outline-withicon">
+    <i class="devicon-dotnetcore-plain" style="color: #512BD4;"></i>
+    <span>ASP.NET (MVC, Razor, Core)</span>
+  </span>
+  <span class="pill-badge-outline-withicon">
+    <i class="devicon-bootstrap-plain" style="color: #7952B3;"></i>
+    <span>Bootstrap</span>
+  </span>
+  <span class="pill-badge-outline-withicon">
+    <i class="devicon-django-plain" style="color: #092E20;"></i>
+    <span>Django</span>
+  </span>
+  <span class="pill-badge-outline-withicon">
+    <i class="devicon-flask-original" style="color: #000;"></i>
+    <span>Flask</span>
+  </span>
+  <span class="pill-badge-outline-withicon">
+    <i class="devicon-flutter-plain" style="color: #02569B;"></i>
+    <span>Flutter</span>
+  </span>
+  <span class="pill-badge-outline-withicon">
+    <i class="devicon-jquery-plain" style="color: #0769AD;"></i>
+    <span>jQuery</span>
+  </span>
+  <span class="pill-badge-outline-withicon">
+    <i class="devicon-materialui-plain" style="color: #0081CB;"></i>
+    <span>Material UI</span>
+  </span>
+  <span class="pill-badge-outline-withicon">
+    <i class="devicon-nodejs-plain" style="color: #339933;"></i>
+    <span>Node.js</span>
+  </span>
+  <span class="pill-badge-outline-withicon">
+    <i class="devicon-react-original" style="color: #61DAFB;"></i>
+    <span>React.js</span>
+  </span>
+  <span class="pill-badge-outline-withicon">
+    <i class="devicon-vuejs-plain" style="color: #42B883;"></i>
+    <span>Vue.js</span>
+  </span>
+  <span class="pill-badge-outline-withicon">
+    <i class="devicon-nextjs-original" style="color: #000;"></i>
+    <span>Next.js</span>
+  </span>
   <br><br>
 - **Databases**<br>
-  <span class="pill-badge-outline">MongoDB</span>
-  <span class="pill-badge-outline">Microsoft SQL Server (MS SQL)</span>
-  <span class="pill-badge-outline">MySQL</span>
-  <span class="pill-badge-outline">SQLite</span>
+  <span class="pill-badge-outline-withicon">
+    <i class="devicon-mongodb-plain" style="color: #47A248;"></i>
+    <span>MongoDB</span>
+  </span>
+  <span class="pill-badge-outline-withicon">
+    <i class="devicon-microsoftsqlserver-plain" style="color: #CC2927;"></i>
+    <span>Microsoft SQL Server (MS SQL)</span>
+  </span>
+  <span class="pill-badge-outline-withicon">
+    <i class="devicon-mysql-plain" style="color: #4479A1;"></i>
+    <span>MySQL</span>
+  </span>
+  <span class="pill-badge-outline-withicon">
+    <i class="devicon-sqlite-plain" style="color: #003B57;"></i>
+    <span>SQLite</span>
+  </span>
   <br><br>
 - **Cloud Computing**<br>
-  <span class="pill-badge-outline">Amazon Web Services (AWS)</span>
-  <span class="pill-badge-outline">Google Cloud Platform (GCP)</span>
-  <span class="pill-badge-outline">Microsoft Azure</span>
+  <span class="pill-badge-outline-withicon">
+    <i class="devicon-amazonwebservices-plain" style="color: #FF9900;"></i>
+    <span>Amazon Web Services (AWS)</span>
+  </span>
+  <span class="pill-badge-outline-withicon">
+    <i class="devicon-googlecloud-plain" style="color: #4285F4;"></i>
+    <span>Google Cloud Platform (GCP)</span>
+  </span>
+  <span class="pill-badge-outline-withicon">
+    <i class="devicon-azure-plain" style="color: #0078D7;"></i>
+    <span>Microsoft Azure</span>
+  </span>
   <br><br>
 
 ---
