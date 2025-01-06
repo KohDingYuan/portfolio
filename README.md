@@ -361,11 +361,11 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 
   <span class="pill-badge-outline-withicon">
     <i class="devicon-csharp-plain" style="color: #68217A;"></i>
-	<span class="pill-badge-outline">C#</span>
+	<span>C#</span>
   </span>
   <span class="pill-badge-outline-withicon">
     <i class="devicon-java-plain" style="color: #007396;"></i>
-	<span class="pill-badge-outline">Java</span>
+	<span>Java</span>
   </span>
   
   <br><br>
