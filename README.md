@@ -266,7 +266,7 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 						<i class="devicon-materialui-plain" style="color: #0081CB;"></i>
 						<span>Material UI</span>
 					</span>
-					<br>
+					<br><br>
 				</li>
 				<li>
 					<strong>Back End (API Server)</strong>:<br>
@@ -278,7 +278,7 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 						<i class="devicon-python-plain" style="color: #3776AB;"></i>
 						<span>Python</span>
 					</span>
-					<br>
+					<br><br>
 				</li>
 				<li>
 					<strong>Database</strong>:<br>
@@ -286,7 +286,7 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 						<i class="devicon-mysql-plain" style="color: #4479A1;"></i>
 						<span>MySQL</span>
 					</span>
-					<br>
+					<br><br>
 				</li>
 			</ul>
 
@@ -330,7 +330,7 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 						<i class="devicon-nodejs-plain" style="color: #339933;"></i>
 						<span>Node.js</span>
 					</span>
-					<br>
+					<br><br>
 				</li>
 				<li>
 					<strong>Front End (Dashboard)</strong>:<br>
@@ -342,7 +342,7 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 						<i class="devicon-nodejs-plain" style="color: #339933;"></i>
 						<span>Node.js</span>
 					</span>
-					<br>
+					<br><br>
 				</li>
 				<li>
 					<strong>Back End (API Server)</strong>:<br>
@@ -354,7 +354,7 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 						<i class="devicon-dotnetcore-plain" style="color: #512BD4;"></i>
 						<span>ASP.Net</span>
 					</span>
-					<br>
+					<br><br>
 				</li>
 				<li>
 					<strong>Database</strong>:<br>
@@ -362,7 +362,7 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 						<i class="devicon-microsoftsqlserver-plain" style="color: #CC2927;"></i>
 						<span>Microsoft SQL Server (MS SQL)</span>
 					</span>
-					<br>
+					<br><br>
 				</li>
 			</ul>
 
@@ -392,7 +392,7 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 					<i class="devicon-wordpress-plain" style="color: #4479A1;"></i>
 					<span>Wordpress</span>
 				</span>
-				<br>
+				<br><br>
 			</li>
 			<li>
 				<strong>Back End</strong>:<br>
@@ -400,7 +400,7 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 					<i class="devicon-scala-plain" style="color: #DC322F;"></i>
 					<span>Scala</span>
 				</span>
-				<br>
+				<br><br>
 			</li>
 			<li>
 				<strong>Database</strong>:<br>
@@ -408,7 +408,7 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 					<i class="devicon-mysql-plain" style="color: #4479A1;"></i>
 					<span>MySQL</span>
 				</span>
-				<br>
+				<br><br>
 			</li>
 		</ul>
 
