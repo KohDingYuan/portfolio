@@ -35,23 +35,34 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 	}
 	.pill-badge-outline-withicon {
 		margin: 0.1em 0.1em;
-		display: inline-flex;
-		align-items: center;
+		display: inline-flex; /* Ensures alignment between icon and text */
+		align-items: center; /* Centers icon and text vertically */
 		padding: 0.25em 0.6em;
 		font-size: 0.75rem;
 		font-weight: 700;
 		border-radius: 5rem;
 		text-align: center;
-		vertical-align: baseline;
+		vertical-align: middle; /* Ensures badges align consistently */
 		white-space: nowrap;
 		color: #6c757d;
 		border: 2px solid #6c757d;
 		background-color: transparent;
+		gap: 0.4em; /* Adds spacing between icon and text */
+		line-height: 1.2; /* Consistent height for badges */
 	}
+
 	.pill-badge-outline-withicon i {
-		font-size: 1rem;
-		width: 1.2rem;
+		font-size: 1rem; /* Adjust icon size */
+		width: 1.2rem; /* Consistent width for all icons */
+		height: 1.2rem; /* Ensures icon dimensions remain consistent */
+		display: flex; /* Center aligns placeholder or icon */
+		align-items: center;
+		justify-content: center;
 		text-align: center;
+	}
+
+	.pill-badge-outline-withicon i:empty::before {
+		content: "\00a0"; /* Adds a placeholder for missing icons */
 		display: inline-block;
 	}
 	
