@@ -34,8 +34,19 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 		background-color: transparent;
 	}
 	.pill-badge-outline-withicon {
+		margin: 0.1em 0.1em;
 		display: inline-flex;
 		align-items: center;
+		padding: 0.25em 0.6em;
+		font-size: 0.75rem;
+		font-weight: 700;
+		border-radius: 5rem;
+		text-align: center;
+		vertical-align: baseline;
+		white-space: nowrap;
+		color: #6c757d;
+		border: 2px solid #6c757d;
+		background-color: transparent;
 		gap: 0.4em;
 	}
 	.pill-badge-outline-withicon i {
