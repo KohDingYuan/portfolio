@@ -253,7 +253,7 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
             <h3>Tech Stack</h3>
             <ul>
                 <li>
-					<strong>Front End (Android Mobile)</strong>: 
+					<strong>Front End (Android Mobile)</strong>:<br>
 					<span class="pill-badge-outline-withicon">
 						<i class="devicon-flutter-plain" style="color: #02569B;"></i>
 						<span>Flutter</span>
@@ -268,7 +268,7 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 					</span>
 				</li>
 				<li>
-					<strong>Back End (API Server)</strong>: 
+					<strong>Back End (API Server)</strong>:<br>
 					<span class="pill-badge-outline-withicon">
 						<i class="devicon-django-plain" style="color: #092E20;"></i>
 						<span>Django</span>
@@ -279,7 +279,7 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 					</span>
 				</li>
 				<li>
-					<strong>Database</strong>: 
+					<strong>Database</strong>:<br>
 					<span class="pill-badge-outline-withicon">
 						<i class="devicon-mysql-plain" style="color: #4479A1;"></i>
 						<span>MySQL</span>
@@ -318,7 +318,7 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
             <h3>Tech Stack</h3>
 			<ul>
 				<li>
-					<strong>Front End (Mobile)</strong>: 
+					<strong>Front End (Mobile)</strong>:<br>
 					<span class="pill-badge-outline-withicon">
 						<i class="devicon-react-original" style="color: #61DAFB;"></i>
 						<span>React Native</span>
@@ -329,7 +329,7 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 					</span>
 				</li>
 				<li>
-					<strong>Front End (Dashboard)</strong>: 
+					<strong>Front End (Dashboard)</strong>:<br>
 					<span class="pill-badge-outline-withicon">
 						<i class="devicon-react-original" style="color: #61DAFB;"></i>
 						<span>React.js</span>
@@ -340,7 +340,7 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 					</span>
 				</li>
 				<li>
-					<strong>Back End (API Server)</strong>: 
+					<strong>Back End (API Server)</strong>:<br>
 					<span class="pill-badge-outline-withicon">
 						<i class="devicon-csharp-plain" style="color: #239120;"></i>
 						<span>C#</span>
@@ -351,7 +351,7 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 					</span>
 				</li>
 				<li>
-					<strong>Database</strong>: 
+					<strong>Database</strong>:<br>
 					<span class="pill-badge-outline-withicon">
 						<i class="devicon-microsoftsqlserver-plain" style="color: #CC2927;"></i>
 						<span>Microsoft SQL Server (MS SQL)</span>
@@ -379,19 +379,26 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 
         <h3>Tech Stack</h3>
         <ul>
-            <li>Scala, MySQL, Wordpress
-			<span class="pill-badge-outline-withicon">
-				<i class="devicon-scala-plain" style="color: #DC322F;"></i>
-				<span>Scala</span>
-			</span>
-			<span class="pill-badge-outline-withicon">
-				<i class="devicon-mysql-plain" style="color: #4479A1;"></i>
-				<span>MySQL</span>
-			</span>
-			<span class="pill-badge-outline-withicon">
-				<i class="devicon-wordpress-plain" style="color: #4479A1;"></i>
-				<span>Wordpress</span>
-			</span>
+			<li>
+				<strong>Front End</strong>:<br>
+				<span class="pill-badge-outline-withicon">
+					<i class="devicon-wordpress-plain" style="color: #4479A1;"></i>
+					<span>Wordpress</span>
+				</span>
+			</li>
+			<li>
+				<strong>Back End</strong>:<br>
+				<span class="pill-badge-outline-withicon">
+					<i class="devicon-scala-plain" style="color: #DC322F;"></i>
+					<span>Scala</span>
+				</span>
+			</li>
+			<li>
+				<strong>Database</strong>:<br>
+				<span class="pill-badge-outline-withicon">
+					<i class="devicon-mysql-plain" style="color: #4479A1;"></i>
+					<span>MySQL</span>
+				</span>
 			</li>
 		</ul>
 
