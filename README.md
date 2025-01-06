@@ -185,7 +185,7 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 
 		<strong>Letter of Commendation</strong>
 		<ul>
-			<li>Awarded Letter of Commendation for Best Airman of the month for January 2021.</li>
+			<li>Awarded Letter of Commendation for Best Airman of the Month for January 2021.</li>
 		</ul>
 	</details>
 </div>
