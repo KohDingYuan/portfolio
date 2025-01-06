@@ -51,8 +51,16 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 	}
 	.pill-badge-outline-withicon i {
 		font-size: 1rem;
+		width: 1.2rem;
+		text-align: center;
+		display: inline-block;
 	}
-
+	.pill-badge-outline-withicon i:empty::before {
+		content: "\00a0";
+		display: inline-block;
+		width: 1.2rem;
+	}
+	
 	.details-section {
 		border-left: 3px solid #87add3;
 		padding-left: 10px;
@@ -402,13 +410,12 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
     <span>HTML</span>
   </span>
   <span class="pill-badge-outline-withicon">
-  <i class="devicon-aarch64-plain"></i>
     <i class="devicon-json-plain"></i>
     <span>JSON</span>
   </span>
   <span class="pill-badge-outline-withicon">
-  <i class="devicon-markdown-original" style="color: #000;"></i>
-  <span>Markdown</span>
+    <i class="devicon-markdown-original" style="color: #000;"></i>
+    <span>Markdown</span>
   </span>
   <span class="pill-badge-outline-withicon">
     <i class="devicon-xml-plain"></i>
