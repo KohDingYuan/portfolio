@@ -182,6 +182,11 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 			<li>Developed a Telegram chatbot to streamline on-site communication, enabling real-time access to relevant data and improving information availability.</li>
 			<li>Enhanced the efficiency and accuracy of logistics coordination, resulting in smoother operations and setting a new communication standard for large-scale events.</li>
 		</ul>
+
+		<strong>Letter of Commendation</strong>
+		<ul>
+			<li>Awarded Letter of Commendation for Best Airman of the month for January 2021.</li>
+		</ul>
 	</details>
 </div>
 
