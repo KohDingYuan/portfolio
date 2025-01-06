@@ -252,10 +252,40 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 
             <h3>Tech Stack</h3>
             <ul>
-                <li><strong>Front End (Android Mobile)</strong>: Flutter, Dart, Material UI</li>
-                <li><strong>Back End (API Server)</strong>: Django, Python</li>
-                <li><strong>Database</strong>: MySQL</li>
-            </ul>
+                <li>
+					<strong>Front End (Android Mobile)</strong>: 
+					<span class="pill-badge-outline-withicon">
+						<i class="devicon-flutter-plain" style="color: #02569B;"></i>
+						<span>Flutter</span>
+					</span>
+					<span class="pill-badge-outline-withicon">
+						<i class="devicon-dart-plain" style="color: #0175C2;"></i>
+						<span>Dart</span>
+					</span>
+					<span class="pill-badge-outline-withicon">
+						<i class="devicon-materialui-plain" style="color: #0081CB;"></i>
+						<span>Material UI</span>
+					</span>
+				</li>
+				<li>
+					<strong>Back End (API Server)</strong>: 
+					<span class="pill-badge-outline-withicon">
+						<i class="devicon-django-plain" style="color: #092E20;"></i>
+						<span>Django</span>
+					</span>
+					<span class="pill-badge-outline-withicon">
+						<i class="devicon-python-plain" style="color: #3776AB;"></i>
+						<span>Python</span>
+					</span>
+				</li>
+				<li>
+					<strong>Database</strong>: 
+					<span class="pill-badge-outline-withicon">
+						<i class="devicon-mysql-plain" style="color: #4479A1;"></i>
+						<span>MySQL</span>
+					</span>
+				</li>
+			</ul>
 
             <h3>Solution Architecture</h3>
 
@@ -286,12 +316,48 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
         <details>
             <summary>Technical Details</summary>
             <h3>Tech Stack</h3>
-            <ul>
-                <li><strong>Front End (Mobile)</strong>: React Native, Node.js</li>
-                <li><strong>Front End (Dashboard)</strong>: React.js, Node.js</li>
-                <li><strong>Back End (API Server)</strong>: C#, ASP.Net</li>
-                <li><strong>Database</strong>: MS SQL</li>
-            </ul>
+			<ul>
+				<li>
+					<strong>Front End (Mobile)</strong>: 
+					<span class="pill-badge-outline-withicon">
+						<i class="devicon-react-original" style="color: #61DAFB;"></i>
+						<span>React Native</span>
+					</span>
+					<span class="pill-badge-outline-withicon">
+						<i class="devicon-nodejs-plain" style="color: #339933;"></i>
+						<span>Node.js</span>
+					</span>
+				</li>
+				<li>
+					<strong>Front End (Dashboard)</strong>: 
+					<span class="pill-badge-outline-withicon">
+						<i class="devicon-react-original" style="color: #61DAFB;"></i>
+						<span>React.js</span>
+					</span>
+					<span class="pill-badge-outline-withicon">
+						<i class="devicon-nodejs-plain" style="color: #339933;"></i>
+						<span>Node.js</span>
+					</span>
+				</li>
+				<li>
+					<strong>Back End (API Server)</strong>: 
+					<span class="pill-badge-outline-withicon">
+						<i class="devicon-csharp-plain" style="color: #239120;"></i>
+						<span>C#</span>
+					</span>
+					<span class="pill-badge-outline-withicon">
+						<i class="devicon-dotnetcore-plain" style="color: #512BD4;"></i>
+						<span>ASP.Net</span>
+					</span>
+				</li>
+				<li>
+					<strong>Database</strong>: 
+					<span class="pill-badge-outline-withicon">
+						<i class="devicon-microsoftsqlserver-plain" style="color: #CC2927;"></i>
+						<span>Microsoft SQL Server (MS SQL)</span>
+					</span>
+				</li>
+			</ul>
 
             <h3>Solution Architecture</h3>
             <img src="./assets/images/uni_teamproj_arch.png" alt="Uni Team Project Architecture Design" />
@@ -313,8 +379,21 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 
         <h3>Tech Stack</h3>
         <ul>
-            <li>Scala, MySQL, Wordpress</li>
-        </ul>
+            <li>Scala, MySQL, Wordpress
+			<span class="pill-badge-outline-withicon">
+				<i class="devicon-scala-plain" style="color: #DC322F;"></i>
+				<span>Scala</span>
+			</span>
+			<span class="pill-badge-outline-withicon">
+				<i class="devicon-mysql-plain" style="color: #4479A1;"></i>
+				<span>MySQL</span>
+			</span>
+			<span class="pill-badge-outline-withicon">
+				<i class="devicon-wordpress-plain" style="color: #4479A1;"></i>
+				<span>Wordpress</span>
+			</span>
+			</li>
+		</ul>
 
         <p>Development of a real-time machine learning algorithm tailored for streaming analytics in an e-commerce context. The project focused on capturing live user inputs from the website to train a recommendation model using the Alternating Least Squares (ALS) method. This approach enabled the system to dynamically identify and suggest relevant products to users based on their behavior and preferences.<br><br>My primary responsibility was writing the code for the machine learning algorithm, ensuring its efficiency and seamless integration into the live environment.</p>
     </details>
@@ -415,9 +494,8 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
   <span class="pill-badge-outline">
     XML
   </span>
-  <span class="pill-badge-outline-withicon">
-    <i class="devicon-html5-plain" style="color: #E34F26;"></i>
-    <span>XHTML</span>
+  <span class="pill-badge-outline">
+    XHTML
   </span>
   <br><br>
 - **Frameworks & Libraries**<br>
