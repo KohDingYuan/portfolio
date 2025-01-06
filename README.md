@@ -348,7 +348,7 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
   <br><br>
 - **Programming Languages**<br>
   <span class="pill-badge-outline-withicon">
-    <i class="devicon-embeddedc-plain" style="color: #A65800;"></i>
+    <i class="devicon-aarch64-plain" style="color: #A65800;"></i>
     <span>Assembly Language</span>
   </span>
   <span class="pill-badge-outline-withicon">
@@ -384,11 +384,11 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
     <span>Scala</span>
   </span>
   <span class="pill-badge-outline-withicon">
-    <i class="devicon-mysql-plain" style="color: #4479A1;"></i>
+    <i class="devicon-azuresqldatabase-plain" style="color: #4479A1;"></i>
     <span>SQL</span>
   </span>
   <span class="pill-badge-outline-withicon">
-    <i class="devicon-microsoftsqlserver-plain" style="color: #CC2927;"></i>
+    <i class="devicon-azuresqldatabase-plain" style="color: #4479A1;"></i>
     <span>T-SQL</span>
   </span>
   <br><br>
@@ -402,7 +402,8 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
     <span>HTML</span>
   </span>
   <span class="pill-badge-outline-withicon">
-    <i class="devicon-json-plain" style="color: #2E6E5E;"></i>
+  <i class="devicon-aarch64-plain"></i>
+    <i class="devicon-json-plain"></i>
     <span>JSON</span>
   </span>
   <span class="pill-badge-outline-withicon">
@@ -410,7 +411,7 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
   <span>Markdown</span>
   </span>
   <span class="pill-badge-outline-withicon">
-    <i class="devicon-xml-plain" style="color: #A6617A;"></i>
+    <i class="devicon-xml-plain"></i>
     <span>XML</span>
   </span>
   <span class="pill-badge-outline-withicon">
@@ -484,7 +485,7 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
   <br><br>
 - **Cloud Computing**<br>
   <span class="pill-badge-outline-withicon">
-    <i class="devicon-amazonwebservices-plain" style="color: #FF9900;"></i>
+    <i class="devicon-amazonwebservices-plain-wordmark" style="color: #FF9900;"></i>
     <span>Amazon Web Services (AWS)</span>
   </span>
   <span class="pill-badge-outline-withicon">
