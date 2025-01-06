@@ -354,9 +354,8 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
   <span class="pill-badge-outline">IoT Solution Development & Design </span>
   <br><br>
 - **Programming Languages**<br>
-  <span class="pill-badge-outline-withicon">
-    <i class="devicon-aarch64-plain" style="color: #A65800;"></i>
-    <span>Assembly Language</span>
+  <span class="pill-badge-outline">
+    Assembly Language
   </span>
   <span class="pill-badge-outline-withicon">
     <i class="devicon-c-plain" style="color: #00599C;"></i>
@@ -390,13 +389,11 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
     <i class="devicon-scala-plain" style="color: #DC322F;"></i>
     <span>Scala</span>
   </span>
-  <span class="pill-badge-outline-withicon">
-    <i class="devicon-azuresqldatabase-plain" style="color: #4479A1;"></i>
-    <span>SQL</span>
+  <span class="pill-badge-outline">
+    SQL
   </span>
   <span class="pill-badge-outline-withicon">
-    <i class="devicon-azuresqldatabase-plain" style="color: #4479A1;"></i>
-    <span>T-SQL</span>
+    T-SQL
   </span>
   <br><br>
 - **Markup Languages**<br>
