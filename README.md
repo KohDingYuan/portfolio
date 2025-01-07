@@ -169,7 +169,7 @@
 	</details>
 </div>
 
-<div class="details-section details-section-color010">
+<div class="details-section details-section-color011">
     <strong>Store Incharge</strong> <span class="pill-badge-outline pill-badge-outline-info">National Service</span> | Dec 2019 – Aug 2021
     <br><em>Republic of Singapore Air Force, Singapore</em>
 
@@ -401,7 +401,7 @@
     </details>
 </div>
 
-<div class="details-section details-section-color030">
+<div class="details-section details-section-color031">
     <strong>Streaming Analytics for E-Commerce Website | 2018 - 2019</strong>  
     <br><em>Diploma Undergraduate | Singapore Polytechnic</em>  
 
@@ -481,7 +481,7 @@
 	</details>
 </div>
 
-<div class="details-section details-section-color020">
+<div class="details-section details-section-color021">
 	<strong>Singapore-Cambridge GCE Ordinary Level | 2015  </strong>
 	<br>Woodgrove Secondary School
 
