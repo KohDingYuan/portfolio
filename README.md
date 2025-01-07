@@ -82,10 +82,10 @@
 		border-left-color: #B69691;
 	}
 	.details-section-color030 {
-		border-left-color: #B5F5F8;
+		border-left-color: #B6F5F7;
 	}
 	.details-section-color031 {
-		border-left-color: #E0FBFC;
+		border-left-color: #C8F7F9;
 	}
 	.details-section-color040 {
 		border-left-color: #ABD3D8;
