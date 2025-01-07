@@ -489,7 +489,7 @@
         <summary>View Details</summary>
 
 		<strong>CCA Details</strong><br>
-		CCA: Green Activist Club
+		CCA: Green Activist Club<br>
 		Position: Vice Chairman
 	</details>
 </div>
