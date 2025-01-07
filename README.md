@@ -44,7 +44,8 @@
 		text-align: center;
 	}
 	.pill-badge-outline-info {
-		border: 2px solid #A37A74;
+		color: #E08767;
+		border: 2px solid #E08767;
 	}
 	
 	.details-section {
@@ -69,7 +70,7 @@
 	}
 
 	.details-section-color010 {
-		border-left-color: #E49273;
+		border-left-color: #E7A188;
 	}
 	.details-section-color011 {
 		border-left-color: #EBAE98;
@@ -167,7 +168,7 @@
 </div>
 
 <div class="details-section details-section-color010">
-    <strong>Store Incharge</strong><span class="pill-badge-outline pill-badge-outline-info">National Service</span> | Dec 2019 – Aug 2021
+    <strong>Store Incharge</strong> <span class="pill-badge-outline pill-badge-outline-info">National Service</span> | Dec 2019 – Aug 2021
     <br><em>Republic of Singapore Air Force, Singapore</em>
 
 	<p class="details-decription text-justify">As part of the infrastructure team, I managed external contractors to ensure smooth project execution and adherence to timelines. Additionally, I supported the unit's procurement processes, raising purchase requisitions and assisting in finance audit processes as a member of the finance team. My contributions helped ensure the efficient operations and resource management of multiple logistical aspects within the unit.</p>
