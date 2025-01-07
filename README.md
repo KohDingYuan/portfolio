@@ -1,9 +1,6 @@
-<link href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" rel="stylesheet">
-
-## Profile
-A Computing Science graduate with Honours, equipped with a robust programming foundation. I possess diverse experience in project management, research, and process improvement, exhibiting flexibility and adaptability across various roles. Adept at supporting IT projects, conducting research analysis, and collaborating effectively with teams. Eager to leverage my technical expertise and project support acumen in IT management or consultancy, bridging business objectives and technological solutions.
-
-*For PDF resume format, download [here](./assets/files/KohDingYuan_Resume.pdf).*
+<head>
+	<link href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" rel="stylesheet">
+</head>
 
 <style>
 	.pill-badge {
@@ -80,7 +77,18 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 	.details-decription {
 		margin-top: 10px;
 	}
+
+	.text-justify {
+		text-align: justify;
+		word-break: break-word;
+		hyphens: auto;
+	}
 </style>
+
+## Profile
+<p class="text-justify">A Computing Science graduate with Honours, equipped with a robust programming foundation. I possess diverse experience in project management, research, and process improvement, exhibiting flexibility and adaptability across various roles. Adept at supporting IT projects, conducting research analysis, and collaborating effectively with teams. Eager to leverage my technical expertise and project support acumen in IT management or consultancy, bridging business objectives and technological solutions.</p>
+
+*For PDF resume format, download [here](./assets/files/KohDingYuan_Resume.pdf).*
 
 ---
 
@@ -104,13 +112,13 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
     <strong>IT Project Management Intern</strong> | Aug 2023 – Apr 2024
     <br><em>ASM International, Singapore</em>  
 
-    <p class="details-decription">Supported the management of complex IT projects and facilitated project management administrative processes.</p>
+    <p class="details-decription text-justify">Supported the management of complex IT projects and facilitated project management administrative processes.</p>
 
     <details>
         <summary>Achievements</summary>
 
         <strong>Project Panaya</strong>
-        <ul>
+        <ul class="text-justify">
             <li>Coordinated with Panaya's support team to ensure a smooth onboarding process for the company's adoption of Panaya's SAP Testing solution.</li>
             <li>Standardised internal processes and developed documentation to streamline the integration and usage of Panaya's solution within the company.</li>
             <li>Provided technical support for the implementation of Panaya's solution.</li>
@@ -137,7 +145,7 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
     <strong>Research Assistant</strong> | Oct 2021 – Jan 2023
     <br><em>Singapore Institute of Technology, Singapore</em>
 
-    <p class="details-decription">Conducted advanced quantitative analyses, led a team to ensure efficient and accurate data processing, and developed an Excel-based tracking system to facilitate coordination among the team.</p>
+    <p class="details-decription text-justify">Conducted advanced quantitative analyses, led a team to ensure efficient and accurate data processing, and developed an Excel-based tracking system to facilitate coordination among the team.</p>
 
 	<details>
 		<summary>Achievements</summary>
@@ -155,7 +163,7 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
     <strong>Store Incharge [National Service]</strong> | Dec 2019 – Aug 2021
     <br><em>Republic of Singapore Air Force, Singapore</em>
 
-	<p class="details-decription">As part of the infrastructure team, I managed external contractors to ensure smooth project execution and adherence to timelines. Additionally, I supported the unit's procurement processes, raising purchase requisitions and assisting in finance audit processes as a member of the finance team. My contributions helped ensure the efficient operations and resource management of multiple logistical aspects within the unit.</p>
+	<p class="details-decription text-justify">As part of the infrastructure team, I managed external contractors to ensure smooth project execution and adherence to timelines. Additionally, I supported the unit's procurement processes, raising purchase requisitions and assisting in finance audit processes as a member of the finance team. My contributions helped ensure the efficient operations and resource management of multiple logistical aspects within the unit.</p>
 
 	<details>
 		<summary>Achievements</summary>
@@ -194,7 +202,7 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
     <strong>Software Development Intern</strong> | Apr 2018 – Aug 2018
     <br><em>KEYfields Pte Ltd, Singapore</em>
 
-	<p class="details-decription">Contributed to the research and development of features for the company's primary web-based solution by writing and optimizing code using C#, ASP.NET, and MS SQL. Focused on developing modular, scalable functions to enhance the platform's overall functionality and value.</p>
+	<p class="details-decription text-justify">Contributed to the research and development of features for the company's primary web-based solution by writing and optimizing code using C#, ASP.NET, and MS SQL. Focused on developing modular, scalable functions to enhance the platform's overall functionality and value.</p>
 
 	<details>
 		<summary>Achievements</summary>
@@ -249,7 +257,7 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 
         <img src="./assets/images/uni_capstone_interface.png" alt="Uni Capstone Front End Interface" />
 
-        <p>Developed a comprehensive full-stack mobile application independently to support reward-based systems in education, aimed at boosting student motivation and engagement.<br><br>The solution features dedicated portals for teachers, parents, and students, enabling task and reward management using stars, hearts, and diamonds. Parents can assign tasks and rewards, while children track progress and redeem rewards, fostering an engaging and interactive learning environment.<br><br>Built using React Native or Flutter, the app provides a seamless user experience, supported by a robust and scalable backend, showcasing the versatility and technical expertise applied in every aspect of the project.</p>
+        <p class="text-justify">Developed a comprehensive full-stack mobile application independently to support reward-based systems in education, aimed at boosting student motivation and engagement.<br><br>The solution features dedicated portals for teachers, parents, and students, enabling task and reward management using stars, hearts, and diamonds. Parents can assign tasks and rewards, while children track progress and redeem rewards, fostering an engaging and interactive learning environment.<br><br>Built using React Native or Flutter, the app provides a seamless user experience, supported by a robust and scalable backend, showcasing the versatility and technical expertise applied in every aspect of the project.</p>
 
         <details>
             <summary>Technical Details</summary>
@@ -301,7 +309,7 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
             <img src="./assets/images/uni_capstone_arch_indepth.png" alt="Uni Capstone Architecture Design Indepth" />
 
             <br>
-            <p>The architecture uses a REST API for clear separation of concerns and modularity, essential for scalable and maintainable application development. The mobile app frontend is created with Flutter, while the backend API server is built using Django. This design enables independent operation of the frontend and backend, making updates and maintenance easier. Django functions solely as an API server handling requests and responses.<br><br>This improves the system's effectiveness by offloading data processing and business logic to the backend. The backend server interacts with a MySQL database, serving as the centralized data storage for the application. Using RESTful APIs ensures that communication between the frontend and backend is stateless, standardized, and easily scalable, enabling seamless handling of high loads and multiple client requests.<br><br>This architectural design supports flexibility by allowing independent development and scaling of the frontend while maintaining consistent and efficient communication through RESTful APIs.</p>
+            <p class="text-justify">The architecture uses a REST API for clear separation of concerns and modularity, essential for scalable and maintainable application development. The mobile app frontend is created with Flutter, while the backend API server is built using Django. This design enables independent operation of the frontend and backend, making updates and maintenance easier. Django functions solely as an API server handling requests and responses.<br><br>This improves the system's effectiveness by offloading data processing and business logic to the backend. The backend server interacts with a MySQL database, serving as the centralized data storage for the application. Using RESTful APIs ensures that communication between the frontend and backend is stateless, standardized, and easily scalable, enabling seamless handling of high loads and multiple client requests.<br><br>This architectural design supports flexibility by allowing independent development and scaling of the frontend while maintaining consistent and efficient communication through RESTful APIs.</p>
         </details>
     </details>
 </div>
@@ -319,7 +327,7 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
         <img src="./assets/images/uni_teamproj_mobile.png" alt="Uni Team Project Front End Interface" />
         <img src="./assets/images/uni_teamproj_dashboard.png" alt="Uni Team Project Back End Interface" />
 
-        <p>For this project, I was responsible for the technical leadership of a 10-person team in the development of a cross-platform mobile application intended to simplify the travel survey process, aligned with the requirements specified by our client, Nippon Koei Co., Ltd.<br><br>The mobile application was designed to collect GPS and Bluetooth connection logs, facilitating more convenient data sharing by respondents through a web-based questionnaire. By replacing the traditional door-to-door survey method, our solution enables more accurate and efficient data collection.<br><br>I also oversaw the integration of a web-based dashboard that allows administrators to manage surveys, accounts, and conduct data analysis. This dashboard interfaces with the mobile application via a Web API and supports cloud-based data storage.<br><br>The project's ultimate objective was to streamline the travel survey process, enhance the user experience, and contribute valuable data to support urban redevelopment and transportation improvement initiatives.</p>
+        <p class="text-justify">For this project, I was responsible for the technical leadership of a 10-person team in the development of a cross-platform mobile application intended to simplify the travel survey process, aligned with the requirements specified by our client, Nippon Koei Co., Ltd.<br><br>The mobile application was designed to collect GPS and Bluetooth connection logs, facilitating more convenient data sharing by respondents through a web-based questionnaire. By replacing the traditional door-to-door survey method, our solution enables more accurate and efficient data collection.<br><br>I also oversaw the integration of a web-based dashboard that allows administrators to manage surveys, accounts, and conduct data analysis. This dashboard interfaces with the mobile application via a Web API and supports cloud-based data storage.<br><br>The project's ultimate objective was to streamline the travel survey process, enhance the user experience, and contribute valuable data to support urban redevelopment and transportation improvement initiatives.</p>
 
         <details>
             <summary>Technical Details</summary>
@@ -374,7 +382,7 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
             <h3>Solution Architecture</h3>
             <img src="./assets/images/uni_teamproj_arch.png" alt="Uni Team Project Architecture Design" />
             <br>
-            <p>The solution architecture integrates a mobile application, a web-based dashboard, and a backend database to streamline the travel survey process. The mobile app enables users to track travel data via GPS, complete dynamically generated surveys, and store local data temporarily for offline access. It also includes features like reward points redemption to incentivize participation.<br><br>The web dashboard provides staff with tools for data analysis, survey and account management, and a geographical information display. It serves as the interface between the mobile app and the backend, hosting APIs for seamless data transmission. The backend database, hosted on AWS using Amazon RDS and Microsoft SQL Server, securely stores and organizes collected user data, ensuring administrators can maintain and manage the system effectively.</p>
+            <p class="text-justify">The solution architecture integrates a mobile application, a web-based dashboard, and a backend database to streamline the travel survey process. The mobile app enables users to track travel data via GPS, complete dynamically generated surveys, and store local data temporarily for offline access. It also includes features like reward points redemption to incentivize participation.<br><br>The web dashboard provides staff with tools for data analysis, survey and account management, and a geographical information display. It serves as the interface between the mobile app and the backend, hosting APIs for seamless data transmission. The backend database, hosted on AWS using Amazon RDS and Microsoft SQL Server, securely stores and organizes collected user data, ensuring administrators can maintain and manage the system effectively.</p>
         </details>
     </details>
 </div>
@@ -417,7 +425,7 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
 			</li>
 		</ul>
 
-        <p>Development of a real-time machine learning algorithm tailored for streaming analytics in an e-commerce context. The project focused on capturing live user inputs from the website to train a recommendation model using the Alternating Least Squares (ALS) method. This approach enabled the system to dynamically identify and suggest relevant products to users based on their behavior and preferences.<br><br>My primary responsibility was writing the code for the machine learning algorithm, ensuring its efficiency and seamless integration into the live environment.</p>
+        <p class="text-justify">Development of a real-time machine learning algorithm tailored for streaming analytics in an e-commerce context. The project focused on capturing live user inputs from the website to train a recommendation model using the Alternating Least Squares (ALS) method. This approach enabled the system to dynamically identify and suggest relevant products to users based on their behavior and preferences.<br><br>My primary responsibility was writing the code for the machine learning algorithm, ensuring its efficiency and seamless integration into the live environment.</p>
     </details>
 </div>
 
@@ -493,7 +501,7 @@ A Computing Science graduate with Honours, equipped with a robust programming fo
   <span class="pill-badge-outline">
     SQL
   </span>
-  <span class="pill-badge-outline-withicon">
+  <span class="pill-badge-outline">
     T-SQL
   </span>
   <br><br>
