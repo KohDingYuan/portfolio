@@ -106,7 +106,7 @@
 </style>
 
 ## Profile
-<p class="text-justify">A Computing Science graduate with Honours, equipped with a robust programming foundation. I possess diverse experience in project management, research, and process improvement, exhibiting flexibility and adaptability across various roles. Adept at supporting IT projects, conducting research analysis, and collaborating effectively with teams. Eager to leverage my technical expertise and project support acumen in IT management or consultancy, bridging business objectives and technological solutions.</p>
+<p class="text-justify">A Computing Science graduate with Honours, equipped with a robust programming foundation. I possess diverse experience in project management, research, and process improvement, exhibiting flexibility and adaptability. Adept at supporting IT projects, conducting research analysis, and collaborating effectively.</p>
 
 *For PDF resume format, download [here](./assets/files/KohDingYuan_Resume.pdf).*
 
@@ -266,6 +266,40 @@
 	<strong>Diploma in Information Technology | May 2019  </strong>
 	<br>Singapore Polytechnic  
 	<br><em>Specialization in Solution Development</em>
+
+    <details>
+        <summary>View Details</summary>
+
+		<strong>Electives</strong>
+		<ul>
+			<li>Advanced Java Programming</li>
+			<li>Data Structures and Algorithm</li>
+		</ul>
+
+		<strong>CCA Details</strong>
+		CCA: Special Interest Group (SIG)
+		<ul>
+			<li>Student Developer - Schoold Website Design & Development | 2018/2019</li>
+			<li>Student Facilitator - Special Interest Group (SIG) System Training | 2018/2019</li>
+			<li>Org Chairman - Microsoft Application Development Training BootCamp | 2017/2018</li>
+			<li>Student Facilitator - Special Interest Group (SIG) Foundation Training | 2017/2018</li>
+			<li>Participant - Microsoft Student Partners | 2016/2017</li>
+			<li>Participant - National Science Experiement (NSE) | 2016/2017</li>
+		</ul>
+	</details>
+</div>
+
+<div class="details-section details-section-color020">
+	<strong>Singapore-Cambridge GCE Ordinary Level | 2015  </strong>
+	<br>Woodgrove Secondary School
+
+    <details>
+        <summary>View Details</summary>
+
+		<strong>CCA Details</strong>
+		CCA: Green Activist Club
+		Position: Vice Chairman
+	</details>
 </div>
 
 ---
