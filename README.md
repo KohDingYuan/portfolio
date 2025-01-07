@@ -255,55 +255,6 @@
 
 ---
 
-## Education
-<div class="details-section details-section-color020">
-	<strong>BSc (Hons) Computing Science | Oct 2024</strong>
-	<br>Singapore Institute of Technology & University of Glasgow  
-	<br><em>Specialization in Internet of Things (IOT)</em>
-</div>
-
-<div class="details-section details-section-color021">
-	<strong>Diploma in Information Technology | May 2019  </strong>
-	<br>Singapore Polytechnic  
-	<br><em>Specialization in Solution Development</em>
-
-    <details>
-        <summary>View Details</summary>
-
-		<strong>Electives</strong>
-		<ul>
-			<li>Advanced Java Programming</li>
-			<li>Data Structures and Algorithm</li>
-		</ul>
-
-		<strong>CCA Details</strong>
-		CCA: Special Interest Group (SIG)
-		<ul>
-			<li>Student Developer - Schoold Website Design & Development | 2018/2019</li>
-			<li>Student Facilitator - Special Interest Group (SIG) System Training | 2018/2019</li>
-			<li>Org Chairman - Microsoft Application Development Training BootCamp | 2017/2018</li>
-			<li>Student Facilitator - Special Interest Group (SIG) Foundation Training | 2017/2018</li>
-			<li>Participant - Microsoft Student Partners | 2016/2017</li>
-			<li>Participant - National Science Experiement (NSE) | 2016/2017</li>
-		</ul>
-	</details>
-</div>
-
-<div class="details-section details-section-color020">
-	<strong>Singapore-Cambridge GCE Ordinary Level | 2015  </strong>
-	<br>Woodgrove Secondary School
-
-    <details>
-        <summary>View Details</summary>
-
-		<strong>CCA Details</strong>
-		CCA: Green Activist Club
-		Position: Vice Chairman
-	</details>
-</div>
-
----
-
 ## Notable Projects
 
 <div class="details-section details-section-color030">
@@ -492,6 +443,55 @@
 
         <p class="text-justify">Development of a real-time machine learning algorithm tailored for streaming analytics in an e-commerce context. The project focused on capturing live user inputs from the website to train a recommendation model using the Alternating Least Squares (ALS) method. This approach enabled the system to dynamically identify and suggest relevant products to users based on their behavior and preferences.<br><br>My primary responsibility was writing the code for the machine learning algorithm, ensuring its efficiency and seamless integration into the live environment.<br><br>The solution's proof-of-concept was highly valued, and it will be used as a example for courses at Singapore Polytechnic, demonstrating the practical application of machine learning in real-time analytics.</p>
     </details>
+</div>
+
+---
+
+## Education
+<div class="details-section details-section-color020">
+	<strong>BSc (Hons) Computing Science | Oct 2024</strong>
+	<br>Singapore Institute of Technology & University of Glasgow  
+	<br><em>Specialization in Internet of Things (IOT)</em>
+</div>
+
+<div class="details-section details-section-color021">
+	<strong>Diploma in Information Technology | May 2019  </strong>
+	<br>Singapore Polytechnic  
+	<br><em>Specialization in Solution Development</em>
+
+    <details>
+        <summary>View Details</summary>
+
+		<strong>Electives</strong>
+		<ul>
+			<li>Advanced Java Programming</li>
+			<li>Data Structures and Algorithm</li>
+		</ul>
+
+		<strong>CCA Details</strong><br>
+		CCA: Special Interest Group (SIG)
+		<ul>
+			<li>Student Developer - School Website Design & Development | 2018/2019</li>
+			<li>Student Facilitator - Special Interest Group (SIG) System Training | 2018/2019</li>
+			<li>Org Chairman - Microsoft Application Development Training BootCamp | 2017/2018</li>
+			<li>Student Facilitator - Special Interest Group (SIG) Foundation Training | 2017/2018</li>
+			<li>Participant - Microsoft Student Partners | 2016/2017</li>
+			<li>Participant - National Science Experiement (NSE) | 2016/2017</li>
+		</ul>
+	</details>
+</div>
+
+<div class="details-section details-section-color020">
+	<strong>Singapore-Cambridge GCE Ordinary Level | 2015  </strong>
+	<br>Woodgrove Secondary School
+
+    <details>
+        <summary>View Details</summary>
+
+		<strong>CCA Details</strong><br>
+		CCA: Green Activist Club
+		Position: Vice Chairman
+	</details>
 </div>
 
 ---
