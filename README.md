@@ -123,7 +123,8 @@
     <p class="details-decription text-justify">Supported the management of complex IT projects and facilitated project management administrative processes.</p>
 
     <details>
-        <summary>Achievements</summary>
+        <summary>View Achievements</summary>
+		<br>
 
         <strong>Project Panaya</strong>
         <ul class="text-justify">
@@ -156,7 +157,8 @@
     <p class="details-decription text-justify">Conducted advanced quantitative analyses, led a team to ensure efficient and accurate data processing, and developed an Excel-based tracking system to facilitate coordination among the team.</p>
 
 	<details>
-		<summary>Achievements</summary>
+		<summary>View Achievements</summary>
+		<br>
 
 		<strong>Project Blended Design and Critical Thinking</strong>
 		<ul>
@@ -174,7 +176,8 @@
 	<p class="details-decription text-justify">As part of the infrastructure team, I managed external contractors to ensure smooth project execution and adherence to timelines. Additionally, I supported the unit's procurement processes, raising purchase requisitions and assisting in finance audit processes as a member of the finance team. My contributions helped ensure the efficient operations and resource management of multiple logistical aspects within the unit.</p>
 
 	<details>
-		<summary>Achievements</summary>
+		<summary>View Achievements</summary>
+		<br>
 	
 		<strong>Budget Planning</strong>
 		<ul>
@@ -213,7 +216,8 @@
 	<p class="details-decription text-justify">Contributed to the research and development of features for the company's primary web-based solution by writing and optimizing code using C#, ASP.NET, and MS SQL. Focused on developing modular, scalable functions to enhance the platform's overall functionality and value.</p>
 
 	<details>
-		<summary>Achievements</summary>
+		<summary>View Achievements</summary>
+		<br>
 	
 		<strong>Route Optimization Algorithm</strong>
 		<ul>
@@ -273,17 +277,17 @@
     <br><em>BSc Computing Science Undergraduate | Singapore Institute of Technology</em>
 
     <details>
-        <summary>Project Details</summary>
+        <summary>View Project Details</summary>
         <br>
 
         <strong>Client</strong>: Prof. Peter C Y Yau (University of Glasgow)
 
         <img src="./assets/images/uni_capstone_interface.png" alt="Uni Capstone Front End Interface" />
 
-        <p class="text-justify">Developed a comprehensive full-stack mobile application independently to support reward-based systems in education, aimed at boosting student motivation and engagement.<br><br>The solution features dedicated portals for teachers, parents, and students, enabling task and reward management using stars, hearts, and diamonds. Parents can assign tasks and rewards, while children track progress and redeem rewards, fostering an engaging and interactive learning environment.<br><br>Built using React Native or Flutter, the app provides a seamless user experience, supported by a robust and scalable backend, showcasing the versatility and technical expertise applied in every aspect of the project.</p>
+        <p class="text-justify">Developed a comprehensive full-stack mobile application independently to support reward-based systems in education, aimed at boosting student motivation and engagement.<br><br>The solution features dedicated portals for teachers, parents, and students, enabling task and reward management using stars, hearts, and diamonds. Parents can assign tasks and rewards, while children track progress and redeem rewards, fostering an engaging and interactive learning environment.<br><br>Built using React Native or Flutter, the app provides a seamless user experience, supported by a robust and scalable backend, showcasing the versatility and technical expertise applied in every aspect of the project.<br><br>The project well exceeded the client's expectations during the Minimum Viable Product (MVP) delivery phase, leaving the client highly satisfied with the results. Furthermore, the application is set to serve as a benchmark for future progression of the research which involves multiple universities and institutes globally, highlighting its impactful design and long-term potential.</p>
 
         <details>
-            <summary>Technical Details</summary>
+            <summary>View Technical Details</summary>
             <br>
 
             <h3>Tech Stack</h3>
@@ -342,7 +346,7 @@
 	<br><em>BSc Computing Science Undergraduate | Singapore Institute of Technology</em>  
 
     <details>
-        <summary>Project Details</summary>
+        <summary>View Project Details</summary>
         <br>
 
         <strong>Client</strong>: Nippon Koei Co., Ltd.
@@ -350,10 +354,12 @@
         <img src="./assets/images/uni_teamproj_mobile.png" alt="Uni Team Project Front End Interface" />
         <img src="./assets/images/uni_teamproj_dashboard.png" alt="Uni Team Project Back End Interface" />
 
-        <p class="text-justify">For this project, I was responsible for the technical leadership of a 10-person team in the development of a cross-platform mobile application intended to simplify the travel survey process, aligned with the requirements specified by our client, Nippon Koei Co., Ltd.<br><br>The mobile application was designed to collect GPS and Bluetooth connection logs, facilitating more convenient data sharing by respondents through a web-based questionnaire. By replacing the traditional door-to-door survey method, our solution enables more accurate and efficient data collection.<br><br>I also oversaw the integration of a web-based dashboard that allows administrators to manage surveys, accounts, and conduct data analysis. This dashboard interfaces with the mobile application via a Web API and supports cloud-based data storage.<br><br>The project's ultimate objective was to streamline the travel survey process, enhance the user experience, and contribute valuable data to support urban redevelopment and transportation improvement initiatives.</p>
+        <p class="text-justify">For this project, I was responsible for the technical leadership of a 10-person team in the development of a cross-platform mobile application intended to simplify the travel survey process, aligned with the requirements specified by our client, Nippon Koei Co., Ltd.<br><br>The mobile application was designed to collect GPS and Bluetooth connection logs, facilitating more convenient data sharing by respondents through a web-based questionnaire. By replacing the traditional door-to-door survey method, our solution enables more accurate and efficient data collection.<br><br>I also oversaw the integration of a web-based dashboard that allows administrators to manage surveys, accounts, and conduct data analysis. This dashboard interfaces with the mobile application via a Web API and supports cloud-based data storage.<br><br>The project's ultimate objective was to streamline the travel survey process, enhance the user experience, and contribute valuable data to support urban redevelopment and transportation improvement initiatives.<br><br>Our team emerged as the only group to present a working MVP that met all client requirements, and we further enhanced the solution with added complexity to improve its functionality and practicality. The final product not only met the client's needs but exceeded expectations, providing a robust and scalable solution for future use.</p>
 
         <details>
-            <summary>Technical Details</summary>
+            <summary>View Technical Details</summary>
+            <br>
+
             <h3>Tech Stack</h3>
 			<ul>
 				<li>
@@ -415,7 +421,9 @@
     <br><em>Diploma Undergraduate | Singapore Polytechnic</em>  
 
     <details>
-        <summary>Project Details</summary>
+        <summary>View Project Details</summary>
+		<br>
+
         <strong>Client</strong>: Singapore Polytechnic
 
         <img src="./assets/images/poly_fyp_arch.png" alt="Poly SDP Architecture Design" />
@@ -448,7 +456,7 @@
 			</li>
 		</ul>
 
-        <p class="text-justify">Development of a real-time machine learning algorithm tailored for streaming analytics in an e-commerce context. The project focused on capturing live user inputs from the website to train a recommendation model using the Alternating Least Squares (ALS) method. This approach enabled the system to dynamically identify and suggest relevant products to users based on their behavior and preferences.<br><br>My primary responsibility was writing the code for the machine learning algorithm, ensuring its efficiency and seamless integration into the live environment.</p>
+        <p class="text-justify">Development of a real-time machine learning algorithm tailored for streaming analytics in an e-commerce context. The project focused on capturing live user inputs from the website to train a recommendation model using the Alternating Least Squares (ALS) method. This approach enabled the system to dynamically identify and suggest relevant products to users based on their behavior and preferences.<br><br>My primary responsibility was writing the code for the machine learning algorithm, ensuring its efficiency and seamless integration into the live environment.<br><br>The solution's proof-of-concept was highly valued, and it will be used as a example for courses at Singapore Polytechnic, demonstrating the practical application of machine learning in real-time analytics.</p>
     </details>
 </div>
 
