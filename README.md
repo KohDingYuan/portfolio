@@ -3,19 +3,6 @@
 </head>
 
 <style>
-	.pill-badge {
-		margin: 0.1em 0.1em;
-		display: inline-block;
-		padding: 0.25em 0.6em;
-		font-size: 0.75rem;
-		font-weight: 700;
-		border-radius: 5rem;
-		text-align: center;
-		vertical-align: baseline;
-		white-space: nowrap;
-		color: #fff;
-		background-color: #6c757d;
-	}
 	.pill-badge-outline {
 		margin: 0.1em 0.1em;
 		display: inline-block;
@@ -26,39 +13,42 @@
 		text-align: center;
 		vertical-align: baseline;
 		white-space: nowrap;
-		color: #6c757d;
-		border: 2px solid #6c757d;
+		color: #6C757D;
+		border: 2px solid #6C757D;
 		background-color: transparent;
 	}
 	.pill-badge-outline-withicon {
 		margin: 0.1em 0.1em;
-		display: inline-flex; /* Ensures alignment between icon and text */
-		align-items: center; /* Centers icon and text vertically */
+		display: inline-flex;
+		align-items: center;
 		padding: 0.25em 0.6em;
 		font-size: 0.75rem;
 		font-weight: 700;
 		border-radius: 5rem;
 		text-align: center;
-		vertical-align: middle; /* Ensures badges align consistently */
+		vertical-align: middle;
 		white-space: nowrap;
-		color: #6c757d;
-		border: 2px solid #6c757d;
+		color: #6C757D;
+		border: 2px solid #6C757D;
 		background-color: transparent;
-		gap: 0.4em; /* Adds spacing between icon and text */
-		line-height: 1.2; /* Consistent height for badges */
+		gap: 0.4em;
+		line-height: 1.2;
 	}
 	.pill-badge-outline-withicon i {
-		font-size: 1rem; /* Adjust icon size */
-		width: 1.2rem; /* Consistent width for all icons */
-		height: 1.2rem; /* Ensures icon dimensions remain consistent */
-		display: flex; /* Center aligns placeholder or icon */
+		font-size: 1rem;
+		width: 1.2rem;
+		height: 1.2rem;
+		display: flex;
 		align-items: center;
 		justify-content: center;
 		text-align: center;
 	}
+	.pill-badge-outline-info {
+		border: 2px solid #A37A74;
+	}
 	
 	.details-section {
-		border-left: 3px solid #87add3;
+		border-left: 3px solid #4B7CB7;
 		padding-left: 10px;
 		margin-bottom: 20px;
 		margin-top: 20px;
@@ -78,10 +68,39 @@
 		margin-top: 10px;
 	}
 
+	.details-section-color010 {
+		border-left-color: #E49273;
+	}
+	.details-section-color011 {
+		border-left-color: #EBAE98;
+	}
+	.details-section-color020 {
+		border-left-color: #A37A74;
+	}
+	.details-section-color021 {
+		border-left-color: #B69691;
+	}
+	.details-section-color030 {
+		border-left-color: #B5F5F8;
+	}
+	.details-section-color031 {
+		border-left-color: #E0FBFC;
+	}
+	.details-section-color040 {
+		border-left-color: #ABD3D8;
+	}
+	.details-section-color041 {
+		border-left-color: #C2DFE3;
+	}
+	.details-section-color050 {
+		border-left-color: #4B7CB7;
+	}
+	.details-section-color051 {
+		border-left-color: #8AAAD0;
+	}
+
 	.text-justify {
 		text-align: justify;
-		word-break: break-word;
-		hyphens: auto;
 	}
 </style>
 
@@ -92,23 +111,11 @@
 
 ---
 
-## Education
-**BSc (Hons) Computing Science** | Oct 2024  
-  Singapore Institute of Technology & University of Glasgow  
-  *Specialization in Internet of Things (IOT)*
-
-
-**Diploma in Information Technology** | May 2019  
-  Singapore Polytechnic  
-  *Specialization in Solution Development*
-
----
-
 ## Experience
 
 *For more detailed feedback, download my testimonials [here](./assets/files/KohDingYuan_Testimonials.pdf).*
 
-<div class="details-section">
+<div class="details-section details-section-color010">
     <strong>IT Project Management Intern</strong> | Aug 2023 – Apr 2024
     <br><em>ASM International, Singapore</em>  
 
@@ -141,7 +148,7 @@
     </details>
 </div>
 
-<div class="details-section">
+<div class="details-section details-section-color011">
     <strong>Research Assistant</strong> | Oct 2021 – Jan 2023
     <br><em>Singapore Institute of Technology, Singapore</em>
 
@@ -159,8 +166,8 @@
 	</details>
 </div>
 
-<div class="details-section">
-    <strong>Store Incharge [National Service]</strong> | Dec 2019 – Aug 2021
+<div class="details-section details-section-color010">
+    <strong>Store Incharge</strong><span class="pill-badge-outline pill-badge-outline-info">National Service</span> | Dec 2019 – Aug 2021
     <br><em>Republic of Singapore Air Force, Singapore</em>
 
 	<p class="details-decription text-justify">As part of the infrastructure team, I managed external contractors to ensure smooth project execution and adherence to timelines. Additionally, I supported the unit's procurement processes, raising purchase requisitions and assisting in finance audit processes as a member of the finance team. My contributions helped ensure the efficient operations and resource management of multiple logistical aspects within the unit.</p>
@@ -198,7 +205,7 @@
 	</details>
 </div>
 
-<div class="details-section">
+<div class="details-section details-section-color011">
     <strong>Software Development Intern</strong> | Apr 2018 – Aug 2018
     <br><em>KEYfields Pte Ltd, Singapore</em>
 
@@ -243,11 +250,26 @@
 
 ---
 
+## Education
+<div class="details-section details-section-color020">
+	<strong>BSc (Hons) Computing Science | Oct 2024</strong>
+	<br>Singapore Institute of Technology & University of Glasgow  
+	<br><em>Specialization in Internet of Things (IOT)</em>
+</div>
+
+<div class="details-section details-section-color021">
+	<strong>Diploma in Information Technology | May 2019  </strong>
+	<br>Singapore Polytechnic  
+	<br><em>Specialization in Solution Development</em>
+</div>
+
+---
+
 ## Notable Projects
 
-<div class="details-section">
+<div class="details-section details-section-color030">
     <strong>Mobile Application Development for Reward Pedagogy Research | 2024</strong>
-    <br><em>BSc Computing Science Undergraduate | Singapore Institute of Technology</em>  
+    <br><em>BSc Computing Science Undergraduate | Singapore Institute of Technology</em>
 
     <details>
         <summary>Project Details</summary>
@@ -314,7 +336,7 @@
     </details>
 </div>
 
-<div class="details-section">
+<div class="details-section details-section-color031">
     <strong>Activity Survey Application for Smart City Planning | 2022 - 2023</strong>  
 	<br><em>BSc Computing Science Undergraduate | Singapore Institute of Technology</em>  
 
@@ -387,7 +409,7 @@
     </details>
 </div>
 
-<div class="details-section">
+<div class="details-section details-section-color030">
     <strong>Streaming Analytics for E-Commerce Website | 2018 - 2019</strong>  
     <br><em>Diploma Undergraduate | Singapore Polytechnic</em>  
 
