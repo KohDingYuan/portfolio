@@ -241,7 +241,7 @@
 ## National Service
 
 <div class="details-section details-section-color040">
-	<strong>Store Incharge</strong>| Dec 2019 – Aug 2021
+	<strong>Store Incharge</strong> | Dec 2019 – Aug 2021
 	<br><em>Republic of Singapore Air Force, Singapore</em>
 	<details>
 		<summary>Details</summary>
@@ -269,7 +269,7 @@
 	<br><em>BSc Computing Science Undergraduate | Singapore Institute of Technology</em>
 
 	<details>
-		<summary>View Project Details</summary>
+		<summary>Details</summary>
 		<br>
 
 		<strong>Client</strong>: Prof. Peter C Y Yau (University of Glasgow)
@@ -279,7 +279,7 @@
 		<p class="text-justify">Developed a comprehensive full-stack mobile application independently to support reward-based systems in education, aimed at boosting student motivation and engagement.<br><br>The solution features dedicated portals for teachers, parents, and students, enabling task and reward management using stars, hearts, and diamonds. Parents can assign tasks and rewards, while children track progress and redeem rewards, fostering an engaging and interactive learning environment.<br><br>Built using React Native or Flutter, the app provides a seamless user experience, supported by a robust and scalable backend, showcasing the versatility and technical expertise applied in every aspect of the project.<br><br>The project well exceeded the client's expectations during the Minimum Viable Product (MVP) delivery phase, leaving the client highly satisfied with the results. Furthermore, the application is set to serve as a benchmark for future progression of the research which involves multiple universities and institutes globally, highlighting its impactful design and long-term potential.</p>
 
 		<details>
-			<summary>View Technical Details</summary>
+			<summary>Technical Details</summary>
 			<br>
 
 			<h3>Tech Stack</h3>
@@ -338,7 +338,7 @@
 	<br><em>BSc Computing Science Undergraduate | Singapore Institute of Technology</em>  
 
 	<details>
-		<summary>View Project Details</summary>
+		<summary>Details</summary>
 		<br>
 
 		<strong>Client</strong>: Nippon Koei Co., Ltd.
@@ -349,7 +349,7 @@
 		<p class="text-justify">For this project, I was responsible for the technical leadership of a 10-person team in the development of a cross-platform mobile application intended to simplify the travel survey process, aligned with the requirements specified by our client, Nippon Koei Co., Ltd.<br><br>The mobile application was designed to collect GPS and Bluetooth connection logs, facilitating more convenient data sharing by respondents through a web-based questionnaire. By replacing the traditional door-to-door survey method, our solution enables more accurate and efficient data collection.<br><br>I also oversaw the integration of a web-based dashboard that allows administrators to manage surveys, accounts, and conduct data analysis. This dashboard interfaces with the mobile application via a Web API and supports cloud-based data storage.<br><br>The project's ultimate objective was to streamline the travel survey process, enhance the user experience, and contribute valuable data to support urban redevelopment and transportation improvement initiatives.<br><br>Our team emerged as the only group to present a working MVP that met all client requirements, and we further enhanced the solution with added complexity to improve its functionality and practicality. The final product not only met the client's needs but exceeded expectations, providing a robust and scalable solution for future use.</p>
 
 		<details>
-			<summary>View Technical Details</summary>
+			<summary>Technical Details</summary>
 			<br>
 
 			<h3>Tech Stack</h3>
@@ -413,7 +413,7 @@
 	<br><em>Diploma Undergraduate | Singapore Polytechnic</em>  
 
 	<details>
-		<summary>View Project Details</summary>
+		<summary>Details</summary>
 		<br>
 
 		<strong>Client</strong>: Singapore Polytechnic
@@ -468,7 +468,7 @@
 	<br><em>Specialization in Solution Development</em>
 
 	<details>
-		<summary>View Details</summary>
+		<summary>Details</summary>
 
 		<strong>Electives</strong>
 		<ul>
