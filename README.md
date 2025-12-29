@@ -106,7 +106,7 @@
 </style>
 
 ## Profile
-<p class="text-justify">A Computing Science graduate with Honours, equipped with a robust programming foundation. I possess diverse experience in project management, research, and process improvement, exhibiting flexibility and adaptability. Adept at supporting IT projects, conducting research analysis, and collaborating effectively.</p>
+<p class="text-justify">Dynamic Senior Software Engineer with over three years of experience in optimizing software performance and managing intricate IT projects. Expertise in automation tool development and data management facilitates innovative solutions that significantly enhance operational efficiency. Proven ability to streamline workflows and elevate team collaboration through strong communication and technical skills. Committed to leveraging analytical capabilities to drive impactful software engineering initiatives and deliver exceptional results.</p>
 
 *For PDF resume format, download [here](./assets/files/KohDingYuan_Resume.pdf).*
 
@@ -119,14 +119,27 @@
 <strong></strong>
 
 <div class="details-section details-section-color010">
+	<strong>Senior Software Engineer</strong> | Aug 2023 – Now
+	<br><em>Capgemini Singapore Pte. Ltd., Singapore</em>  
+
+	<ul class="text-justify">
+		<li>Developed <strong>automation tools</strong> using <strong>Java (Jira API)</strong> and <strong>Python</strong>, enabling bulk updates of hundreds of Jira records within minutes, reducing manual effort from several hours to under 10 minutes, improving process efficiency by <strong>over 90%</strong>.</li><br>
+		<li>Contributed to a pipeline utilizing <strong>Large Language Models (LLMs)</strong> for <strong>automated test case generation</strong>, accelerating QA workflows and enhancing AI-driven testing capabilities.</li><br>
+		<li>Achieved <strong>Tricentis Tosca Consultant Certification</strong>, demonstrating expertise in modern test automation tools.</li><br>
+		<li>Collaborated with <strong>cross-functional teams</strong> to align objectives and optimize development processes for timely project delivery.</li><br>
+	</ul>
+</div>
+
+<div class="details-section details-section-color011">
 	<strong>IT Project Management Intern</strong> | Aug 2023 – Apr 2024
-	<br><em>ASM International, Singapore</em>  
+	<br><em>ASM International N.V., Singapore</em>  
 
 	<p class="details-decription text-justify">Supported the management of multiple <strong>IT projects</strong>, improving project execution efficiency and streamlining administrative workflows.</p>
+
 	<ul class="text-justify">
-		<li><strong>Project Panaya</strong><br>Led the <strong>onboarding and implementation</strong> of Panaya, a <strong>web-based SAP test management and automation solution</strong> replacing the company’s Excel-based tracking system. Developed comprehensive <strong>user documentation</strong> and coordinated with stakeholders to ensure smooth adoption and successful rollout.</li>
-		<li><strong>Project Variant Configurator (VC) Phase 2</strong><br>Assisted in <strong>System Integration Testing (SIT)</strong>, <strong>User Acceptance Testing (UAT)</strong>, and <strong>Go-Live</strong> activities; coordinated onsite efforts to ensure seamless execution.</li>
-		<li><strong>Project TRANS4M</strong><br>Managed <strong>administrative and logistics support</strong>, enhancing coordination and overall project efficiency.</li>
+		<li><strong>Project Panaya</strong><br>Led the <strong>onboarding and implementation</strong> of Panaya, a <strong>web-based SAP test management and automation solution</strong> replacing the company’s Excel-based tracking system. Developed comprehensive <strong>user documentation</strong> and coordinated with stakeholders to ensure smooth adoption and successful rollout.</li><br>
+		<li><strong>Project Variant Configurator (VC) Phase 2</strong><br>Assisted in <strong>System Integration Testing (SIT)</strong>, <strong>User Acceptance Testing (UAT)</strong>, and <strong>Go-Live</strong> activities; coordinated onsite efforts to ensure seamless execution.</li><br>
+		<li><strong>Project TRANS4M</strong><br>Managed <strong>administrative and logistics support</strong>, enhancing coordination and overall project efficiency.</li><br>
 	</ul>
 </div>
 
@@ -137,7 +150,7 @@
 	<p class="details-decription text-justify">Conducted <strong>quantitative data</strong> analysis and developed an <strong>Excel-based data capture system</strong>, improving data organization and streamlining team workflows.</p>
 
 	<ul class="text-justify">
-		<li><strong>Project Blended Design and Critical Thinking</strong><br>Supported a <strong>SIT ALIGN-funded research initiative</strong> through <strong>lesson observations</strong> and <strong>literature reviews</strong>, contributing insights that informed project design and critical thinking frameworks.
+		<li><strong>Project Blended Design and Critical Thinking</strong><br>Supported a <strong>SIT ALIGN-funded research initiative</strong> through <strong>lesson observations</strong> and <strong>literature reviews</strong>, contributing insights that informed project design and critical thinking frameworks.</li><br>
 	</ul>
 </div>
 
@@ -183,46 +196,16 @@
 
 <div class="details-section details-section-color011">
 	<strong>Software Development Intern</strong> | Apr 2018 – Aug 2018
-	<br><em>KEYfields Pte Ltd, Singapore</em>
+	<br><em>KEYfields Pte. Ltd., Singapore</em>
 
-	<p class="details-decription text-justify">Contributed to the research and development of features for the company's primary web-based solution by writing and optimizing code using C#, ASP.NET, and MS SQL. Focused on developing modular, scalable functions to enhance the platform's overall functionality and value.</p>
+	<p class="details-decription text-justify">Conducted research and development using <strong>C#, ASP.NET, and MS SQL</strong>, improving overall application performance and user experience</p>
 
-	<details>
-		<summary>View Achievements</summary>
-		<br>
-	
-		<strong>Route Optimization Algorithm</strong>
-		<ul>
-			<li>Developed a route optimization algorithm leveraging Dijkstra's Algorithm and the Google Maps API's live data, addressing a critical client need and enhancing the company's offerings.</li>
-			<li>The algorithm incorporated route planning and optimization features to solve the Travelling Salesman Problem, improving service capabilities and efficiency.</li>
-			<li>The solution helped retain a client who was considering switching to a competitor due to the lack of such features, boosting client satisfaction and long-term business retention.</li>
-		</ul>
-	
-		<strong>National Trade Platform (NTP)</strong>
-		<ul>
-		<li>Developed API functions and data transformation processes with Singapore Customs and Accenture to integrate the company's solution with the National   Trade Platform.</li>
-		<li>The integration ensured the solution met regulatory requirements, enabling clients to access government services and remain compliant.</li>
-		<li>The NTP integration improved the company's competitiveness by offering government-compliant services, increasing the platform's value and appeal to   clients requiring such services.</li>
-		</ul>
-
-		<strong>Brute Force Attack Detection</strong>
-		<ul>
-			<li>Discovered a significant performance drop in the company's SQL server and investigated the database logs, identifying unusual activity from an IP address in a country without registered clients.</li>
-			<li>Recognized this anomaly as a potential brute force attack, promptly reporting the findings and recommending actions to improve database security.</li>
-			<li>The recommendations resulted in measures taken to enhance protection against attacks, ensuring data security.</li>
-		</ul>
-
-		<strong>Backup Checker</strong>
-		<ul>
-			<li>Developed a console app to automate backup file monitoring and anomaly detection, streamlining the identification of discrepancies and improving data integrity management.</li>
-		</ul>
-  
-		<strong>Memory Leak Identification</strong>
-		<ul>
-			<li>Assisted in identifying and resolving a misdiagnosed memory shortage issue by hypothesizing a memory leak, rather than the lack of memory.</li>
-			<li>Investigated and identified multiple unclosed database connections due to poor coding practices, which were fixed, improving system performance and saving unnecessary hardware upgrades.</li>
-		</ul>
-	</details>
+	<ul class="text-justify">
+		<li><strong><strong>Route Optimization Algorithm</strong><br>Designed and implemented a route optimization algorithm leveraging the <strong>Google Maps API</strong> to solve the <strong>Traveling Salesman Problem</strong>, increasing route-planning efficiency <strong>by over 70%</strong>.</li><br>
+		<li><strong>National Trade Platform (NTP)</strong><br>Contributed to the National Trade Platform (NTP) project in collaboration with <strong>Singapore Customs</strong> and <strong>Accenture</strong>, developing <strong>API functions</strong> and <strong>data transformation processes</strong> to enhance system integration and streamline trade operations.</li><br>
+		<li><strong>Backup Checker</strong><br>Built a Backup Checker console tool to monitor backup files and detect anomalies, strengthening <strong>data security and system reliability.</strong></li><br>
+		<li><strong>Brute Force Attack Detection</strong><br>Detected and analyzed <strong>SQL Server brute-force attacks</strong>, producing mitigation recommendations that improved <strong>system resilience and security posture.</strong></li><br>
+	</ul>
 </div>
 
 ---
