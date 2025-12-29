@@ -122,16 +122,12 @@
 	<strong>IT Project Management Intern</strong> | Aug 2023 – Apr 2024
 	<br><em>ASM International, Singapore</em>  
 
-	<p class="details-decription text-justify">Supported the management of complex IT projects and facilitated project management administrative processes.</p>
-
-	<details>
-		<ul class="text-justify">
-			<li>Supported the management of multiple <strong>IT projects</strong>, improving project execution efficiency and streamlining administrative workflows.</li>
-			<li><strong>Project Panaya</strong>: Led the <strong>onboarding and implementation</strong> of Panaya, a <strong,>web-based SAP test management and automation solution</strong, replacing the company’s Excel-based tracking system. Developed comprehensive <strong>user documentation</strong> and coordinated with stakeholders to ensure smooth adoption and successful rollout.</li>
-			<li><strong>Project Variant Configurator (VC) Phase 2</strong>: Assisted in <strong>System Integration Testing (SIT)</strong>, <strong>User Acceptance Testing (UAT)</strong>, and <strong>Go-Live</strong> activities; coordinated onsite efforts to ensure seamless execution.</li>
-			<li><strong>Project TRANS4M</strong>: Managed <strong>administrative and logistics support</strong>, enhancing coordination and overall project efficiency.</li>
-		</ul>
-	</details>
+	<p class="details-decription text-justify">Supported the management of multiple <strong>IT projects</strong>, improving project execution efficiency and streamlining administrative workflows.</p>
+	<ul class="text-justify">
+		<li><strong>Project Panaya</strong>: Led the <strong>onboarding and implementation</strong> of Panaya, a <strong,>web-based SAP test management and automation solution</strong, replacing the company’s Excel-based tracking system. Developed comprehensive <strong>user documentation</strong> and coordinated with stakeholders to ensure smooth adoption and successful rollout.</li>
+		<li><strong>Project Variant Configurator (VC) Phase 2</strong>: Assisted in <strong>System Integration Testing (SIT)</strong>, <strong>User Acceptance Testing (UAT)</strong>, and <strong>Go-Live</strong> activities; coordinated onsite efforts to ensure seamless execution.</li>
+		<li><strong>Project TRANS4M</strong>: Managed <strong>administrative and logistics support</strong>, enhancing coordination and overall project efficiency.</li>
+	</ul>
 </div>
 
 <div class="details-section details-section-color011">
