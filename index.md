@@ -105,11 +105,6 @@
 	}
 </style>
 
-## Profile
-<p class="text-justify">Dynamic Senior Software Engineer with over three years of experience in optimizing software performance and managing intricate IT projects. Expertise in automation tool development and data management facilitates innovative solutions that significantly enhance operational efficiency. Proven ability to streamline workflows and elevate team collaboration through strong communication and technical skills. Committed to leveraging analytical capabilities to drive impactful software engineering initiatives and deliver exceptional results.</p>
-
-*For PDF resume format, download [here](./assets/files/KohDingYuan_Resume.pdf).*
-
 
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
   <div style="flex: 0 0 150px;">
@@ -117,95 +112,92 @@
   </div>
 
   <div style="flex: 1;">
-    <h2>Scan Me!</h2>
     <p>
-		Singapore<br><br>
-		kdingyuan@gmail.com<br><br>
+		Singapore<br>
+		kdingyuan@gmail.com<br>
 		<a href="https://www.linkedin.com/in/kohdy/" target="_blank">www.linkedin.com/in/kohdy/</a><br><br>
+		Downloads: <a href="./assets/files/KohDingYuan_Resume.pdf">PDF Resume</a> | <a href="./assets/files/KohDingYuan_Testimonials.pdf">Testimonials</a>
     </p>
   </div>
 </div>
 
 ---
 
-## Experience
+## Profile
+<p class="text-justify">Dynamic Senior Software Engineer with over three years of experience in optimizing software performance and managing intricate IT projects. Expertise in automation tool development and data management facilitates innovative solutions that significantly enhance operational efficiency. Proven ability to streamline workflows and elevate team collaboration through strong communication and technical skills. Committed to leveraging analytical capabilities to drive impactful software engineering initiatives and deliver exceptional results.</p>
 
-*For more detailed feedback, download my testimonials [here](./assets/files/KohDingYuan_Testimonials.pdf).*
+---
 
-<strong></strong>
+## Professional Experience
 
 <div class="details-section details-section-color010">
 	<strong>Senior Software Engineer</strong> | Apr 2025 – Now
 	<br><em>Capgemini Singapore Pte. Ltd., Singapore</em>  
 
-	<ul class="text-justify">
-		<li>Developed <strong>automation tools</strong> using <strong>Java (Jira API)</strong> and <strong>Python</strong>, enabling bulk updates of hundreds of Jira records within minutes, reducing manual effort from several hours to under 10 minutes, improving process efficiency by <strong>over 90%</strong>.</li><br>
-		<li>Contributed to a pipeline utilizing <strong>Large Language Models (LLMs)</strong> for <strong>automated test case generation</strong>, accelerating QA workflows and enhancing AI-driven testing capabilities.</li><br>
-		<li>Achieved <strong>Tricentis Tosca Consultant Certification</strong>, demonstrating expertise in modern test automation tools.</li><br>
-		<li>Collaborated with <strong>cross-functional teams</strong> to align objectives and optimize development processes for timely project delivery.</li><br>
-	</ul>
-</div>
+	<details>
+		<summary>Details</summary>
 
-<div class="details-section details-section-color011">
-	<strong>IT Project Management Intern</strong> | Aug 2023 – Apr 2024
-	<br><em>ASM International N.V., Singapore</em>  
-
-	<p class="details-decription text-justify">Supported the management of multiple <strong>IT projects</strong>, improving project execution efficiency and streamlining administrative workflows.</p>
-
-	<ul class="text-justify">
-		<li><strong>Project Panaya</strong><br>Led the <strong>onboarding and implementation</strong> of Panaya, a <strong>web-based SAP test management and automation solution</strong> replacing the company’s Excel-based tracking system. Developed comprehensive <strong>user documentation</strong> and coordinated with stakeholders to ensure smooth adoption and successful rollout.</li><br>
-		<li><strong>Project Variant Configurator (VC) Phase 2</strong><br>Assisted in <strong>System Integration Testing (SIT)</strong>, <strong>User Acceptance Testing (UAT)</strong>, and <strong>Go-Live</strong> activities; coordinated onsite efforts to ensure seamless execution.</li><br>
-		<li><strong>Project TRANS4M</strong><br>Managed <strong>administrative and logistics support</strong>, enhancing coordination and overall project efficiency.</li><br>
-	</ul>
+		<ul class="text-justify">
+			<li>
+				Developed <strong>automation tools</strong> using <strong>Java (Jira API)</strong> and <strong>Python</strong>, enabling bulk updates of hundreds of Jira records within minutes, reducing manual effort from several hours to under 10 minutes, improving process efficiency by <strong>over 90%</strong>.
+			</li><br>
+			<li>
+				Contributed to a pipeline utilizing <strong>Large Language Models (LLMs)</strong> for <strong>automated test case generation</strong>, accelerating QA workflows and enhancing AI-driven testing capabilities.
+			</li><br>
+			<li>
+				Achieved <strong>Tricentis Tosca Consultant Certification</strong>, demonstrating expertise in modern test automation tools.
+			</li><br>
+			<li>
+				Collaborated with <strong>cross-functional teams</strong> to align objectives and optimize development processes for timely project delivery.
+			</li><br>
+		</ul>
+	</details>
 </div>
 
 <div class="details-section details-section-color011">
 	<strong>Research Assistant</strong> | Oct 2021 – Jan 2023
 	<br><em>Singapore Institute of Technology, Singapore</em>
+	
+	<details>
+		<summary>Details</summary>
 
-	<p class="details-decription text-justify">Conducted <strong>quantitative data</strong> analysis and developed an <strong>Excel-based data capture system</strong>, improving data organization and streamlining team workflows.</p>
+		<p class="details-decription text-justify">Conducted <strong>quantitative data</strong> analysis and developed an <strong>Excel-based data capture system</strong>, improving data organization and streamlining team workflows.</p>
 
-	<ul class="text-justify">
-		<li><strong>Project Blended Design and Critical Thinking</strong><br>Supported a <strong>SIT ALIGN-funded research initiative</strong> through <strong>lesson observations</strong> and <strong>literature reviews</strong>, contributing insights that informed project design and critical thinking frameworks.</li><br>
-	</ul>
+		<ul class="text-justify">
+			<li>
+				<strong>Project Blended Design and Critical Thinking</strong><br>
+				Supported a <strong>SIT ALIGN-funded research initiative</strong> through <strong>lesson observations</strong> and <strong>literature reviews</strong>, contributing insights that informed project design and critical thinking frameworks.
+			</li><br>
+		</ul>
+	</details>
 </div>
 
-<div class="details-section details-section-color011">
-	<strong>Store Incharge</strong> <span class="pill-badge-outline pill-badge-outline-info">National Service</span> | Dec 2019 – Aug 2021
-	<br><em>Republic of Singapore Air Force, Singapore</em>
+---
 
-	<p class="details-decription text-justify">As part of the infrastructure team, I managed external contractors to ensure smooth project execution and adherence to timelines. Additionally, I supported the unit's procurement processes, raising purchase requisitions and assisting in finance audit processes as a member of the finance team. My contributions helped ensure the efficient operations and resource management of multiple logistical aspects within the unit.</p>
+## Internships
+
+<div class="details-section details-section-color011">
+	<strong>IT Project Management Intern</strong> | Aug 2023 – Apr 2024
+	<br><em>ASM International N.V., Singapore</em>
 
 	<details>
-		<summary>View Achievements</summary>
-		<br>
-	
-		<strong>Budget Planning</strong>
-		<ul>
-			<li>Assisted in annual budget planning by analyzing three years of expense data to improve forecasting accuracy for the FY21/22 budget.</li>
-			<li>Leveraged historical data and quarter-on-quarter analysis to forecast budgets amid the COVID-19 transition period.</li>
-			<li>Applied manual analysis methods, including linear regression and moving averages, to identify financial trends and improve budget accuracy.</li>
-			<li>Enhanced forecasting precision by breaking down expenses into subcategories and analyzing each independently.</li>
-		</ul>
-	
-		<strong>Infrastructural Improvements</strong>
-		<ul>
-			<li>Prepared clearance forms to facilitate contractor work, ensuring compliance with regulations and streamlining workflows.</li>
-			<li>Oversaw contractors and tracked major infrastructure projects such as anti-slip tile installations, energy-efficient LED upgrades, and comprehensive toilet renovations.</li>
-			<li>Coordinated routine contractor services like tank inspections and pest control, ensuring adherence to schedules and quality standards.</li>
-		</ul>
-	
-		<strong>National Day Parade 2020</strong>
-		<ul>
-			<li>Contributed to the management of bus dispatching for parade participants, ensuring timely and efficient transport.</li>
-			<li>Identified communication gaps and logistical inefficiencies during the event, leading to process improvements.</li>
-			<li>Developed a Telegram chatbot to streamline on-site communication, enabling real-time access to relevant data and improving information availability.</li>
-			<li>Enhanced the efficiency and accuracy of logistics coordination, resulting in smoother operations and setting a new communication standard for large-scale events.</li>
-		</ul>
+		<summary>Details</summary>
 
-		<strong>Letter of Commendation</strong>
-		<ul>
-			<li>Awarded Letter of Commendation for Best Airman of the Month for January 2021.</li>
+		<p class="details-decription text-justify">Supported the management of multiple <strong>IT projects</strong>, improving project execution efficiency and streamlining administrative workflows.</p>
+
+		<ul class="text-justify">
+			<li>
+				<strong>Project Panaya</strong><br>
+				Led the <strong>onboarding and implementation</strong> of Panaya, a <strong>web-based SAP test management and automation solution</strong> replacing the company’s Excel-based tracking system. Developed comprehensive <strong>user documentation</strong> and coordinated with stakeholders to ensure smooth adoption and successful rollout.
+			</li><br>
+			<li>
+				<strong>Project Variant Configurator (VC) Phase 2</strong><br>
+				Assisted in <strong>System Integration Testing (SIT)</strong>, <strong>User Acceptance Testing (UAT)</strong>, and <strong>Go-Live</strong> activities; coordinated onsite efforts to ensure seamless execution.
+			</li><br>
+			<li>
+				<strong>Project TRANS4M</strong><br>
+				Managed <strong>administrative and logistics support</strong>, enhancing coordination and overall project efficiency.
+			</li><br>
 		</ul>
 	</details>
 </div>
@@ -214,14 +206,54 @@
 	<strong>Software Development Intern</strong> | Apr 2018 – Aug 2018
 	<br><em>KEYfields Pte. Ltd., Singapore</em>
 
-	<p class="details-decription text-justify">Conducted research and development using <strong>C#, ASP.NET, and MS SQL</strong>, improving overall application performance and user experience</p>
+	<details>
+		<summary>Details</summary>
 
-	<ul class="text-justify">
-		<li><strong>Route Optimization Algorithm</strong><br>Designed and implemented a route optimization algorithm leveraging the <strong>Google Maps API</strong> to solve the <strong>Traveling Salesman Problem</strong>, increasing route-planning efficiency <strong>by over 70%</strong>.</li><br>
-		<li><strong>National Trade Platform (NTP)</strong><br>Contributed to the National Trade Platform (NTP) project in collaboration with <strong>Singapore Customs</strong> and <strong>Accenture</strong>, developing <strong>API functions</strong> and <strong>data transformation processes</strong> to enhance system integration and streamline trade operations.</li><br>
-		<li><strong>Backup Checker</strong><br>Built a Backup Checker console tool to monitor backup files and detect anomalies, strengthening <strong>data security and system reliability.</strong></li><br>
-		<li><strong>Brute Force Attack Detection</strong><br>Detected and analyzed <strong>SQL Server brute-force attacks</strong>, producing mitigation recommendations that improved <strong>system resilience and security posture.</strong></li><br>
-	</ul>
+		<p class="details-decription text-justify">Conducted research and development using <strong>C#, ASP.NET, and MS SQL</strong>, improving overall application performance and user experience</p>
+
+		<ul class="text-justify">
+			<li>
+				<strong>Route Optimization Algorithm</strong><br>
+				Designed and implemented a route optimization algorithm leveraging the <strong>Google Maps API</strong> to solve the <strong>Traveling Salesman Problem</strong>, increasing route-planning efficiency <strong>by over 70%</strong>.
+			</li><br>
+			<li>
+				<strong>National Trade Platform (NTP)</strong><br>
+				Contributed to the National Trade Platform (NTP) project in collaboration with <strong>Singapore Customs</strong> and <strong>Accenture</strong>, developing <strong>API functions</strong> and <strong>data transformation processes</strong> to enhance system integration and streamline trade operations.
+			</li><br>
+			<li>
+				<strong>Backup Checker</strong><br>
+				Built a Backup Checker console tool to monitor backup files and detect anomalies, strengthening <strong>data security and system reliability.</strong>
+			</li><br>
+			<li>
+				<strong>Brute Force Attack Detection</strong><br>
+				Detected and analyzed <strong>SQL Server brute-force attacks</strong>, producing mitigation recommendations that improved <strong>system resilience and security posture.</strong>
+			</li><br>
+		</ul>
+	</details>
+</div>
+
+---
+
+## National Service
+
+<div class="details-section details-section-color011">
+	<strong>Store Incharge</strong> <span class="pill-badge-outline pill-badge-outline-info">National Service</span> | Dec 2019 – Aug 2021
+	<br><em>Republic of Singapore Air Force, Singapore</em>
+	<details>
+		<summary>Details</summary>
+
+		<ul class="text-justify">
+			<li>
+				Managed <strong>unit procurement finances</strong> and oversaw <strong>building operations</strong>, improving operational efficiency and fostering effective communication with contractors.
+			</li><br>
+			<li>
+				Assisted in <strong>annual budget planning</strong> by analyzing three years of expense data, enhancing financial forecasting and resource allocation.
+			</li><br>
+			<li>
+				Supervised <strong>infrastructural improvement projects</strong> and optimized tracking using advanced <strong>Excel tools</strong>, resulting in more efficient project management and stronger vendor relationships.
+			</li><br>
+		</ul>
+	</details>
 </div>
 
 ---
@@ -454,16 +486,8 @@
 </div>
 
 <div class="details-section details-section-color021">
-	<strong>Singapore-Cambridge GCE Ordinary Level | 2015  </strong>
+	<strong>Singapore-Cambridge GCE O Level | 2015  </strong>
 	<br>Woodgrove Secondary School
-
-	<details>
-		<summary>View Details</summary>
-
-		<strong>CCA Details</strong><br>
-		CCA: Green Activist Club<br>
-		Position: Vice Chairman
-	</details>
 </div>
 
 ---
