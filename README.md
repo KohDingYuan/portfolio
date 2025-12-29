@@ -119,7 +119,7 @@
 <strong></strong>
 
 <div class="details-section details-section-color010">
-	<strong>Senior Software Engineer</strong> | Aug 2023 – Now
+	<strong>Senior Software Engineer</strong> | Apr 2025 – Now
 	<br><em>Capgemini Singapore Pte. Ltd., Singapore</em>  
 
 	<ul class="text-justify">
