@@ -201,7 +201,7 @@
 	<p class="details-decription text-justify">Conducted research and development using <strong>C#, ASP.NET, and MS SQL</strong>, improving overall application performance and user experience</p>
 
 	<ul class="text-justify">
-		<li><strong><strong>Route Optimization Algorithm</strong><br>Designed and implemented a route optimization algorithm leveraging the <strong>Google Maps API</strong> to solve the <strong>Traveling Salesman Problem</strong>, increasing route-planning efficiency <strong>by over 70%</strong>.</li><br>
+		<li><strong>Route Optimization Algorithm</strong><br>Designed and implemented a route optimization algorithm leveraging the <strong>Google Maps API</strong> to solve the <strong>Traveling Salesman Problem</strong>, increasing route-planning efficiency <strong>by over 70%</strong>.</li><br>
 		<li><strong>National Trade Platform (NTP)</strong><br>Contributed to the National Trade Platform (NTP) project in collaboration with <strong>Singapore Customs</strong> and <strong>Accenture</strong>, developing <strong>API functions</strong> and <strong>data transformation processes</strong> to enhance system integration and streamline trade operations.</li><br>
 		<li><strong>Backup Checker</strong><br>Built a Backup Checker console tool to monitor backup files and detect anomalies, strengthening <strong>data security and system reliability.</strong></li><br>
 		<li><strong>Brute Force Attack Detection</strong><br>Detected and analyzed <strong>SQL Server brute-force attacks</strong>, producing mitigation recommendations that improved <strong>system resilience and security posture.</strong></li><br>
