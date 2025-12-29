@@ -122,9 +122,13 @@
 </div>
 
 ---
+<strong></strong>
+
 
 ## Profile
-<p class="text-justify">Dynamic Senior Software Engineer with over three years of experience in optimizing software performance and managing intricate IT projects. Expertise in automation tool development and data management facilitates innovative solutions that significantly enhance operational efficiency. Proven ability to streamline workflows and elevate team collaboration through strong communication and technical skills. Committed to leveraging analytical capabilities to drive impactful software engineering initiatives and deliver exceptional results.</p>
+<p class="text-justify">
+	Dynamic <strong>Software Engineer</strong> with over <strong>three years of experience</strong> in <strong>optimizing software performance</strong> and <strong>managing intricate IT projects</strong>. Expertise in <strong>automation tool development</strong> and <strong>data management</strong> facilitates innovative solutions that significantly <strong>enhance operational efficiency</strong>. Proven ability to <strong>streamline workflows</strong> and elevate team collaboration through strong communication and technical skills. Committed to leveraging <strong>analytical capabilities</strong> to <strong>drive impactful software engineering initiatives</strong> and deliver exceptional results.
+</p>
 
 ---
 
