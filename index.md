@@ -407,6 +407,7 @@
 	<strong>BSc (Hons) Computing Science | Oct 2024</strong>
 	<br>Singapore Institute of Technology & University of Glasgow  
 	<br><em>Specialization in Internet of Things (IOT)</em>
+	<br><br><em>Three-year direct honors degree program jointly offered by Singapore Institute of Technology (SIT) and the University of Glasgow (UofG).</em>
 </div>
 
 <div class="details-section details-section-color021">
