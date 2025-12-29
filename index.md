@@ -110,6 +110,22 @@
 
 *For PDF resume format, download [here](./assets/files/KohDingYuan_Resume.pdf).*
 
+
+<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <div style="flex: 0 0 150px;">
+    <img src="./assets/images/qr_code.png" alt="QR Code" style="width: 100%; height: auto;">
+  </div>
+
+  <div style="flex: 1;">
+    <h2>Scan Me!</h2>
+    <p>
+		Singapore<br><br>
+		kdingyuan@gmail.com<br><br>
+		<a href="https://www.linkedin.com/in/kohdy/" target="_blank">www.linkedin.com/in/kohdy/</a><br><br>
+    </p>
+  </div>
+</div>
+
 ---
 
 ## Experience
