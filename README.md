@@ -124,9 +124,9 @@
 
 	<p class="details-decription text-justify">Supported the management of multiple <strong>IT projects</strong>, improving project execution efficiency and streamlining administrative workflows.</p>
 	<ul class="text-justify">
-		<li><strong>Project Panaya</strong>: Led the <strong>onboarding and implementation</strong> of Panaya, a <strong,>web-based SAP test management and automation solution</strong, replacing the company’s Excel-based tracking system. Developed comprehensive <strong>user documentation</strong> and coordinated with stakeholders to ensure smooth adoption and successful rollout.</li>
-		<li><strong>Project Variant Configurator (VC) Phase 2</strong>: Assisted in <strong>System Integration Testing (SIT)</strong>, <strong>User Acceptance Testing (UAT)</strong>, and <strong>Go-Live</strong> activities; coordinated onsite efforts to ensure seamless execution.</li>
-		<li><strong>Project TRANS4M</strong>: Managed <strong>administrative and logistics support</strong>, enhancing coordination and overall project efficiency.</li>
+		<li><strong>Project Panaya</strong><br>Led the <strong>onboarding and implementation</strong> of Panaya, a <strong>web-based SAP test management and automation solution</strong> replacing the company’s Excel-based tracking system. Developed comprehensive <strong>user documentation</strong> and coordinated with stakeholders to ensure smooth adoption and successful rollout.</li>
+		<li><strong>Project Variant Configurator (VC) Phase 2</strong><br>Assisted in <strong>System Integration Testing (SIT)</strong>, <strong>User Acceptance Testing (UAT)</strong>, and <strong>Go-Live</strong> activities; coordinated onsite efforts to ensure seamless execution.</li>
+		<li><strong>Project TRANS4M</strong><br>Managed <strong>administrative and logistics support</strong>, enhancing coordination and overall project efficiency.</li>
 	</ul>
 </div>
 
@@ -134,19 +134,11 @@
 	<strong>Research Assistant</strong> | Oct 2021 – Jan 2023
 	<br><em>Singapore Institute of Technology, Singapore</em>
 
-	<p class="details-decription text-justify">Conducted advanced quantitative analyses, led a team to ensure efficient and accurate data processing, and developed an Excel-based tracking system to facilitate coordination among the team.</p>
+	<p class="details-decription text-justify">Conducted <strong>quantitative data</strong> analysis and developed an <strong>Excel-based data capture system</strong>, improving data organization and streamlining team workflows.</p>
 
-	<details>
-		<summary>View Achievements</summary>
-		<br>
-
-		<strong>Project Blended Design and Critical Thinking</strong>
-		<ul>
-			<li>Assisted in a large-scale SIT ALIGN funded project aimed at developing critical thinking skills in undergraduates across multiple programmes in SIT.</li>
-			<li>Performed lesson observations and conducted comprehensive literature reviews.</li>
-			<li>Encoded data from lesson observations for subsequent processing and analysis.</li>
-		</ul>
-	</details>
+	<ul class="text-justify">
+		<li><strong>Project Blended Design and Critical Thinking</strong><br>Supported a <strong>SIT ALIGN-funded research initiative</strong> through <strong>lesson observations</strong> and <strong>literature reviews</strong>, contributing insights that informed project design and critical thinking frameworks.
+	</ul>
 </div>
 
 <div class="details-section details-section-color011">
