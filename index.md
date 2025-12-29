@@ -130,7 +130,7 @@
 
 ## Professional Experience
 
-<div class="details-section details-section-color010">
+<div class="details-section details-section-color050">
 	<strong>Senior Software Engineer</strong> | Apr 2025 – Now
 	<br><em>Capgemini Singapore Pte. Ltd., Singapore</em>  
 
@@ -154,7 +154,7 @@
 	</details>
 </div>
 
-<div class="details-section details-section-color011">
+<div class="details-section details-section-color051">
 	<strong>Research Assistant</strong> | Oct 2021 – Jan 2023
 	<br><em>Singapore Institute of Technology, Singapore</em>
 	
@@ -176,7 +176,7 @@
 
 ## Internships
 
-<div class="details-section details-section-color011">
+<div class="details-section details-section-color010">
 	<strong>IT Project Management Intern</strong> | Aug 2023 – Apr 2024
 	<br><em>ASM International N.V., Singapore</em>
 
@@ -236,8 +236,8 @@
 
 ## National Service
 
-<div class="details-section details-section-color011">
-	<strong>Store Incharge</strong> <span class="pill-badge-outline pill-badge-outline-info">National Service</span> | Dec 2019 – Aug 2021
+<div class="details-section details-section-color040">
+	<strong>Store Incharge</strong>| Dec 2019 – Aug 2021
 	<br><em>Republic of Singapore Air Force, Singapore</em>
 	<details>
 		<summary>Details</summary>
